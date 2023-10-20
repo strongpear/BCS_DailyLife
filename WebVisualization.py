@@ -93,4 +93,5 @@ def load_graph(subjectNumber, tempMin, tempMax):
     return figure
 
 # Run server
-app.run_server(debug=True, use_reloader=True)
+if __name__ == '__main__':
+    app.run(debug=True, use_reloader=True)
