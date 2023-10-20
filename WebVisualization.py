@@ -1,13 +1,12 @@
 import pandas as pd
 from dash import Dash, html, dcc
-import pickle
 import plotly.express as px
 from dash.dependencies import Input, Output
 import numpy as np
 
 
 # Load data
-df = pickle.load(open('dataFinished', 'rb'))
+df = pd.read_csv(open('dataFinished.csv', 'rb'))
 df['Stress Rating'] = [str(i) for i in df['Stress Rating']]
 
 # Test Figure
