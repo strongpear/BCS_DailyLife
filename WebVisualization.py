@@ -26,6 +26,7 @@ df['Stress Rating'] = [str(i) for i in df['Stress Rating']]
 # Initialize app
 app = Dash(__name__)
 
+server = app.server
 
 # Html of App
 app.layout = html.Div([
