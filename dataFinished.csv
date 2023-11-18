@@ -1,10 +1,10 @@
 ,X Coordinate,Y Coordinate,Stress Rating,Timestamp,Element,Subject Number,Temperature (C),Temperature (F)
-0,30.623220000000003,-96.34949,4.0,1612992448350,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S1,5.6,42.0
+0,30.623220000000003,-96.34949,4.0,161299337142448350,"['Crosswalk and pedestrian light missing', 'Litter', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S1,5.6,42.0
 1,30.62422,-96.34749000000001,5.0,1612992644700,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'High speed of traffic', 'One way road with two way traffic and a culvert on side.']",S1,5.6,42.0
-2,30.622590000000002,-96.35242000000001,3.0,1613084007760,"['Poor walking surface', 'No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)']",S1,1.7,35.0
+2,30.622590000000002,-96.35242000000001,3.0,1613084007760,"['Poor walking surface', 'No sidewalk', 'Litter']",S1,1.7,35.0
 3,30.618060000000003,-96.34795000000001,3.0,1613860719600,['Blocked sidewalk'],S1,15.6,60.0
 4,30.62036,-96.34728000000001,2.0,1614124137000,['water draining'],S1,24.4,76.0
-5,30.623670000000004,-96.34979000000001,3.0,1614123723000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S1,24.4,76.0
+5,30.623670000000004,-96.34979000000001,3.0,1614123723000,"['Litter', 'Poor walking surface', 'No sidewalk']",S1,24.4,76.0
 6,30.62056,-96.34671,4.0,1614302580600,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'Lack of street lights']",S1,16.1,61.0
 7,30.61351,-96.34127000000001,1.0,1613004211500,['High speed of traffic'],S2,4.4,40.0
 8,30.615530000000003,-96.34312000000001,1.0,1613005110000,['Weather condition'],S2,4.4,40.0
@@ -28,13 +28,13 @@
 26,30.607540000000004,-96.34232,1.0,1614142928550,['Rowdy people'],S2,16.1,61.0
 27,30.61268,-96.34384000000001,1.0,1614145887300,['Lack of street lights'],S2,16.1,61.0
 28,30.623350000000002,-96.34526000000001,2.0,1612996895250,"['Weather condition', 'mosquito']",S3,5.0,41.0
-29,30.619380000000003,-96.34654,1.0,1612998499200,"['Litter (dumping, broken glass weeds, graffiti)']",S3,5.0,41.0
+29,30.619380000000003,-96.34654,1.0,1612998499200,"['Litter']",S3,5.0,41.0
 30,30.62637,-96.35145000000001,3.0,1613007409500,"['No sidewalk', 'Lack of street lights', 'Weather condition']",S3,3.9,39.0
 31,30.622590000000002,-96.34228,2.0,1613088387600,"['Abandoned vehicle', 'Weather condition']",S3,0.6,33.0
 32,30.62271,-96.34656000000001,3.0,1613088785100,"['No sidewalk', 'Lack of street lights']",S3,0.6,33.0
 33,30.619950000000003,-96.34981,4.0,1613263612800,"['No sidewalk', 'Lack of street lights', 'Abandoned vehicle', 'Weather condition']",S3,-0.6,31.0
 34,30.620400000000004,-96.35028000000001,3.0,1613704677150,"['No sidewalk', 'Lack of street lights', 'Abandoned vehicle']",S3,-2.2,28.0
-35,30.620720000000002,-96.35257000000001,3.0,1613865107400,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle']",S3,15.6,60.0
+35,30.620720000000002,-96.35257000000001,3.0,1613865107400,"['Crosswalk and pedestrian light missing', 'Litter', 'Abandoned vehicle']",S3,15.6,60.0
 36,30.624430000000004,-96.34796000000001,3.0,1613966238000,"['No sidewalk', 'Lack of street lights']",S3,15.6,60.0
 37,30.621480000000002,-96.34605,2.0,1614134272500,['Lack of street lights'],S3,20.0,68.0
 38,30.622690000000002,-96.34098,1.0,1614210813000,['High speed of traffic'],S3,26.1,79.0
@@ -65,13 +65,13 @@
 63,30.618850000000002,-96.34516,3.0,1614366865800,"[""Couldn't figure out how to turn onto one way street and got a little lost. no turn lane.""]",S4,15.0,59.0
 64,30.603730000000002,-96.34053,3.0,1614367563900,"['Blind turn for the other car and they pulled out in front of me right after I turned into George Bush and it caught me off guard.', 'tree branches in way of walking path.']",S4,15.0,59.0
 65,30.597490000000004,-96.33848,3.0,1614372761250,"['High speed of traffic', 'Turn lane cam up very quick after the light; high speed of traffic.', 'No sidewalk']",S4,16.7,62.0
-66,30.597060000000003,-96.33906,4.0,1614372855000,"['Litter (dumping, broken glass weeds, graffiti)']",S4,16.7,62.0
+66,30.597060000000003,-96.33906,4.0,1614372855000,"['Litter']",S4,16.7,62.0
 67,30.59936,-96.33860000000001,2.0,1614372480000,['tree branches in way of walking path.'],S4,16.7,62.0
 68,30.625860000000003,-96.34485000000001,5.0,1614467983350,"['High speed of traffic', 'Poor walking surface', 'No sidewalk']",S4,23.9,75.0
 69,30.624910000000003,-96.34675000000001,4.0,1614467733450,"['Poor walking surface', 'No sidewalk', 'High speed of traffic']",S4,23.9,75.0
 70,30.622570000000003,-96.34240000000001,3.0,1614468840150,"['High speed of traffic', 'Poor walking surface', 'No sidewalk']",S4,23.9,75.0
 71,30.620800000000003,-96.34657000000001,3.0,1614548542500,['No sidewalk'],S4,27.8,82.0
-72,30.622470000000003,-96.34633000000001,3.0,1614549465900,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Lack of crosswalk']",S4,27.8,82.0
+72,30.622470000000003,-96.34633000000001,3.0,1614549465900,"['Litter', 'Poor walking surface', 'Lack of crosswalk']",S4,27.8,82.0
 73,30.62252,-96.34758000000001,2.0,1614549337650,['No sidewalk'],S4,27.8,82.0
 74,30.617890000000003,-96.34632,4.0,1614610714200,"['High speed of traffic', 'Weather condition', 'sidewalk super close to University Dr but before the railing begins. Stressed that I would get water splashed on me by the cars driving by (since it was raining).']",S4,10.0,50.0
 75,30.614940000000004,-96.34993000000001,3.0,1614611014350,"['Weather condition', 'Was nervous; since the sidewalk is relatively close to the road; that a car would drive in a puddle and splash water on me since it was raining.']",S4,10.0,50.0
@@ -82,7 +82,7 @@
 80,30.6048,-96.33923000000001,3.0,1614728486700,"['Had to cross the street to the other side to get to the sidewalk.', 'When there is a line of cars waiting at the light on george bush; you cannot see the cars trying to turn left in front of you; and they cannot see you; so as you turn onto george bush and pick up speed; people pull out in front of you.']",S4,17.8,64.0
 81,30.60912,-96.34246,3.0,1614728437200,['Narrow lanes and people suddenly break in the middle of the road due to no turn lanes next to the railroad.'],S4,17.8,64.0
 82,30.600020000000004,-96.33956,2.0,1614729842100,"['When there is a line of cars waiting at the light on george bush; you cannot see the cars trying to turn left in front of you; and they cannot see you; so as you turn onto george bush and pick up speed; people pull out in front of you.', 'Tree branch in the way of the path.']",S4,16.1,61.0
-83,30.597600000000003,-96.33822,4.0,1614730250850,"['Litter (dumping, broken glass weeds, graffiti)', 'Narrow lanes and people suddenly break in the middle of the road due to no turn lanes next to the railroad.', 'No sidewalk']",S4,16.1,61.0
+83,30.597600000000003,-96.33822,4.0,1614730250850,"['Litter', 'Narrow lanes and people suddenly break in the middle of the road due to no turn lanes next to the railroad.', 'No sidewalk']",S4,16.1,61.0
 84,30.614870000000003,-96.35002000000001,3.0,1614783888750,"['High speed of traffic', 'The sidewalk was flooded with gross looking water; and so was the grass on the side furthest from the street so I had to walk on the grass closer to the road with high speed traffic to get around.']",S4,10.0,50.0
 85,30.613770000000002,-96.35293000000001,2.0,1614784185750,"['have to walk through parking lot', 'No sidewalk']",S4,10.0,50.0
 86,30.61493,-96.34934000000001,3.0,1614788723400,"['High speed of traffic', 'There was a portion of the sidewalk and grass that was flooded so I had to walk really close to the road to get around it without sinking my shoes in mud.', 'Poor walking surface']",S4,12.8,55.0
@@ -98,10 +98,10 @@
 96,30.623980000000003,-96.34456,4.0,1614996824100,['Crosswalk and pedestrian light missing'],S6,17.8,64.0
 97,30.623110000000004,-96.34704,2.0,1615144542000,['Poor walking surface'],S6,18.3,65.0
 98,30.624560000000002,-96.34724000000001,4.0,1615246789050,['No sidewalk'],S6,22.2,72.0
-99,30.61859,-96.34954,2.0,1614036643500,"['Litter (dumping, broken glass weeds, graffiti)']",S7,22.2,72.0
-100,30.61868,-96.34955000000001,2.0,1614040193700,"['Litter (dumping, broken glass weeds, graffiti)']",S7,19.4,67.0
+99,30.61859,-96.34954,2.0,1614036643500,"['Litter']",S7,22.2,72.0
+100,30.61868,-96.34955000000001,2.0,1614040193700,"['Litter']",S7,19.4,67.0
 101,30.61558,-96.33909000000001,1.0,1614565926000,['Steep sidewalk slope'],S7,23.9,75.0
-102,30.617050000000003,-96.34664000000001,1.0,1614567838200,"['High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S7,23.3,74.0
+102,30.617050000000003,-96.34664000000001,1.0,1614567838200,"['High speed of traffic', 'Rowdy people', 'Litter']",S7,23.3,74.0
 103,30.62017,-96.35002000000001,1.0,1615259463000,"['Poor walking surface', 'No sidewalk', 'Lack of street lights']",S7,17.2,63.0
 104,30.59935,-96.34446000000001,2.0,1615317851700,['High speed of traffic'],S8,23.9,75.0
 105,30.60432,-96.33962000000001,1.0,1615331925000,['construction'],S8,23.3,74.0
@@ -186,8 +186,8 @@
 184,30.621570000000002,-96.34246,1.0,1617233829600,['very heavy traffic'],S8,20.0,68.0
 185,30.617020000000004,-96.34394,1.0,1617234776700,"['Rowdy people', 'Poor walking surface']",S8,20.0,68.0
 186,30.621160000000003,-96.34441000000001,2.0,1615439250600,"['Poor walking surface', 'No sidewalk']",S9,21.1,70.0
-187,30.621640000000003,-96.34522000000001,1.0,1615441099200,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S9,21.1,70.0
-188,30.6182,-96.34777000000001,1.0,1617053629200,"['Litter (dumping, broken glass weeds, graffiti)']",S9,23.3,74.0
+187,30.621640000000003,-96.34522000000001,1.0,1615441099200,"['Litter', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S9,21.1,70.0
+188,30.6182,-96.34777000000001,1.0,1617053629200,"['Litter']",S9,23.3,74.0
 189,30.62,-96.35107,1.0,1617053996400,['No sidewalk'],S9,23.3,74.0
 190,30.620500000000003,-96.35024000000001,1.0,1617054126000,['No sidewalk'],S9,23.3,74.0
 191,30.618450000000003,-96.34743,1.0,1617054428400,['Blocked sidewalk'],S9,23.3,74.0
@@ -231,13 +231,13 @@
 229,30.613580000000002,-96.34490000000001,2.0,1615691793000,['bell tower rang and there was a sudden gust of wind.'],S16,21.1,70.0
 230,30.612720000000003,-96.34423000000001,5.0,1615691893800,['16'],S16,21.1,70.0
 231,30.615470000000002,-96.34187000000001,3.0,1615692523800,['Rowdy people'],S16,21.1,70.0
-232,29.72228,-95.80346,1.0,1615864776600,"['Litter (dumping, broken glass weeds, graffiti)']",S16,22.0,72.0
+232,29.72228,-95.80346,1.0,1615864776600,"['Litter']",S16,22.0,72.0
 233,29.721290000000003,-95.80067000000001,4.0,1615865523900,['Unattended dogs'],S16,22.0,72.0
 234,29.72295,-95.80096,2.0,1615865693100,['Unattended dogs'],S16,22.0,72.0
 235,30.613390000000003,-96.35063000000001,2.0,1616034474300,"[""american flags on hanging in people's driveways"", 'poor road conditions']",S16,16.7,62.0
 236,29.722620000000003,-95.79989,2.0,1616034193500,['really LARGE ant hill. like; it was at least a foot long.'],S16,19.0,66.0
 237,29.723070000000003,-95.79999000000001,3.0,1616034123300,['Weather condition'],S16,19.0,66.0
-238,30.598300000000002,-96.31771,3.0,1616115213600,"['Litter (dumping, broken glass weeds, graffiti)', 'poor road conditions']",S16,17.2,63.0
+238,30.598300000000002,-96.31771,3.0,1616115213600,"['Litter', 'poor road conditions']",S16,17.2,63.0
 239,29.72219,-95.80343,3.0,1616115917400,['GIGANTIC ant hill'],S16,14.0,57.0
 240,29.7206,-95.8054,3.0,1616115642000,['High speed of traffic'],S16,14.0,57.0
 241,29.78414,-95.77688,3.0,1616204271000,['slow truck at light'],S16,13.0,55.0
@@ -261,7 +261,7 @@
 259,30.616500000000002,-96.3434,3.0,1616645084400,"['Rowdy people', 'encountered group of three people climbing into water fountain']",S16,19.4,67.0
 260,30.611500000000003,-96.34209000000001,3.0,1616646007800,['man walking behind me'],S16,19.4,67.0
 261,30.613930000000003,-96.34502,5.0,1616646348000,['police car slowed down next to me (I realized a second later it was because of a stop sign)'],S16,19.4,67.0
-262,30.614290000000004,-96.34499000000001,3.0,1616646396600,"['Litter (dumping, broken glass weeds, graffiti)', 'thought a branch on a ground was a small animal']",S16,19.4,67.0
+262,30.614290000000004,-96.34499000000001,3.0,1616646396600,"['Litter', 'thought a branch on a ground was a small animal']",S16,19.4,67.0
 263,30.6167,-96.34636,4.0,1616800467900,['my friend was turning and there was a car coming towards us'],S16,27.2,81.0
 264,30.61858,-96.32359000000001,2.0,1616800893600,['roads were confusing; thought we missed a turn'],S16,27.2,81.0
 265,30.62329,-96.32948,3.0,1616803899600,['made eye contact with guy in car who spit something out of his window next to us'],S16,26.1,79.0
@@ -273,7 +273,7 @@
 271,30.616280000000003,-96.34296,3.0,1616904247800,['Rowdy people'],S16,21.7,71.0
 272,30.612700000000004,-96.34247,2.0,1616903706000,"['High speed of traffic', 'Rowdy people', 'people on scooters turned right as I was about to cross the street']",S16,22.8,73.0
 273,30.617050000000003,-96.34213000000001,3.0,1616972768400,['man appeared out of nowhere; scared me'],S16,22.8,73.0
-274,30.617230000000003,-96.34068,2.0,1616972932200,"['Litter (dumping, broken glass weeds, graffiti)', 'dumpsters']",S16,22.8,73.0
+274,30.617230000000003,-96.34068,2.0,1616972932200,"['Litter', 'dumpsters']",S16,22.8,73.0
 275,30.615070000000003,-96.34174,3.0,1616973348000,['people taking pictures for graduation without their masks on; visitors without masks'],S16,22.8,73.0
 276,30.613020000000002,-96.34492,3.0,1616974500300,"['High speed of traffic', 'car about to run me over :(']",S16,22.8,73.0
 277,30.619790000000002,-96.34009,3.0,1617072268500,"['Crosswalk and pedestrian light missing', 'Lack of street lights']",S16,18.9,66.0
@@ -291,7 +291,7 @@
 289,30.623530000000002,-96.34056000000001,2.0,1616122520400,['Rowdy people'],S18,12.8,55.0
 290,30.597630000000002,-96.33816,3.0,1616179671600,['reckless driving'],S18,16.1,61.0
 291,30.624430000000004,-96.34796000000001,3.0,1616181013200,"['No sidewalk', 'Lack of street lights']",S18,16.7,62.0
-292,30.629700000000003,-96.34132000000001,2.0,1616296957500,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S18,14.4,58.0
+292,30.629700000000003,-96.34132000000001,2.0,1616296957500,"['Litter', 'Lack of street lights']",S18,14.4,58.0
 293,30.622690000000002,-96.34098,1.0,1616373224400,['High speed of traffic'],S18,20.6,69.0
 294,30.623670000000004,-96.34152,2.0,1616385955200,"['Lack of street lights', 'High speed of traffic', 'Rowdy people']",S18,15.6,60.0
 295,30.62928,-96.33943000000001,3.0,1616557864800,['I needed to restart the phone to ensure it tracked the walk'],S18,17.8,64.0
@@ -300,7 +300,7 @@
 298,30.59512,-96.34078000000001,2.0,1616992091100,['bad driver'],S18,13.9,57.0
 299,30.62469,-96.34148,2.0,1617163873200,['High speed of traffic'],S18,23.9,75.0
 300,30.623870000000004,-96.33944000000001,2.0,1617422115000,['Rowdy people'],S18,14.4,58.0
-301,30.62835,-96.34218000000001,3.0,1617507394200,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S18,15.0,59.0
+301,30.62835,-96.34218000000001,3.0,1617507394200,"['High speed of traffic', 'Litter']",S18,15.0,59.0
 302,30.62937,-96.33941,2.0,1617598978500,['Blocked sidewalk'],S18,15.6,60.0
 303,30.626680000000004,-96.35537000000001,5.0,1615904332800,['High speed of traffic'],S17,19.4,67.0
 304,30.624480000000002,-96.35219000000001,4.0,1615904431800,"['Poor walking surface', 'Lack of crosswalk']",S17,19.4,67.0
@@ -325,7 +325,7 @@
 323,30.639570000000003,-96.31125,3.0,1616107178100,['Merging onto feeder road'],S17,18.9,66.0
 324,30.619410000000002,-96.34618,2.0,1616120805600,['Pedestrians'],S17,12.8,55.0
 325,30.618850000000002,-96.34611000000001,3.0,1616121490800,"['Poor walking surface', 'Rowdy people', 'Rowdy people', 'Blocked sidewalk', 'Lack of crosswalk']",S17,12.8,55.0
-326,30.621290000000002,-96.34843000000001,4.0,1616122470000,"['Ice', 'Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Weather condition', 'Lack of street lights']",S17,12.8,55.0
+326,30.621290000000002,-96.34843000000001,4.0,1616122470000,"['Ice', 'Litter', 'Abandoned vehicle', 'Weather condition', 'Lack of street lights']",S17,12.8,55.0
 327,30.618530000000003,-96.34718000000001,2.0,1616121702000,['Rowdy people'],S17,12.8,55.0
 328,30.625500000000002,-96.33712000000001,2.0,1616186515200,['High speed of traffic'],S17,17.8,64.0
 329,30.616260000000004,-96.34254000000001,1.0,1616194762800,['Lack of crosswalk'],S17,18.3,65.0
@@ -340,7 +340,7 @@
 338,30.622580000000003,-96.34255,2.0,1616533911300,"['Rowdy people', 'Weather condition']",S17,25.0,77.0
 339,30.619870000000002,-96.34562000000001,2.0,1616534982300,['Rowdy people'],S17,25.0,77.0
 340,30.61942,-96.34445000000001,3.0,1616537008800,['High speed of traffic'],S17,26.1,79.0
-341,30.623300000000004,-96.34714000000001,2.0,1616625177600,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S17,19.4,67.0
+341,30.623300000000004,-96.34714000000001,2.0,1616625177600,"['Litter', 'Poor walking surface', 'No sidewalk']",S17,19.4,67.0
 342,30.629320000000003,-96.34930000000001,2.0,1616626041600,"['Unattended dogs', 'Poor walking surface', 'No sidewalk']",S17,19.4,67.0
 343,30.62986,-96.31772000000001,2.0,1616709678000,['Construction'],S17,22.8,73.0
 344,30.624460000000003,-96.34711000000001,2.0,1616715721800,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S17,22.8,73.0
@@ -352,7 +352,7 @@
 350,30.626260000000002,-96.34593000000001,1.0,1616890656000,"['Poor walking surface', 'No sidewalk']",S17,26.7,80.0
 351,30.624100000000002,-96.34806,2.0,1616978553000,"['Unattended dogs', 'Poor walking surface']",S17,21.7,71.0
 352,30.625600000000002,-96.35098,1.0,1616979498000,"['Poor walking surface', 'No sidewalk']",S17,21.7,71.0
-353,30.6228,-96.34697000000001,2.0,1616979918000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S17,19.4,67.0
+353,30.6228,-96.34697000000001,2.0,1616979918000,"['Litter', 'Poor walking surface', 'No sidewalk']",S17,19.4,67.0
 354,30.621660000000002,-96.34240000000001,3.0,1617038844000,['This walk was not registered; I walked with Laura Holloway to Rudder Plaza from taco bell.'],S17,20.6,69.0
 355,30.623420000000003,-96.33656,1.0,1617131787600,"['Lack of crosswalk', 'Lack of crosswalk']",S17,26.1,79.0
 356,30.609450000000002,-96.34774,1.0,1617143745600,['No sidewalk'],S17,27.8,82.0
@@ -407,7 +407,7 @@
 405,30.61961,-96.33894000000001,3.0,1616806836300,['High speed of traffic'],S22,24.4,76.0
 406,30.63388,-96.32211000000001,3.0,1616896482600,"['Poor walking surface', 'Blocked sidewalk']",S22,25.0,77.0
 407,30.574030000000004,-96.25413,4.0,1616974735200,['Poor walking surface'],S22,22.8,73.0
-408,30.555260000000004,-96.29313,4.0,1616980125600,"['Litter (dumping, broken glass weeds, graffiti)', 'High volume of traffic']",S22,19.4,67.0
+408,30.555260000000004,-96.29313,4.0,1616980125600,"['Litter', 'High volume of traffic']",S22,19.4,67.0
 409,30.584860000000003,-96.32613,3.0,1616980416000,['narrow access to flyover'],S22,19.4,67.0
 410,30.628850000000003,-96.38301000000001,3.0,1616983256400,['Confusing intersection'],S22,16.7,62.0
 411,30.635170000000002,-96.32114000000001,3.0,1617071370600,['Poor walking surface'],S22,18.9,66.0
@@ -417,7 +417,7 @@
 415,30.61642,-96.34387000000001,3.0,1617298698000,['Rowdy people'],S22,17.2,63.0
 416,30.618700000000004,-96.33969,3.0,1617299839800,['High speed of traffic'],S22,17.2,63.0
 417,30.614520000000002,-96.34094,3.0,1617317622000,['Bikers'],S22,20.6,69.0
-418,30.61389,-96.33965,3.0,1617317925600,"['Litter (dumping, broken glass weeds, graffiti)']",S22,20.6,69.0
+418,30.61389,-96.33965,3.0,1617317925600,"['Litter']",S22,20.6,69.0
 419,30.61708,-96.33826,3.0,1617384715500,['skaters'],S22,18.3,65.0
 420,30.616590000000002,-96.34367,3.0,1617385770600,"['Rowdy people', 'Poor walking surface']",S22,18.3,65.0
 421,30.617760000000004,-96.34106000000001,3.0,1617386265300,['High speed of traffic'],S22,18.3,65.0
@@ -435,20 +435,20 @@
 433,30.595810000000004,-96.33340000000001,2.0,1616033874000,['It was a busy intersection with a noisy road.'],S12,16.7,62.0
 434,30.326770000000003,-97.67109,3.0,1616212609800,['There was high speed traffic on a congested highway.'],S12,15.0,59.0
 435,30.621740000000003,-96.34335,3.0,1616377431000,['Lack of crosswalk'],S12,18.9,66.0
-436,30.620760000000004,-96.34292,2.0,1616376943500,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S12,18.9,66.0
+436,30.620760000000004,-96.34292,2.0,1616376943500,"['High speed of traffic', 'Litter']",S12,18.9,66.0
 437,30.618720000000003,-96.34876000000001,2.0,1616377918500,"['Rowdy people', 'Blocked sidewalk', 'Lack of crosswalk']",S12,18.9,66.0
 438,30.62168,-96.35709000000001,2.0,1616431257600,"['Poor walking surface', 'Blocked sidewalk', 'construction']",S12,17.2,63.0
 439,30.62524,-96.35303,2.0,1616431878600,['Unattended dogs'],S12,17.2,63.0
 440,30.62375,-96.35549,2.0,1616432430600,"['High speed of traffic', 'Blocked sidewalk', 'Lack of crosswalk']",S12,19.4,67.0
 441,30.619600000000002,-96.35172000000001,2.0,1616433052800,"['High speed of traffic', 'Blocked sidewalk', 'Lack of crosswalk']",S12,19.4,67.0
-442,30.626250000000002,-96.35408000000001,2.0,1616524185600,"['High speed of traffic', 'Tree missing', 'Blocked sidewalk', 'Litter (dumping, broken glass weeds, graffiti)']",S12,20.6,69.0
+442,30.626250000000002,-96.35408000000001,2.0,1616524185600,"['High speed of traffic', 'Tree missing', 'Blocked sidewalk', 'Litter']",S12,20.6,69.0
 443,30.618380000000002,-96.33869000000001,2.0,1616523822900,"['Rowdy people', 'Blocked sidewalk', 'No benches']",S12,20.6,69.0
 444,30.624230000000004,-96.34075000000001,4.0,1616526849000,"['High speed of traffic', 'Tree missing', 'No sidewalk', 'Lack of crosswalk']",S12,23.3,74.0
 445,30.621830000000003,-96.34354,3.0,1616527389000,"['High speed of traffic', 'Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk']",S12,23.3,74.0
 446,30.619880000000002,-96.34848000000001,2.0,1616527788900,['Blocked sidewalk'],S12,23.3,74.0
 447,30.623690000000003,-96.34485000000001,2.0,1616633589900,"['High speed of traffic', 'Blocked sidewalk']",S12,20.0,68.0
 448,30.619030000000002,-96.34994,2.0,1616635340400,"['Rowdy people', 'Blocked sidewalk', 'Lack of street lights']",S12,20.0,68.0
-449,30.620870000000004,-96.34653,3.0,1616722395300,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S12,20.6,69.0
+449,30.620870000000004,-96.34653,3.0,1616722395300,"['Litter', 'Poor walking surface', 'No sidewalk']",S12,20.6,69.0
 450,30.62337,-96.34405000000001,3.0,1616723010900,"['No sidewalk', 'Lack of street lights']",S12,20.6,69.0
 451,30.61841,-96.34636,4.0,1616725734000,"['Rowdy people', 'Lack of crosswalk']",S12,17.2,63.0
 452,30.61933,-96.35068000000001,3.0,1616726166000,"['Blocked sidewalk', 'Lack of street lights']",S12,17.2,63.0
@@ -463,71 +463,71 @@
 461,30.606090000000002,-96.32245,4.0,1617501457500,"['High speed of traffic', 'Blocked sidewalk', 'Steep sidewalk slope', 'Lack of street lights']",S12,16.7,62.0
 462,30.621810000000004,-96.34549000000001,2.0,1615487495700,"['Poor walking surface', 'Steep sidewalk slope']",S10,25.6,78.0
 463,30.620700000000003,-96.34905,2.0,1615751860800,['Poor walking surface'],S10,15.0,59.0
-464,30.62318,-96.35364000000001,,1615848501000,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk']",S10,27.2,81.0
+464,30.62318,-96.35364000000001,,1615848501000,"['Litter', 'No sidewalk']",S10,27.2,81.0
 465,30.62224,-96.35387000000001,,1615920468600,['High speed of traffic'],S10,26.1,79.0
 466,30.631610000000002,-96.35445000000001,2.0,1615990448400,"['Abandoned vehicle', 'No sidewalk', 'No benches']",S10,17.2,63.0
 467,30.634210000000003,-96.35456,,1616092317900,"['Tree missing', 'No benches']",S10,15.0,59.0
 468,29.661360000000002,-101.31837,3.0,1616265188400,"['No benches', 'No benches']",S10,NaN,
-469,30.61999,-96.35100000000001,2.0,1616453803800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S10,21.1,70.0
+469,30.61999,-96.35100000000001,2.0,1616453803800,"['Litter', 'Poor walking surface', 'Litter', 'Poor walking surface']",S10,21.1,70.0
 470,30.623,-96.35298,2.0,1616454131400,"['Unattended dogs', 'Unattended dogs']",S10,21.1,70.0
 471,30.62168,-96.34306000000001,2.0,1617061859700,"['Weather condition', 'Weather condition']",S10,22.8,73.0
-472,30.626860000000004,-96.35234000000001,3.0,1617140085300,"['Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)', 'Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S10,27.8,82.0
+472,30.626860000000004,-96.35234000000001,3.0,1617140085300,"['Unattended dogs', 'Litter', 'Unattended dogs', 'Litter']",S10,27.8,82.0
 473,30.6215,-96.35323000000001,1.0,1617139462200,"['High speed of traffic', 'High speed of traffic']",S10,27.8,82.0
 474,30.623630000000002,-96.34758000000001,4.0,1617305743500,"['High speed of traffic', 'Tree missing']",S10,20.0,68.0
 475,30.61765,-96.34651000000001,3.0,1617381924300,['High speed of traffic'],S10,16.7,62.0
-476,30.617310000000003,-96.34686,2.0,1617381891000,"['Litter (dumping, broken glass weeds, graffiti)']",S10,16.7,62.0
+476,30.617310000000003,-96.34686,2.0,1617381891000,"['Litter']",S10,16.7,62.0
 477,30.630470000000003,-96.34987000000001,3.0,1615512581100,['High speed of traffic'],S11,23.3,74.0
 478,30.62787,-96.35179000000001,2.0,1615512670800,['No sidewalk'],S11,23.3,74.0
 479,30.625870000000003,-96.34762,2.0,1615512808800,['No sidewalk'],S11,23.3,74.0
 480,30.626870000000004,-96.35528000000001,5.0,1615517929500,['car almost crash into me'],S11,22.8,73.0
 481,30.618230000000004,-96.34533,3.0,1615523091000,['had to cross on a red light'],S11,21.1,70.0
-482,30.619480000000003,-96.34665000000001,3.0,1615521537000,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Blocked sidewalk', 'Lack of street lights']",S11,22.2,72.0
-483,30.631670000000003,-96.35008,3.0,1615554884700,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk', 'High speed of traffic']",S11,20.6,69.0
-484,30.633210000000002,-96.35267,2.0,1615556333100,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'water on sidewalk']",S11,20.6,69.0
-485,30.622200000000003,-96.34935,2.0,1615556375700,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of street lights']",S11,20.6,69.0
+482,30.619480000000003,-96.34665000000001,3.0,1615521537000,"['Rowdy people', 'Litter', 'Poor walking surface', 'Blocked sidewalk', 'Lack of street lights']",S11,22.2,72.0
+483,30.631670000000003,-96.35008,3.0,1615554884700,"['Litter', 'Blocked sidewalk', 'High speed of traffic']",S11,20.6,69.0
+484,30.633210000000002,-96.35267,2.0,1615556333100,"['Litter', 'Poor walking surface', 'water on sidewalk']",S11,20.6,69.0
+485,30.622200000000003,-96.34935,2.0,1615556375700,"['Litter', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of street lights']",S11,20.6,69.0
 486,30.630110000000002,-96.35454000000001,2.0,1615581451800,['lots of potholes'],S11,27.2,81.0
 487,30.63903,-96.35772000000001,2.0,1615608952500,['lots of potholes'],S11,21.1,70.0
 488,30.633670000000002,-96.35058000000001,2.0,1615643944800,"['Crosswalk and pedestrian light missing', 'No sidewalk', 'Lack of crosswalk', 'cross traffic; poor visibility']",S11,18.3,65.0
-489,30.625410000000002,-96.34883,3.0,1615644182400,"['No sidewalk', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)']",S11,18.9,66.0
+489,30.625410000000002,-96.34883,3.0,1615644182400,"['No sidewalk', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter']",S11,18.9,66.0
 490,30.627150000000004,-96.35101,3.0,1615644441600,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S11,18.9,66.0
-491,30.586520000000004,-96.28963,3.0,1615773787500,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights', 'Lack of crosswalk', 'siren; pull over']",S11,12.8,55.0
-492,30.623400000000004,-96.3451,4.0,1615773655200,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk', 'Litter (dumping, broken glass weeds, graffiti)']",S11,12.8,55.0
-493,30.624330000000004,-96.34403,3.0,1615773772800,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S11,12.8,55.0
-494,30.624080000000003,-96.34284000000001,3.0,1615773919800,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S11,12.8,55.0
-495,30.617720000000002,-96.34639000000001,2.0,1615856255400,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S11,25.6,78.0
-496,30.617800000000003,-96.34742000000001,4.0,1615856358900,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)']",S11,25.6,78.0
-497,30.618610000000004,-96.34948000000001,4.0,1615856669400,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights', 'Lack of crosswalk']",S11,23.9,75.0
-498,30.620400000000004,-96.35217,4.0,1615857083400,"['Poor walking surface', 'Lack of street lights', 'No sidewalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S11,23.9,75.0
+491,30.586520000000004,-96.28963,3.0,1615773787500,"['Litter', 'Lack of street lights', 'Lack of crosswalk', 'siren; pull over']",S11,12.8,55.0
+492,30.623400000000004,-96.3451,4.0,1615773655200,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk', 'Litter']",S11,12.8,55.0
+493,30.624330000000004,-96.34403,3.0,1615773772800,"['High speed of traffic', 'Litter', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S11,12.8,55.0
+494,30.624080000000003,-96.34284000000001,3.0,1615773919800,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter']",S11,12.8,55.0
+495,30.617720000000002,-96.34639000000001,2.0,1615856255400,"['Rowdy people', 'Litter']",S11,25.6,78.0
+496,30.617800000000003,-96.34742000000001,4.0,1615856358900,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter']",S11,25.6,78.0
+497,30.618610000000004,-96.34948000000001,4.0,1615856669400,"['Litter', 'Lack of street lights', 'Lack of crosswalk']",S11,23.9,75.0
+498,30.620400000000004,-96.35217,4.0,1615857083400,"['Poor walking surface', 'Lack of street lights', 'No sidewalk', 'High speed of traffic', 'Litter']",S11,23.9,75.0
 499,30.62132,-96.34614,3.0,1615952304000,['Lack of street lights'],S11,23.9,75.0
-500,30.621840000000002,-96.34612000000001,4.0,1615952649600,"['Poor walking surface', 'Steep sidewalk slope', 'Lack of street lights', 'Lack of crosswalk', 'Litter (dumping, broken glass weeds, graffiti)']",S11,23.9,75.0
-501,30.623440000000002,-96.34188,4.0,1615953340800,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S11,23.9,75.0
+500,30.621840000000002,-96.34612000000001,4.0,1615952649600,"['Poor walking surface', 'Steep sidewalk slope', 'Lack of street lights', 'Lack of crosswalk', 'Litter']",S11,23.9,75.0
+501,30.623440000000002,-96.34188,4.0,1615953340800,"['High speed of traffic', 'Litter', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S11,23.9,75.0
 502,30.621480000000002,-96.3422,2.0,1616101225500,['High speed of traffic'],S11,18.9,66.0
 503,30.6229,-96.34074000000001,2.0,1616105428200,['High speed of traffic'],S11,18.9,66.0
 504,30.62159,-96.34653,2.0,1616204199600,['Lack of street lights'],S11,13.3,56.0
 505,30.621470000000002,-96.34509000000001,4.0,1616204744700,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'Lack of street lights', 'Lack of crosswalk']",S11,13.3,56.0
 506,30.62085,-96.3455,3.0,1616297454000,['Lack of street lights'],S11,14.4,58.0
 507,30.6228,-96.34585000000001,3.0,1616297992200,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk']",S11,14.4,58.0
-508,30.62422,-96.34297000000001,4.0,1616298436800,"['High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S11,14.4,58.0
-509,30.6228,-96.34512000000001,4.0,1616377824000,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S11,18.9,66.0
-510,30.62393,-96.34255,3.0,1616378418000,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S11,17.2,63.0
+508,30.62422,-96.34297000000001,4.0,1616298436800,"['High speed of traffic', 'Rowdy people', 'Litter', 'No sidewalk', 'Lack of street lights']",S11,14.4,58.0
+509,30.6228,-96.34512000000001,4.0,1616377824000,"['Litter', 'No sidewalk', 'Lack of street lights']",S11,18.9,66.0
+510,30.62393,-96.34255,3.0,1616378418000,"['Litter', 'No sidewalk', 'Lack of street lights']",S11,17.2,63.0
 511,30.62477,-96.35229000000001,1.0,1616466618000,['Blocked sidewalk'],S11,19.4,67.0
 512,30.558650000000004,-96.32090000000001,2.0,1616599171200,['Poor visibility of incoming cars'],S11,16.7,62.0
 513,30.623040000000003,-96.34704,2.0,1616601320400,"['hard to see the street I need to turn into', 'No sidewalk']",S11,16.7,62.0
-514,30.624940000000002,-96.35135000000001,4.0,1616606662200,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S11,20.6,69.0
-515,30.626800000000003,-96.35389,4.0,1616606973300,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S11,20.6,69.0
-516,30.624740000000003,-96.35234000000001,2.0,1616607247800,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S11,20.6,69.0
-517,30.62562,-96.34905,4.0,1616727633600,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S11,15.0,59.0
-518,30.629070000000002,-96.35329,4.0,1616728104600,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S11,15.0,59.0
-519,30.619390000000003,-96.34798,3.0,1616729800200,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S11,15.0,59.0
+514,30.624940000000002,-96.35135000000001,4.0,1616606662200,"['Litter', 'No sidewalk', 'Lack of street lights']",S11,20.6,69.0
+515,30.626800000000003,-96.35389,4.0,1616606973300,"['Litter', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S11,20.6,69.0
+516,30.624740000000003,-96.35234000000001,2.0,1616607247800,"['Litter', 'Blocked sidewalk']",S11,20.6,69.0
+517,30.62562,-96.34905,4.0,1616727633600,"['Crosswalk and pedestrian light missing', 'Litter', 'Lack of street lights']",S11,15.0,59.0
+518,30.629070000000002,-96.35329,4.0,1616728104600,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter']",S11,15.0,59.0
+519,30.619390000000003,-96.34798,3.0,1616729800200,"['Rowdy people', 'Litter', 'Poor walking surface']",S11,15.0,59.0
 520,30.62993,-96.35041000000001,3.0,1616976783000,['No sidewalk'],S11,21.7,71.0
-521,30.622200000000003,-96.35221000000001,4.0,1616978925000,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S11,21.7,71.0
-522,30.625000000000004,-96.35259,4.0,1616978588400,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S11,21.7,71.0
+521,30.622200000000003,-96.35221000000001,4.0,1616978925000,"['Litter', 'No sidewalk', 'Lack of street lights']",S11,21.7,71.0
+522,30.625000000000004,-96.35259,4.0,1616978588400,"['Litter', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S11,21.7,71.0
 523,30.616350000000004,-96.34758000000001,1.0,1616084464200,['a lot of merging traffic'],S21,12.2,54.0
-524,30.618290000000002,-96.34617000000001,1.0,1616085994800,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S21,12.2,54.0
+524,30.618290000000002,-96.34617000000001,1.0,1616085994800,"['Rowdy people', 'Litter']",S21,12.2,54.0
 525,30.622970000000002,-96.34214000000001,2.0,1616383005000,['this area has a lot of traffic'],S21,16.7,62.0
 526,30.618160000000003,-96.34759000000001,2.0,1616384739000,['had an awkward encounter with an old classmate'],S21,16.7,62.0
 527,30.62327,-96.32971,3.0,1616386804800,"['Weather condition', 'it was very cold and I slipped and fell on leaves and cracks', 'Poor walking surface']",S21,15.6,60.0
-528,30.622200000000003,-96.35400000000001,2.0,1616467322100,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S21,19.4,67.0
+528,30.622200000000003,-96.35400000000001,2.0,1616467322100,"['High speed of traffic', 'Litter', 'Weather condition']",S21,19.4,67.0
 529,30.620780000000003,-96.35297000000001,3.0,1616467059300,"['High speed of traffic', 'vehicle began honking as they passed me for no reason']",S21,19.4,67.0
 530,30.62121,-96.33295000000001,4.0,1616470231200,['vehicle on the wrong side of the road'],S21,18.9,66.0
 531,30.614720000000002,-96.33550000000001,1.0,1616474728800,['heavy traffic'],S21,19.4,67.0
@@ -539,12 +539,12 @@
 537,30.60656,-96.33721000000001,2.0,1615751685600,['construction'],S15,15.0,59.0
 538,30.623970000000003,-96.34765,2.0,1615852591200,['Poor walking surface'],S15,27.2,81.0
 539,30.623160000000002,-96.33637,2.0,1615917208800,"['Poor walking surface', 'No sidewalk']",S15,25.0,77.0
-540,30.62308,-96.34674000000001,2.0,1615944200400,"['Litter (dumping, broken glass weeds, graffiti)', 'downhill slope', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,25.0,77.0
+540,30.62308,-96.34674000000001,2.0,1615944200400,"['Litter', 'downhill slope', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,25.0,77.0
 541,30.604910000000004,-96.33933,1.0,1616005826400,['lots of construction around me'],S15,20.6,69.0
 542,30.6199,-96.34370000000001,2.0,1616018314800,['there was so much traffic; almost got into a wreck'],S15,25.0,77.0
 543,30.621850000000002,-96.31841000000001,2.0,1616030451000,['I thought I got lost'],S15,17.8,64.0
 544,30.62507,-96.33778000000001,2.0,1616031420900,['so much traffic'],S15,17.8,64.0
-545,30.624290000000002,-96.34540000000001,3.0,1616031907200,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk']",S15,17.8,64.0
+545,30.624290000000002,-96.34540000000001,3.0,1616031907200,"['Litter', 'No sidewalk']",S15,17.8,64.0
 546,30.61756,-96.34714000000001,2.0,1616032651200,"['High speed of traffic', 'Rowdy people']",S15,17.8,64.0
 547,30.616280000000003,-96.33829000000001,1.0,1616080223400,['Weather condition'],S15,11.1,52.0
 548,30.617720000000002,-96.3408,2.0,1616079945900,['Weather condition'],S15,11.1,52.0
@@ -561,50 +561,50 @@
 559,30.611790000000003,-96.34642000000001,1.0,1616427030000,['more construction'],S15,16.7,62.0
 560,30.582120000000003,-96.32157000000001,1.0,1616448486000,['traffic'],S15,21.7,71.0
 561,30.595810000000004,-96.33345000000001,2.0,1616450617800,['construction'],S15,21.1,70.0
-562,30.622020000000003,-96.34598000000001,2.0,1616453967300,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of crosswalk', 'No benches']",S15,21.1,70.0
+562,30.622020000000003,-96.34598000000001,2.0,1616453967300,"['Litter', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of crosswalk', 'No benches']",S15,21.1,70.0
 563,30.618430000000004,-96.34659,1.0,1616454672000,['Rowdy people'],S15,21.1,70.0
-564,30.620510000000003,-96.34917,,1616454380400,"['Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S15,21.1,70.0
+564,30.620510000000003,-96.34917,,1616454380400,"['Unattended dogs', 'Litter']",S15,21.1,70.0
 565,30.604960000000002,-96.33905000000001,2.0,1616518458000,['police officer looked like he was going to pull me over'],S15,17.8,64.0
 566,30.60385,-96.33981000000001,1.0,1616519457600,['lots of traffic and construction'],S15,19.4,67.0
 567,30.608840000000004,-96.34214000000001,3.0,1616522058000,['I took a wrong turn and had to turn around'],S15,19.4,67.0
 568,30.61456,-96.34255,2.0,1616525188500,['a road was closed so I had to go a different way I wasnt too familiar with'],S15,20.6,69.0
-569,30.622100000000003,-96.34798,1.0,1616534629800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S15,25.0,77.0
+569,30.622100000000003,-96.34798,1.0,1616534629800,"['Litter', 'Poor walking surface']",S15,25.0,77.0
 570,30.620500000000003,-96.34524,2.0,1616534155500,['Weather condition'],S15,25.0,77.0
 571,30.62132,-96.34253000000001,2.0,1616537136300,['Weather condition'],S15,26.1,79.0
 572,30.62337,-96.33999000000001,2.0,1616538892800,['lots of traffic'],S15,26.1,79.0
-573,30.622730000000004,-96.34657000000001,1.0,1616625132000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S15,19.4,67.0
-574,30.627540000000003,-96.34697000000001,1.0,1616626245000,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,19.4,67.0
+573,30.622730000000004,-96.34657000000001,1.0,1616625132000,"['Litter', 'Poor walking surface', 'No sidewalk']",S15,19.4,67.0
+574,30.627540000000003,-96.34697000000001,1.0,1616626245000,"['Litter', 'Abandoned vehicle', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,19.4,67.0
 575,30.623900000000003,-96.34245000000001,1.0,1616626935900,"[""it's a big parking lot; lots of cars are everywhere""]",S15,20.0,68.0
 576,30.62805,-96.32694000000001,1.0,1616627850000,['hard to turn into this street'],S15,20.0,68.0
 577,30.62421,-96.34923,1.0,1616715974400,"['Poor walking surface', 'No sidewalk']",S15,22.8,73.0
 578,30.620200000000004,-96.34370000000001,4.0,1616717137200,['High speed of traffic'],S15,21.7,71.0
-579,30.618900000000004,-96.34585000000001,2.0,1616716912800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S15,21.7,71.0
-580,30.62394,-96.34275000000001,1.0,1616719491600,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S15,21.7,71.0
+579,30.618900000000004,-96.34585000000001,2.0,1616716912800,"['Litter', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S15,21.7,71.0
+580,30.62394,-96.34275000000001,1.0,1616719491600,"['Litter', 'Poor walking surface', 'No sidewalk']",S15,21.7,71.0
 581,30.603970000000004,-96.34036,3.0,1616776287000,['the train was preventing me from turning right'],S15,20.6,69.0
 582,30.608710000000002,-96.33473000000001,4.0,1616777185200,['I hate construction so much. why is it here now'],S15,20.6,69.0
 583,30.633270000000003,-96.32498000000001,1.0,1616799523200,"['High speed of traffic', 'Abandoned vehicle', 'Lack of crosswalk']",S15,27.8,82.0
 584,30.631190000000004,-96.3233,2.0,1616802551700,"['High speed of traffic', 'Lack of crosswalk']",S15,27.2,81.0
 585,30.604060000000004,-96.36500000000001,3.0,1616803556400,['I hate this weird intersection'],S15,26.1,79.0
 586,30.6292,-96.31918,2.0,1616808672000,"['High speed of traffic', 'Lack of street lights']",S15,24.4,76.0
-587,30.628480000000003,-96.31687000000001,2.0,1616808385800,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)']",S15,24.4,76.0
-588,30.626960000000004,-96.31738000000001,1.0,1616807845200,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,24.4,76.0
+587,30.628480000000003,-96.31687000000001,2.0,1616808385800,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter']",S15,24.4,76.0
+588,30.626960000000004,-96.31738000000001,1.0,1616807845200,"['Litter', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,24.4,76.0
 589,30.62281,-96.34093000000001,1.0,1616888138400,['lots of traffic'],S15,27.2,81.0
 590,30.630270000000003,-96.34531000000001,2.0,1616889656400,"['Rowdy people', 'No sidewalk']",S15,26.7,80.0
-591,30.629970000000004,-96.34702000000001,1.0,1616889865200,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,26.7,80.0
+591,30.629970000000004,-96.34702000000001,1.0,1616889865200,"['Litter', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S15,26.7,80.0
 592,30.62975,-96.34893000000001,2.0,1616890282800,"['High speed of traffic', 'Lack of street lights']",S15,26.7,80.0
 593,30.624070000000003,-96.34746000000001,5.0,1616978481000,['Unattended dogs'],S15,21.7,71.0
-594,30.625120000000003,-96.35018000000001,1.0,1616979566400,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)']",S15,21.7,71.0
-595,30.622730000000004,-96.35016,,1616978762400,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Lack of street lights', 'Lack of crosswalk']",S15,21.7,71.0
+594,30.625120000000003,-96.35018000000001,1.0,1616979566400,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter']",S15,21.7,71.0
+595,30.622730000000004,-96.35016,,1616978762400,"['Litter', 'Poor walking surface', 'Lack of street lights', 'Lack of crosswalk']",S15,21.7,71.0
 596,30.62254,-96.34638000000001,,1616979948300,"['Lack of crosswalk', 'High speed of traffic']",S15,19.4,67.0
-597,30.623900000000003,-96.34256,2.0,1617036204000,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition', 'Poor walking surface', 'No sidewalk']",S15,19.4,67.0
+597,30.623900000000003,-96.34256,2.0,1617036204000,"['Litter', 'Weather condition', 'Poor walking surface', 'No sidewalk']",S15,19.4,67.0
 598,30.618710000000004,-96.34204000000001,1.0,1617037797600,['Lack of crosswalk'],S15,20.6,69.0
 599,30.614810000000002,-96.34126,3.0,1617038208000,['Rowdy people'],S15,20.6,69.0
 600,30.616670000000003,-96.34076,2.0,1617039240600,['Poor walking surface'],S15,20.6,69.0
-601,30.62139,-96.34259,2.0,1617039732000,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Poor walking surface']",S15,20.6,69.0
+601,30.62139,-96.34259,2.0,1617039732000,"['Litter', 'Abandoned vehicle', 'Poor walking surface']",S15,20.6,69.0
 602,30.621990000000004,-96.33843,3.0,1617131157000,"['Weather condition', 'No sidewalk']",S15,26.1,79.0
 603,30.62403,-96.34188,1.0,1617132331800,['High speed of traffic'],S15,26.1,79.0
 604,30.609790000000004,-96.34784,2.0,1617143641200,['High speed of traffic'],S15,27.8,82.0
-605,30.622980000000002,-96.34673000000001,2.0,1615591815600,"['Litter (dumping, broken glass weeds, graffiti)', 'Steep sidewalk slope', 'No sidewalk', 'Lack of crosswalk']",S14,27.2,81.0
+605,30.622980000000002,-96.34673000000001,2.0,1615591815600,"['Litter', 'Steep sidewalk slope', 'No sidewalk', 'Lack of crosswalk']",S14,27.2,81.0
 606,30.625970000000002,-96.35738,4.0,1615867417800,"['Crosswalk and pedestrian light missing', 'overhead Communication cables', 'No sidewalk', 'Lack of street lights']",S14,22.2,72.0
 607,30.62561,-96.35076000000001,3.0,1615956115500,"['Unattended dogs', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S14,23.3,74.0
 608,30.607640000000004,-96.34274,3.0,1616025951300,['Lack of street lights'],S14,20.6,69.0
@@ -616,9 +616,9 @@
 614,30.62083,-96.34818000000001,2.0,1616215337700,['Steep sidewalk slope'],S14,10.0,50.0
 615,30.462030000000002,-96.15046000000001,2.0,1616257306200,['Lack of speed signs'],S14,13.9,57.0
 616,30.500300000000003,-96.19114,3.0,1616296252800,['fast driving cars; lack of street lights'],S14,14.4,58.0
-617,30.633300000000002,-96.35418000000001,3.0,1616351208000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Blocked sidewalk', 'Steep sidewalk slope', 'No sidewalk']",S14,17.8,64.0
-618,30.629050000000003,-96.35348,2.0,1616353470000,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S14,18.9,66.0
-619,30.620700000000003,-96.33782000000001,3.0,1616457603600,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S14,20.0,68.0
+617,30.633300000000002,-96.35418000000001,3.0,1616351208000,"['Litter', 'Poor walking surface', 'Blocked sidewalk', 'Steep sidewalk slope', 'No sidewalk']",S14,17.8,64.0
+618,30.629050000000003,-96.35348,2.0,1616353470000,"['Litter', 'Abandoned vehicle', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S14,18.9,66.0
+619,30.620700000000003,-96.33782000000001,3.0,1616457603600,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Litter']",S14,20.0,68.0
 620,30.619960000000003,-96.34379000000001,3.0,1616467017600,"['Lack of street lights', 'No benches', 'Lack of street lights', 'No benches']",S14,19.4,67.0
 621,30.61503,-96.34023,3.0,1616516463600,"['High speed of traffic', 'No sidewalk']",S14,17.8,64.0
 622,30.616070000000004,-96.33962000000001,3.0,1616527362000,"['Crosswalk and pedestrian light missing', 'High speed of traffic']",S14,23.3,74.0
@@ -648,7 +648,7 @@
 646,30.63294,-96.32948,1.0,1617340926600,['high traffic'],S14,12.2,54.0
 647,30.62074,-96.34791000000001,1.0,1617342934200,['high traffic'],S14,12.2,54.0
 648,30.614800000000002,-96.34245000000001,1.0,1617377464800,['High speed of traffic'],S14,13.9,57.0
-649,30.602860000000003,-96.33219000000001,4.0,1617395712000,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk', 'No benches']",S14,20.6,69.0
+649,30.602860000000003,-96.33219000000001,4.0,1617395712000,"['Litter', 'Abandoned vehicle', 'Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk', 'No benches']",S14,20.6,69.0
 650,30.62262,-96.3498,3.0,1615605637500,"['High speed of traffic', 'car almost hit me']",S13,22.2,72.0
 651,30.619270000000004,-96.34662,2.0,1615605165000,"['Rowdy people', 'people without masks nearby']",S13,22.2,72.0
 652,30.62139,-96.3485,2.0,1615680115800,"['stressed from mental thoughts', 'stressed from mental thoughts']",S13,25.0,77.0
@@ -675,16 +675,16 @@
 673,30.630920000000003,-96.35072000000001,4.0,1617324370800,['Crosswalk and pedestrian light missing'],S23,19.4,67.0
 674,30.633580000000002,-96.35056,1.0,1617409250700,['High speed of traffic'],S23,18.9,66.0
 675,30.630470000000003,-96.34987000000001,3.0,1617489474600,['High speed of traffic'],S23,18.9,66.0
-676,30.631670000000003,-96.35008,3.0,1617585222000,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk', 'High speed of traffic']",S23,17.2,63.0
-677,30.633210000000002,-96.35267,2.0,1617586446000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'water on sidewalk']",S23,17.2,63.0
-678,30.622200000000003,-96.34935,2.0,1617586482000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of street lights']",S23,17.2,63.0
+676,30.631670000000003,-96.35008,3.0,1617585222000,"['Litter', 'Blocked sidewalk', 'High speed of traffic']",S23,17.2,63.0
+677,30.633210000000002,-96.35267,2.0,1617586446000,"['Litter', 'Poor walking surface', 'water on sidewalk']",S23,17.2,63.0
+678,30.622200000000003,-96.34935,2.0,1617586482000,"['Litter', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of street lights']",S23,17.2,63.0
 679,30.633670000000002,-96.35058000000001,2.0,1617647229600,"['Crosswalk and pedestrian light missing', 'No sidewalk', 'Lack of crosswalk', 'cross traffic; poor visibility']",S23,20.6,69.0
-680,30.625410000000002,-96.34883,3.0,1617647374800,"['No sidewalk', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)']",S23,20.6,69.0
+680,30.625410000000002,-96.34883,3.0,1617647374800,"['No sidewalk', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter']",S23,20.6,69.0
 681,30.627150000000004,-96.35101,3.0,1617647533200,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S23,20.6,69.0
-682,30.586520000000004,-96.28963,3.0,1617651097500,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights', 'Lack of crosswalk', 'siren; pull over']",S23,22.8,73.0
-683,30.623400000000004,-96.3451,4.0,1617650976000,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk', 'Litter (dumping, broken glass weeds, graffiti)']",S23,22.8,73.0
-684,30.624330000000004,-96.34403,3.0,1617651084000,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S23,22.8,73.0
-685,30.624080000000003,-96.34284000000001,3.0,1617651219000,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S23,22.8,73.0
+682,30.586520000000004,-96.28963,3.0,1617651097500,"['Litter', 'Lack of street lights', 'Lack of crosswalk', 'siren; pull over']",S23,22.8,73.0
+683,30.623400000000004,-96.3451,4.0,1617650976000,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk', 'Litter']",S23,22.8,73.0
+684,30.624330000000004,-96.34403,3.0,1617651084000,"['High speed of traffic', 'Litter', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S23,22.8,73.0
+685,30.624080000000003,-96.34284000000001,3.0,1617651219000,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter']",S23,22.8,73.0
 686,30.626070000000002,-96.35246000000001,2.0,1617666882900,['No sidewalk'],S23,23.9,75.0
 687,30.62411,-96.3502,2.0,1617667125300,['Poor walking surface'],S23,23.9,75.0
 688,30.625200000000003,-96.34808000000001,2.0,1617667458600,['No sidewalk'],S23,23.3,74.0
@@ -711,7 +711,7 @@
 709,30.600540000000002,-96.30139000000001,4.0,1618260226800,['waiting to make left turn without light and heavy traffic'],S23,27.8,82.0
 710,30.635360000000002,-96.34885000000001,2.0,1618261062000,['sun in eyes backing into driveway'],S23,27.8,82.0
 711,30.63106,-96.35061,4.0,1618274761200,"['Crosswalk and pedestrian light missing', 'High speed of traffic']",S23,27.8,82.0
-712,30.62899,-96.3529,2.0,1618275064800,"['Litter (dumping, broken glass weeds, graffiti)', 'tree debris on road', 'Poor walking surface', 'No sidewalk']",S23,27.8,82.0
+712,30.62899,-96.3529,2.0,1618275064800,"['Litter', 'tree debris on road', 'Poor walking surface', 'No sidewalk']",S23,27.8,82.0
 713,30.630290000000002,-96.35000000000001,3.0,1618276048200,"['Crosswalk and pedestrian light missing', 'High speed of traffic']",S23,25.6,78.0
 714,30.609320000000004,-96.3117,2.0,1618338881400,['judging whether I would get through traffic light'],S23,26.1,79.0
 715,30.634780000000003,-96.35130000000001,1.0,1618346670000,['backing into my driveway'],S23,27.8,82.0
@@ -736,7 +736,7 @@
 734,30.514380000000003,-96.20817000000001,2.0,1618430555400,['political signs'],S24,24.4,76.0
 735,30.597240000000003,-96.32018000000001,3.0,1618443168000,['poor road conditions'],S24,23.9,75.0
 736,30.606610000000003,-96.34848000000001,3.0,1618447209000,['construction'],S24,22.8,73.0
-737,30.598300000000002,-96.31771,3.0,1618449490800,"['Litter (dumping, broken glass weeds, graffiti)', 'poor road conditions']",S24,22.2,72.0
+737,30.598300000000002,-96.31771,3.0,1618449490800,"['Litter', 'poor road conditions']",S24,22.2,72.0
 738,29.72219,-95.80343,3.0,1618449877200,['GIGANTIC ant hill'],S24,21.0,70.0
 739,29.7206,-95.8054,3.0,1618449726000,['High speed of traffic'],S24,21.0,70.0
 740,30.638230000000004,-96.29392000000001,3.0,1618451412000,['construction'],S24,22.2,72.0
@@ -761,7 +761,7 @@
 759,30.63689,-96.31923,3.0,1618788183600,['poor road conditions'],S24,19.4,67.0
 760,30.614680000000003,-96.33946,2.0,1618850175000,"['Rowdy people', 'Rowdy people', 'Poor walking surface']",S24,19.4,67.0
 761,30.605750000000004,-96.36006,2.0,1618855384800,"['man appeared out of nowhere; scared me', 'incoming traffic']",S24,20.6,69.0
-762,30.617230000000003,-96.34068,2.0,1618855303800,"['Litter (dumping, broken glass weeds, graffiti)', 'dumpsters']",S24,20.6,69.0
+762,30.617230000000003,-96.34068,2.0,1618855303800,"['Litter', 'dumpsters']",S24,20.6,69.0
 763,30.615070000000003,-96.34174,3.0,1618855482000,['people taking pictures for graduation without their masks on; visitors without masks'],S24,20.6,69.0
 764,30.611410000000003,-96.34686,2.0,1618860733200,"['High speed of traffic', 'car about to run me over :(', 'construction']",S24,21.1,70.0
 765,30.612500000000004,-96.34329000000001,2.0,1618860999600,['high traffic area'],S24,21.1,70.0
@@ -833,16 +833,16 @@
 831,30.62563,-96.34409000000001,3.0,1619027419200,"['Unfamiliar path', 'Crosswalk and pedestrian light missing', 'Lack of crosswalk']",S27,13.9,57.0
 832,30.653430000000004,-96.33693000000001,3.0,1619044893600,['Busy intersection'],S27,18.9,66.0
 833,30.63849,-96.32154000000001,4.0,1619044956000,['spring loop road felt narrow effectively because cars were parked on both sides'],S27,18.9,66.0
-834,30.62573,-96.35354000000001,2.0,1619045429700,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S27,18.9,66.0
-835,30.62656,-96.35448000000001,3.0,1619051457300,"['Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S27,17.8,64.0
+834,30.62573,-96.35354000000001,2.0,1619045429700,"['Litter', 'Poor walking surface']",S27,18.9,66.0
+835,30.62656,-96.35448000000001,3.0,1619051457300,"['Unattended dogs', 'Litter', 'Poor walking surface']",S27,17.8,64.0
 836,30.61698,-96.34415000000001,2.0,1619116084500,"['No paths at this point', 'Lack of crosswalk']",S27,21.1,70.0
 837,30.62561,-96.34421,2.0,1619199465000,"['Crosswalk and pedestrian light missing', 'Lack of street lights']",S27,23.3,74.0
 838,30.625770000000003,-96.35345000000001,2.0,1619319180000,['Blocked sidewalk'],S27,21.1,70.0
-839,30.62282,-96.34684000000001,2.0,1619439483900,"['Litter (dumping, broken glass weeds, graffiti)', 'large trash containers on the street', 'Blocked sidewalk']",S27,18.3,65.0
+839,30.62282,-96.34684000000001,2.0,1619439483900,"['Litter', 'large trash containers on the street', 'Blocked sidewalk']",S27,18.3,65.0
 840,30.621440000000003,-96.34270000000001,2.0,1619458975500,['Lack of crosswalk'],S27,24.4,76.0
 841,30.623680000000004,-96.34751000000001,3.0,1619460381600,"['High speed of traffic', 'Blocked sidewalk', 'No sidewalk', 'Lack of crosswalk']",S27,26.1,79.0
 842,30.627160000000003,-96.35498000000001,2.0,1619558688900,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Lack of crosswalk']",S27,26.1,79.0
-843,30.622690000000002,-96.34674000000001,1.0,1619612367000,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Lack of crosswalk']",S27,23.3,74.0
+843,30.622690000000002,-96.34674000000001,1.0,1619612367000,"['Crosswalk and pedestrian light missing', 'Litter', 'Lack of crosswalk']",S27,23.3,74.0
 844,30.62666,-96.34318,2.0,1619612880000,['puddles'],S27,23.3,74.0
 845,30.623780000000004,-96.34756,2.0,1619632051200,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Lack of crosswalk']",S27,29.4,85.0
 846,30.623260000000002,-96.32955000000001,2.0,1618428871200,['Many car'],S29,24.4,76.0
@@ -851,7 +851,7 @@
 849,30.61998,-96.34729,2.0,1618631450700,"['High speed of traffic', 'Weather condition']",S29,16.1,61.0
 850,30.620480000000004,-96.34499000000001,2.0,1618718702400,"['High speed of traffic', 'Rowdy people']",S29,12.8,55.0
 851,30.621850000000002,-96.34962,2.0,1618888730400,"['High speed of traffic', 'Lack of street lights']",S29,18.3,65.0
-852,30.621170000000003,-96.34838,2.0,1618980561600,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S29,13.9,57.0
+852,30.621170000000003,-96.34838,2.0,1618980561600,"['Litter', 'Lack of street lights']",S29,13.9,57.0
 853,30.621750000000002,-96.34330000000001,2.0,1619053120200,['Lack of crosswalk'],S29,17.8,64.0
 854,30.626780000000004,-96.35511000000001,2.0,1619147797200,['High speed of traffic'],S29,18.9,66.0
 855,30.61933,-96.34923,2.0,1619236072800,"['Rowdy people', 'No sidewalk', 'Lack of street lights']",S29,19.4,67.0
@@ -860,41 +860,41 @@
 858,30.626790000000003,-96.35528000000001,2.0,1619392612500,['High speed of traffic'],S29,27.8,82.0
 859,30.626810000000003,-96.35512000000001,2.0,1619496798000,['High speed of traffic'],S29,22.2,72.0
 860,30.622500000000002,-96.34097000000001,2.0,1619571849000,['High speed of traffic'],S29,24.4,76.0
-861,30.620070000000002,-96.34594000000001,3.0,1619671177500,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S29,25.6,78.0
+861,30.620070000000002,-96.34594000000001,3.0,1619671177500,"['Rowdy people', 'Litter', 'Lack of street lights']",S29,25.6,78.0
 862,30.620770000000004,-96.34968,2.0,1619752604400,['Weather condition'],S29,23.9,75.0
-863,30.624760000000002,-96.35588000000001,3.0,1618404660000,"['Litter (dumping, broken glass weeds, graffiti)', 'Steep sidewalk slope', 'Litter (dumping, broken glass weeds, graffiti)', 'Steep sidewalk slope']",S30,21.1,70.0
+863,30.624760000000002,-96.35588000000001,3.0,1618404660000,"['Litter', 'Steep sidewalk slope', 'Litter', 'Steep sidewalk slope']",S30,21.1,70.0
 864,30.611970000000003,-96.34872000000001,1.0,1618420107600,"['Steep sidewalk slope', 'Steep sidewalk slope', 'Steep sidewalk slope']",S30,23.3,74.0
 865,30.62168,-96.35709000000001,2.0,1618491610800,"['Poor walking surface', 'Blocked sidewalk', 'construction', 'construction']",S30,16.1,61.0
 866,30.62524,-96.35303,2.0,1618491853800,['Unattended dogs'],S30,16.1,61.0
 867,30.62375,-96.35549,2.0,1618492069800,"['High speed of traffic', 'Blocked sidewalk', 'Lack of crosswalk']",S30,16.1,61.0
 868,30.619600000000002,-96.35172000000001,2.0,1618495667100,"['High speed of traffic', 'Blocked sidewalk', 'Lack of crosswalk']",S30,16.7,62.0
 869,30.611940000000004,-96.34782000000001,1.0,1618506596400,"['Lack of street lights', 'Lack of street lights']",S30,19.4,67.0
-870,30.626450000000002,-96.35439000000001,1.0,1618508490600,"['Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S30,19.4,67.0
+870,30.626450000000002,-96.35439000000001,1.0,1618508490600,"['Litter', 'Litter']",S30,19.4,67.0
 871,30.62479,-96.35252000000001,1.0,1618577887200,"['High speed of traffic', 'Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk', 'No traffic lights', 'No traffic lights', 'No traffic lights']",S30,16.7,62.0
 872,30.619880000000002,-96.34848000000001,2.0,1618578433200,['Blocked sidewalk'],S30,16.7,62.0
 873,30.612600000000004,-96.34378000000001,1.0,1618593547800,"['Slow Traffic', 'Slow Traffic']",S30,20.6,69.0
-874,30.619410000000002,-96.34501,1.0,1618594504200,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Traffic', 'Traffic']",S30,20.6,69.0
+874,30.619410000000002,-96.34501,1.0,1618594504200,"['Litter', 'Poor walking surface', 'No sidewalk', 'Traffic', 'Traffic']",S30,20.6,69.0
 875,30.62337,-96.34405000000001,3.0,1618594692900,"['No sidewalk', 'Lack of street lights']",S30,20.6,69.0
-876,30.626360000000002,-96.35455,1.0,1618595969400,"['Poor walking surface', 'Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S30,20.6,69.0
+876,30.626360000000002,-96.35455,1.0,1618595969400,"['Poor walking surface', 'Lack of street lights', 'Litter', 'Litter']",S30,20.6,69.0
 877,30.640520000000002,-96.35686000000001,2.0,1618694640000,"['loud street with noisy train', 'Slow Traffic', 'Slow Traffic']",S30,17.8,64.0
 878,30.639460000000003,-96.35436000000001,1.0,1618697584800,"['Potholes', 'Potholes']",S30,17.2,63.0
 879,30.629500000000004,-96.35984,2.0,1618698321300,"['Rowdy people', 'Blocked sidewalk', 'Bad Road', 'Bad Road']",S30,17.2,63.0
 880,30.628280000000004,-96.35933000000001,1.0,1618698709500,"['Rowdy people', 'Poor walking surface', 'Blocked sidewalk', 'Bad road', 'Bad road']",S30,17.2,63.0
-881,30.62627,-96.35611,2.0,1618713696300,"['Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S30,13.3,56.0
-882,30.630580000000002,-96.36169000000001,1.0,1618789077000,"['Poor walking surface', 'No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S30,19.4,67.0
+881,30.62627,-96.35611,2.0,1618713696300,"['Litter', 'Litter']",S30,13.3,56.0
+882,30.630580000000002,-96.36169000000001,1.0,1618789077000,"['Poor walking surface', 'No sidewalk', 'Litter', 'Litter']",S30,19.4,67.0
 883,30.638460000000002,-96.36096,1.0,1618836765000,"['Construction', 'Construction']",S30,9.4,49.0
 884,30.62131,-96.35700000000001,2.0,1618866065400,"['High speed of traffic', 'Poor walking surface', 'Blocked sidewalk', 'Construction', 'Lack of crosswalk', 'Construction', 'Lack of crosswalk']",S30,22.8,73.0
-885,30.626170000000002,-96.35401,2.0,1618971300000,"['There was high speed of traffic and a noisy train.', 'Litter (dumping, broken glass weeds, graffiti)']",S30,16.7,62.0
+885,30.626170000000002,-96.35401,2.0,1618971300000,"['There was high speed of traffic and a noisy train.', 'Litter']",S30,16.7,62.0
 886,30.635440000000003,-96.36456000000001,1.0,1619009593200,['Construction'],S30,6.7,44.0
-887,30.62599,-96.35426000000001,2.0,1619046096300,"['Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S30,18.9,66.0
+887,30.62599,-96.35426000000001,2.0,1619046096300,"['Litter', 'Litter']",S30,18.9,66.0
 888,30.63848,-96.36091,1.0,1619096059800,['Construction'],S30,10.0,50.0
 889,30.62404,-96.35721000000001,1.0,1619107126800,"['Construction', 'No sidewalk']",S30,16.1,61.0
-890,30.63333,-96.36407000000001,1.0,1619227570800,"['Litter (dumping, broken glass weeds, graffiti)', 'No benches', 'Litter (dumping, broken glass weeds, graffiti)', 'No benches']",S30,18.9,66.0
+890,30.63333,-96.36407000000001,1.0,1619227570800,"['Litter', 'No benches', 'Litter', 'No benches']",S30,18.9,66.0
 891,30.627800000000004,-96.35501000000001,1.0,1619293882800,['No sidewalk'],S30,25.6,78.0
-892,30.626420000000003,-96.35615000000001,3.0,1619295310800,"['Litter (dumping, broken glass weeds, graffiti)']",S30,26.1,79.0
-893,30.631580000000003,-96.36262,3.0,1619383540800,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S30,27.2,81.0
-894,30.631780000000003,-96.36278000000001,2.0,1619487347100,"['Litter (dumping, broken glass weeds, graffiti)']",S30,25.6,78.0
-895,30.63182,-96.36279,1.0,1619571067800,"['Litter (dumping, broken glass weeds, graffiti)']",S30,25.0,77.0
+892,30.626420000000003,-96.35615000000001,3.0,1619295310800,"['Litter']",S30,26.1,79.0
+893,30.631580000000003,-96.36262,3.0,1619383540800,"['Litter', 'Weather condition']",S30,27.2,81.0
+894,30.631780000000003,-96.36278000000001,2.0,1619487347100,"['Litter']",S30,25.6,78.0
+895,30.63182,-96.36279,1.0,1619571067800,"['Litter']",S30,25.0,77.0
 896,30.637560000000004,-96.36227000000001,1.0,1619614339800,['Construction'],S30,23.3,74.0
 897,30.611190000000004,-96.34764000000001,1.0,1619629807200,['No traffic lights'],S30,29.4,85.0
 898,30.62572,-96.35368000000001,1.0,1619630946000,['Dumpster'],S30,29.4,85.0
@@ -916,7 +916,7 @@
 914,30.62083,-96.35192,2.0,1618799833200,['Lack of street lights'],S32,15.6,60.0
 915,30.626860000000004,-96.35509,2.0,1618800690000,['Steep sidewalk slope'],S32,15.6,60.0
 916,30.626400000000004,-96.35788000000001,3.0,1618801057200,"['High speed of traffic', 'Lack of crosswalk']",S32,15.6,60.0
-917,30.62486,-96.35237000000001,2.0,1618883367000,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S32,20.0,68.0
+917,30.62486,-96.35237000000001,2.0,1618883367000,"['Litter', 'Blocked sidewalk']",S32,20.0,68.0
 918,30.622280000000003,-96.34969000000001,2.0,1618883724000,['Lack of crosswalk'],S32,20.0,68.0
 919,30.626620000000003,-96.35528000000001,2.0,1618884375000,['Rowdy people'],S32,19.4,67.0
 920,30.62601,-96.35751,3.0,1618884648000,['High speed of traffic'],S32,19.4,67.0
@@ -924,7 +924,7 @@
 922,30.626620000000003,-96.35394000000001,2.0,1618929828000,"['Rowdy people', 'Poor walking surface']",S32,16.7,62.0
 923,30.62581,-96.35730000000001,4.0,1618930237500,['High speed of traffic'],S32,16.7,62.0
 924,30.628110000000003,-96.35465,2.0,1618929126000,['Lack of crosswalk'],S32,16.7,62.0
-925,30.622090000000004,-96.35395000000001,3.0,1619059597200,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S32,15.0,59.0
+925,30.622090000000004,-96.35395000000001,3.0,1619059597200,"['High speed of traffic', 'Litter']",S32,15.0,59.0
 926,30.62017,-96.35192,2.0,1619059834800,"['No sidewalk', 'Lack of street lights']",S32,15.0,59.0
 927,30.620910000000002,-96.35040000000001,3.0,1619059973400,['Lack of crosswalk'],S32,15.0,59.0
 928,30.624260000000003,-96.35173,2.0,1619060329800,"['Blocked sidewalk', 'Rowdy people']",S32,15.0,59.0
@@ -965,7 +965,7 @@
 963,30.626890000000003,-96.35832,3.0,1619579067600,['pedestrian crossing slowly. had to stop car for an extended period.'],S32,24.4,76.0
 964,30.627530000000004,-96.35494000000001,3.0,1619653480800,"['High speed of traffic', 'car almost hit me', 'Unattended dogs']",S32,28.3,83.0
 965,30.628380000000003,-96.35422000000001,3.0,1619653588800,"['Rowdy people', 'people without masks nearby', 'Rowdy people']",S32,28.3,83.0
-966,30.629960000000004,-96.3545,3.0,1619654625600,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S32,27.8,82.0
+966,30.629960000000004,-96.3545,3.0,1619654625600,"['Litter', 'Blocked sidewalk']",S32,27.8,82.0
 967,30.63164,-96.35275000000001,2.0,1619654280000,['No sidewalk'],S32,28.3,83.0
 968,30.62685,-96.35533000000001,,1619655014400,"['High speed of traffic', 'Rowdy people']",S32,27.8,82.0
 969,30.62704,-96.33553,3.0,1619800305300,['heavy rain at lights'],S32,21.7,71.0
@@ -987,8 +987,8 @@
 985,30.624530000000004,-96.35221000000001,2.0,1619921749800,['Rowdy people'],S32,20.6,69.0
 986,30.626670000000004,-96.35409000000001,3.0,1620006943800,"['Rowdy people', 'toad on road']",S32,27.2,81.0
 987,30.627460000000003,-96.35288000000001,2.0,1620006778200,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S32,27.2,81.0
-988,30.625480000000003,-96.35319000000001,2.0,1620007109400,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S32,27.2,81.0
-989,30.625830000000004,-96.35228000000001,4.0,1620007461300,"['Blocked sidewalk', 'No sidewalk', 'Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)']",S32,25.6,78.0
+988,30.625480000000003,-96.35319000000001,2.0,1620007109400,"['Rowdy people', 'Litter']",S32,27.2,81.0
+989,30.625830000000004,-96.35228000000001,4.0,1620007461300,"['Blocked sidewalk', 'No sidewalk', 'Lack of street lights', 'Litter']",S32,25.6,78.0
 990,30.627100000000002,-96.35531,2.0,1620007854600,"['High speed of traffic', 'Rowdy people']",S32,25.6,78.0
 991,30.626430000000003,-96.35463000000001,1.0,1620092691600,['Rowdy people'],S32,27.8,82.0
 992,30.624840000000003,-96.35148000000001,4.0,1620093093600,"['Lack of street lights', 'Rowdy people', 'Abandoned vehicle', 'abandoned house']",S32,27.8,82.0
@@ -1024,10 +1024,10 @@
 1022,30.621450000000003,-96.33869000000001,3.0,1619022645000,['light with lots of traffic'],S31,12.2,54.0
 1023,30.622940000000003,-96.3408,4.0,1619061369300,"['High speed of traffic', 'corssing busy street on pedestrian crossing']",S31,15.0,59.0
 1024,30.619200000000003,-96.34478000000001,2.0,1619060858700,"['Poor walking surface', 'Steep sidewalk slope']",S31,15.0,59.0
-1025,30.626640000000002,-96.34266000000001,3.0,1619084647200,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S31,10.0,50.0
+1025,30.626640000000002,-96.34266000000001,3.0,1619084647200,"['Rowdy people', 'Litter']",S31,10.0,50.0
 1026,30.626490000000004,-96.34317000000001,1.0,1619084728800,"['Weather condition', 'it started raining']",S31,10.0,50.0
 1027,30.623810000000002,-96.34176000000001,2.0,1619224177800,"['Weather condition', 'Lack of street lights']",S31,19.4,67.0
-1028,30.623910000000002,-96.34182000000001,1.0,1619225229600,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Blocked sidewalk']",S31,19.4,67.0
+1028,30.623910000000002,-96.34182000000001,1.0,1619225229600,"['Litter', 'No sidewalk', 'Blocked sidewalk']",S31,19.4,67.0
 1029,30.625690000000002,-96.34143,2.0,1619273064000,['someone with a large unfriendly dog passed me and my dog'],S31,18.9,66.0
 1030,30.626260000000002,-96.34272000000001,2.0,1619274022500,['Unattended dogs'],S31,18.9,66.0
 1031,30.59765,-96.30255000000001,2.0,1619366008200,"['High speed of traffic', ""it's always stressful going at the parking lot there; because there's a lot of people and the other cars don't wait""]",S31,20.6,69.0
@@ -1069,7 +1069,7 @@
 1067,30.615150000000003,-96.33798,2.0,1618512932700,['Cyclists'],S25,20.0,68.0
 1068,30.6322,-96.35230000000001,4.0,1618513768200,"['long wait time at lights', 'dip in the road']",S25,20.0,68.0
 1069,30.625870000000003,-96.35662,5.0,1618626819600,"['High speed of traffic', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S25,16.7,62.0
-1070,30.623440000000002,-96.35514,4.0,1618628266800,"['Poor walking surface', 'High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S25,16.7,62.0
+1070,30.623440000000002,-96.35514,4.0,1618628266800,"['Poor walking surface', 'High speed of traffic', 'Rowdy people', 'Litter']",S25,16.7,62.0
 1071,30.626630000000002,-96.35792000000001,4.0,1618628612400,"['High speed of traffic', 'Rowdy people', 'No sidewalk', 'Lack of crosswalk']",S25,16.1,61.0
 1072,30.62694,-96.35549,4.0,1618702939800,"['long wait times', 'High speed of traffic', 'Rowdy people', 'Poor walking surface']",S25,16.1,61.0
 1073,30.6305,-96.35427000000001,5.0,1618703295000,"['Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'Unattended dogs']",S25,16.1,61.0
@@ -1083,14 +1083,14 @@
 1081,30.625780000000002,-96.35351000000001,5.0,1618883264700,"['Rowdy people', 'Blocked sidewalk']",S25,20.0,68.0
 1082,30.625970000000002,-96.3558,5.0,1618884465300,['High speed of traffic'],S25,19.4,67.0
 1083,30.627070000000003,-96.35509,5.0,1618928728800,"['High speed of traffic', 'Poor walking surface']",S25,16.7,62.0
-1084,30.627760000000002,-96.35467000000001,5.0,1618929138000,"['No sidewalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S25,16.7,62.0
-1085,30.626530000000002,-96.35438,5.0,1618929286800,"['High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Weather condition', 'Poor walking surface', 'No sidewalk']",S25,16.7,62.0
+1084,30.627760000000002,-96.35467000000001,5.0,1618929138000,"['No sidewalk', 'High speed of traffic', 'Litter', 'Weather condition']",S25,16.7,62.0
+1085,30.626530000000002,-96.35438,5.0,1618929286800,"['High speed of traffic', 'Rowdy people', 'Litter', 'Weather condition', 'Poor walking surface', 'No sidewalk']",S25,16.7,62.0
 1086,30.62552,-96.3563,5.0,1619059225200,"['High speed of traffic', 'Poor walking surface']",S25,15.0,59.0
 1087,30.622660000000003,-96.35445000000001,5.0,1619059544400,"['Poor walking surface', 'Lack of street lights']",S25,15.0,59.0
 1088,30.62017,-96.35170000000001,5.0,1619059863600,"['High speed of traffic', 'Rowdy people', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S25,15.0,59.0
 1089,30.623790000000003,-96.35134000000001,3.0,1619060296800,"['Poor walking surface', 'Lack of crosswalk', 'High speed of traffic', 'Rowdy people']",S25,15.0,59.0
 1090,30.627010000000002,-96.35527,5.0,1619094213300,"['High speed of traffic', 'Rowdy people', 'Poor walking surface']",S25,10.0,50.0
-1091,30.629680000000004,-96.35442,5.0,1619094476100,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S25,10.0,50.0
+1091,30.629680000000004,-96.35442,5.0,1619094476100,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'Litter']",S25,10.0,50.0
 1092,30.632,-96.35255000000001,5.0,1619095001700,"['High speed of traffic', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S25,10.0,50.0
 1093,30.626600000000003,-96.35804,4.0,1619096031000,"['Lack of crosswalk', 'High speed of traffic']",S25,10.0,50.0
 1094,30.62187,-96.3537,5.0,1619314602900,"['High speed of traffic', 'Rowdy people']",S25,23.3,74.0
@@ -1102,7 +1102,7 @@
 1100,30.626680000000004,-96.35809,5.0,1619405055600,['Rowdy people'],S25,23.9,75.0
 1101,30.628220000000002,-96.35948,5.0,1619405247600,['snake'],S25,23.9,75.0
 1102,30.626150000000003,-96.35631000000001,5.0,1619487733200,['Rowdy people'],S25,25.6,78.0
-1103,30.627560000000003,-96.35471000000001,5.0,1619487970800,"['Lack of street lights', 'High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S25,25.6,78.0
+1103,30.627560000000003,-96.35471000000001,5.0,1619487970800,"['Lack of street lights', 'High speed of traffic', 'Rowdy people', 'Litter']",S25,25.6,78.0
 1104,30.625460000000004,-96.35355000000001,3.0,1619488230000,"['High speed of traffic', 'Rowdy people', 'Blocked sidewalk', 'Lack of street lights']",S25,25.6,78.0
 1105,30.623630000000002,-96.35118000000001,3.0,1619488489200,"['Poor walking surface', 'High speed of traffic', 'Rowdy people']",S25,25.6,78.0
 1106,30.61277,-96.34569,1.0,1619575288200,['Weather condition'],S25,24.4,76.0
@@ -1114,7 +1114,7 @@
 1112,30.621550000000003,-96.34367,3.0,1619578477200,['High speed of traffic'],S25,24.4,76.0
 1113,30.625660000000003,-96.35601000000001,5.0,1619653185000,"['High speed of traffic', 'Rowdy people', 'Poor walking surface', 'No sidewalk']",S25,28.3,83.0
 1114,30.62974,-96.35139000000001,5.0,1619653995000,"['Poor walking surface', 'No sidewalk', 'High speed of traffic', 'Rowdy people']",S25,28.3,83.0
-1115,30.631460000000004,-96.35443000000001,5.0,1619654467500,"['High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S25,27.8,82.0
+1115,30.631460000000004,-96.35443000000001,5.0,1619654467500,"['High speed of traffic', 'Rowdy people', 'Litter', 'Poor walking surface', 'No sidewalk']",S25,27.8,82.0
 1116,30.624720000000003,-96.35598,4.0,1619808045300,['heavy rain'],S25,21.1,70.0
 1117,30.61915,-96.34230000000001,3.0,1619808939600,"['Weather condition', 'High speed of traffic', 'Rowdy people']",S25,21.1,70.0
 1118,30.623350000000002,-96.34526000000001,2.0,1618334571000,"['Weather condition', 'mosquito']",S26,27.2,81.0
@@ -1132,13 +1132,13 @@
 1130,30.617790000000003,-96.34721,1.0,1618457475600,['No sidewalk'],S26,21.7,71.0
 1131,30.62036,-96.34373000000001,1.0,1618457864400,['Lack of street lights'],S26,21.7,71.0
 1132,30.62683,-96.35638,2.0,1618544508600,['Unattended dogs'],S26,16.7,62.0
-1133,30.61991,-96.34710000000001,3.0,1618543081800,"['Litter (dumping, broken glass weeds, graffiti)']",S26,16.7,62.0
+1133,30.61991,-96.34710000000001,3.0,1618543081800,"['Litter']",S26,16.7,62.0
 1134,30.618820000000003,-96.34605,1.0,1618543500000,['Rowdy people'],S26,16.7,62.0
 1135,30.626670000000004,-96.35494000000001,1.0,1618630650000,['Crosswalk and pedestrian light missing'],S26,16.1,61.0
 1136,30.625460000000004,-96.35327000000001,1.0,1618630819200,['Steep sidewalk slope'],S26,16.1,61.0
 1137,30.617710000000002,-96.34725,1.0,1618631693400,['No sidewalk'],S26,16.1,61.0
 1138,30.620390000000004,-96.34388000000001,2.0,1618632060000,['Lack of street lights'],S26,15.6,60.0
-1139,30.620500000000003,-96.34391000000001,2.0,1618718613000,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S26,12.8,55.0
+1139,30.620500000000003,-96.34391000000001,2.0,1618718613000,"['Litter', 'Lack of street lights']",S26,12.8,55.0
 1140,30.622020000000003,-96.34939000000001,1.0,1618719273000,['Steep sidewalk slope'],S26,12.8,55.0
 1141,30.626030000000004,-96.35635,,1618803786300,"['Crosswalk and pedestrian light missing', 'Lack of crosswalk']",S26,15.6,60.0
 1142,30.61933,-96.34643000000001,2.0,1618802584800,['Poor walking surface'],S26,15.6,60.0
@@ -1184,7 +1184,7 @@
 1182,30.620800000000003,-96.34646000000001,2.0,1619308776300,['No sidewalk'],S34,25.6,78.0
 1183,30.58461,-96.28538,3.0,1619362432500,['Strange left turn'],S34,17.8,64.0
 1184,30.627710000000004,-96.35494000000001,3.0,1619361169800,['Missed a turn'],S34,17.8,64.0
-1185,30.62308,-96.34674000000001,2.0,1619365274400,"['Litter (dumping, broken glass weeds, graffiti)', 'downhill slope', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S34,20.6,69.0
+1185,30.62308,-96.34674000000001,2.0,1619365274400,"['Litter', 'downhill slope', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S34,20.6,69.0
 1186,30.57991,-96.2445,4.0,1619368339200,"['lots of construction around me', 'Loose gravel loud sound while driving']",S34,22.8,73.0
 1187,30.624240000000004,-96.35192,3.0,1619397078000,"['there was so much traffic; almost got into a wreck', 'High speed of traffic', 'Lack of crosswalk']",S34,27.2,81.0
 1188,30.621850000000002,-96.31841000000001,2.0,1619453536500,['I thought I got lost'],S34,23.3,74.0
@@ -1195,9 +1195,9 @@
 1193,30.6212,-96.34823,4.0,1619539408500,['Lack of street lights'],S34,24.4,76.0
 1194,30.623030000000004,-96.34060000000001,3.0,1619548032000,['Crosswalk and pedestrian light missing'],S34,25.0,77.0
 1195,30.62254,-96.34048000000001,2.0,1619576197200,['High speed of traffic'],S34,24.4,76.0
-1196,30.629970000000004,-96.35771000000001,4.0,1619577105600,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of crosswalk', 'No benches', 'Could not see pedestrian properly']",S34,24.4,76.0
+1196,30.629970000000004,-96.35771000000001,4.0,1619577105600,"['Litter', 'Poor walking surface', 'Steep sidewalk slope', 'Lack of crosswalk', 'No benches', 'Could not see pedestrian properly']",S34,24.4,76.0
 1197,30.618430000000004,-96.34659,1.0,1619576736000,['Rowdy people'],S34,24.4,76.0
-1198,30.620510000000003,-96.34917,,1619576635200,"['Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S34,24.4,76.0
+1198,30.620510000000003,-96.34917,,1619576635200,"['Unattended dogs', 'Litter']",S34,24.4,76.0
 1199,30.60424,-96.33942,1.0,1619615434200,"[""there's still lots of construction here""]",S34,23.3,74.0
 1200,30.622040000000002,-96.33791000000001,3.0,1619627454000,"['High speed of traffic', 'High speed of traffic']",S34,27.2,81.0
 1201,30.624060000000004,-96.34266000000001,1.0,1619628202800,"['Poor walking surface', 'No sidewalk']",S34,27.2,81.0
@@ -1207,13 +1207,13 @@
 1205,30.621470000000002,-96.34247,2.0,1619705484000,['Blocked sidewalk'],S34,23.9,75.0
 1206,30.604960000000002,-96.33905000000001,2.0,1619705717400,['police officer looked like he was going to pull me over'],S34,23.9,75.0
 1207,30.626210000000004,-96.33346,3.0,1619714544000,"['I took a wrong turn and had to turn around', 'High speed of traffic', 'Blocked sidewalk']",S34,26.1,79.0
-1208,30.626980000000003,-96.35835,4.0,1619827036800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Rowdy people']",S34,22.8,73.0
+1208,30.626980000000003,-96.35835,4.0,1619827036800,"['Litter', 'Poor walking surface', 'Rowdy people']",S34,22.8,73.0
 1209,30.62675,-96.35516000000001,2.0,1619827975200,"['Weather condition', 'High speed of traffic', 'Blocked sidewalk']",S34,22.2,72.0
 1210,30.594590000000004,-96.29364000000001,4.0,1619971454400,['highway merge'],S34,24.4,76.0
 1211,30.44938,-96.05595000000001,5.0,1619973503100,"['lots of traffic', 'Terrible Roads']",S34,24.4,76.0
 1212,30.578250000000004,-96.31485,4.0,1619978402400,['unsure where to turn'],S34,27.2,81.0
-1213,30.625100000000003,-96.35287000000001,4.0,1620000814500,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Unattended dogs']",S34,28.3,83.0
-1214,30.627540000000003,-96.34697000000001,1.0,1620001618500,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S34,28.3,83.0
+1213,30.625100000000003,-96.35287000000001,4.0,1620000814500,"['Litter', 'Poor walking surface', 'No sidewalk', 'Unattended dogs']",S34,28.3,83.0
+1214,30.627540000000003,-96.34697000000001,1.0,1620001618500,"['Litter', 'Abandoned vehicle', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S34,28.3,83.0
 1215,30.62553,-96.35700000000001,2.0,1620001417500,"['High speed of traffic', 'Rowdy people']",S34,28.3,83.0
 1216,30.625200000000003,-96.35683,3.0,1620086748000,"[""it's a big parking lot; lots of cars are everywhere"", 'turn']",S34,30.0,86.0
 1217,30.62805,-96.32694000000001,1.0,1620087678000,['hard to turn into this street'],S34,30.0,86.0
@@ -1226,7 +1226,7 @@
 1224,30.629610000000003,-96.35995000000001,,1618602748800,['Weather condition'],S33,21.1,70.0
 1225,30.630340000000004,-96.35910000000001,1.0,1618688638200,"['Weather condition', 'No benches']",S33,17.2,63.0
 1226,30.630810000000004,-96.35836,1.0,1618800475200,"['Crosswalk and pedestrian light missing', 'Lack of street lights', 'No benches', 'Unattended dogs']",S33,15.6,60.0
-1227,30.629420000000003,-96.3606,2.0,1618877852100,"['Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S33,20.6,69.0
+1227,30.629420000000003,-96.3606,2.0,1618877852100,"['Unattended dogs', 'Litter']",S33,20.6,69.0
 1228,30.63012,-96.35784000000001,1.0,1618969693200,"['Steep sidewalk slope', 'No benches', 'Poor walking surface']",S33,17.8,64.0
 1229,30.63126,-96.35908,1.0,1618969981800,['Poor walking surface'],S33,17.8,64.0
 1230,30.629620000000003,-96.35976000000001,1.0,1619065321800,"['Crosswalk and pedestrian light missing', 'No sidewalk', 'Poor walking surface']",S33,14.4,58.0
@@ -1242,47 +1242,47 @@
 1240,30.629590000000004,-96.35793000000001,1.0,1620006334200,"['No sidewalk', 'No benches']",S33,27.2,81.0
 1241,30.63031,-96.35914000000001,1.0,1620093177000,"['No sidewalk', 'No benches']",S33,27.8,82.0
 1242,30.631050000000002,-96.3598,1.0,1620177875700,"['No sidewalk', 'No benches']",S33,22.8,73.0
-1243,30.629170000000002,-96.35915000000001,1.0,1620264820200,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'No benches']",S33,23.9,75.0
+1243,30.629170000000002,-96.35915000000001,1.0,1620264820200,"['Litter', 'No sidewalk', 'No benches']",S33,23.9,75.0
 1244,30.63117,-96.35888000000001,1.0,1620352235400,"['No sidewalk', 'Lack of street lights', 'No benches']",S33,26.7,80.0
 1245,30.629990000000003,-96.35973000000001,1.0,1620524232000,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'No benches']",S33,26.7,80.0
-1246,30.63098,-96.35943,1.0,1620610414500,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights', 'No benches']",S33,27.8,82.0
+1246,30.63098,-96.35943,1.0,1620610414500,"['Litter', 'No sidewalk', 'Lack of street lights', 'No benches']",S33,27.8,82.0
 1247,30.462030000000002,-96.15046000000001,1.0,1620695278800,"['Lack of speed signs', 'Unattended dogs', 'No sidewalk']",S33,23.3,74.0
 1248,30.630770000000002,-96.35854,1.0,1620791623800,"['Weather condition', 'No sidewalk', 'Lack of street lights']",S33,18.9,66.0
 1249,30.62946,-96.35796,,1620871132800,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'No benches']",S33,17.8,64.0
-1250,30.62899,-96.35860000000001,,1620962468400,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S33,22.2,72.0
-1251,30.629700000000003,-96.35963000000001,1.0,1621121664600,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S33,27.2,81.0
-1252,30.629050000000003,-96.35348,1.0,1621195920000,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)', 'No benches']",S33,25.0,77.0
-1253,30.61784,-96.3452,2.0,1618712007000,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S35,13.3,56.0
+1250,30.62899,-96.35860000000001,,1620962468400,"['High speed of traffic', 'Litter', 'No sidewalk', 'Lack of street lights']",S33,22.2,72.0
+1251,30.629700000000003,-96.35963000000001,1.0,1621121664600,"['Litter', 'Poor walking surface']",S33,27.2,81.0
+1252,30.629050000000003,-96.35348,1.0,1621195920000,"['Litter', 'Abandoned vehicle', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Unattended dogs', 'Litter', 'No benches']",S33,25.0,77.0
+1253,30.61784,-96.3452,2.0,1618712007000,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter', 'Poor walking surface']",S35,13.3,56.0
 1254,30.630760000000002,-96.35851000000001,1.0,1618801362000,"['Poor walking surface', 'Steep sidewalk slope']",S35,15.6,60.0
-1255,30.622940000000003,-96.34822000000001,3.0,1618891178100,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S35,18.3,65.0
+1255,30.622940000000003,-96.34822000000001,3.0,1618891178100,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Litter']",S35,18.3,65.0
 1256,30.621850000000002,-96.34665000000001,,1618891026000,['Lack of street lights'],S35,18.3,65.0
 1257,30.62986,-96.36012000000001,2.0,1618964866200,"['Unattended dogs', 'Lack of crosswalk']",S35,20.0,68.0
 1258,30.630090000000003,-96.36032,3.0,1619053394400,"['No sidewalk', 'No benches']",S35,16.1,61.0
 1259,30.61062,-96.34674000000001,2.0,1619139404400,"['Crosswalk and pedestrian light missing', 'Lack of crosswalk', 'No benches', 'Tree missing']",S35,20.0,68.0
 1260,30.63003,-96.36031000000001,3.0,1619225016000,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S35,19.4,67.0
 1261,30.674910000000004,-96.41199,1.0,1619314110000,"['Blocked sidewalk', 'Lack of crosswalk', 'Blocked sidewalk', 'Lack of crosswalk', 'car speeding in opposite direction']",S35,21.0,70.0
-1262,30.631290000000003,-96.35942000000001,3.0,1619400087600,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S35,25.0,77.0
+1262,30.631290000000003,-96.35942000000001,3.0,1619400087600,"['Litter', 'Weather condition']",S35,25.0,77.0
 1263,30.631040000000002,-96.35977000000001,5.0,1619491410000,"['High speed of traffic', 'No benches']",S35,23.9,75.0
 1264,30.630830000000003,-96.35857000000001,2.0,1619567218800,"['Steep sidewalk slope', 'Lack of street lights']",S35,25.0,77.0
-1265,30.629400000000004,-96.35867,4.0,1619570450400,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Weather condition']",S35,25.0,77.0
+1265,30.629400000000004,-96.35867,4.0,1619570450400,"['Litter', 'Abandoned vehicle', 'Weather condition']",S35,25.0,77.0
 1266,30.630530000000004,-96.35817,4.0,1619651629200,"['Rowdy people', 'Poor walking surface', 'Lack of street lights', 'Lack of crosswalk']",S35,28.3,83.0
 1267,30.629240000000003,-96.35952,,1619757159600,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Tree missing']",S35,23.3,74.0
-1268,30.629590000000004,-96.35977000000001,3.0,1619833114200,"['Tree missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S35,21.7,71.0
+1268,30.629590000000004,-96.35977000000001,3.0,1619833114200,"['Tree missing', 'Litter', 'Weather condition']",S35,21.7,71.0
 1269,30.631200000000003,-96.35895000000001,2.0,1619832173400,"['Crosswalk and pedestrian light missing', 'No benches']",S35,21.7,71.0
 1270,30.629,-96.35939,3.0,1620003423000,"['Lack of crosswalk', 'No benches']",S35,28.3,83.0
 1271,30.631190000000004,-96.35900000000001,4.0,1620103854900,"['Crosswalk and pedestrian light missing', 'Steep sidewalk slope', 'Lack of street lights']",S35,26.1,79.0
 1272,30.628510000000002,-96.3597,3.0,1620158620800,"['High speed of traffic', 'Lack of street lights', 'Lack of crosswalk']",S35,25.0,77.0
 1273,30.632520000000003,-96.35243000000001,4.0,1620160720200,"['Crosswalk and pedestrian light missing', 'High speed of traffic']",S35,25.0,77.0
-1274,30.629150000000003,-96.35867,2.0,1620161832000,"['Ice on the road and hidden stop sign.', 'Tree missing', 'Litter (dumping, broken glass weeds, graffiti)']",S35,25.0,77.0
+1274,30.629150000000003,-96.35867,2.0,1620161832000,"['Ice on the road and hidden stop sign.', 'Tree missing', 'Litter']",S35,25.0,77.0
 1275,30.626730000000002,-96.35479000000001,2.0,1620161551200,"['Crosswalk and pedestrian light missing', 'Lack of crosswalk']",S35,25.0,77.0
-1276,30.630630000000004,-96.35828000000001,4.0,1620178734900,"['high speed cars', 'Unattended dogs', 'Tree missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S35,22.8,73.0
+1276,30.630630000000004,-96.35828000000001,4.0,1620178734900,"['high speed cars', 'Unattended dogs', 'Tree missing', 'Litter', 'Weather condition']",S35,22.8,73.0
 1277,30.616310000000002,-96.34322,3.0,1620327170700,"['Crosswalk and pedestrian light missing', 'Unattended dogs']",S35,27.2,81.0
-1278,30.613760000000003,-96.33996,4.0,1620329757600,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S35,27.8,82.0
-1279,30.609910000000003,-96.34675000000001,2.0,1620330537600,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S35,27.8,82.0
+1278,30.613760000000003,-96.33996,4.0,1620329757600,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Litter']",S35,27.8,82.0
+1279,30.609910000000003,-96.34675000000001,2.0,1620330537600,"['Litter', 'Weather condition']",S35,27.8,82.0
 1280,30.630820000000003,-96.35991000000001,2.0,1620366112200,"['Crosswalk and pedestrian light missing', 'No benches']",S35,22.8,73.0
 1281,30.60451,-96.35926,4.0,1620405057600,"['Crosswalk and pedestrian light missing', 'No sidewalk']",S35,26.1,79.0
 1282,30.62909,-96.35845,,1620522693000,"['No sidewalk', 'No benches']",S35,26.7,80.0
-1283,30.629690000000004,-96.35956,2.0,1620544722000,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S35,24.4,76.0
+1283,30.629690000000004,-96.35956,2.0,1620544722000,"['Crosswalk and pedestrian light missing', 'Litter', 'Lack of street lights']",S35,24.4,76.0
 1284,30.630850000000002,-96.36001,3.0,1620755145000,"['Poor walking surface', 'Lack of street lights']",S35,27.8,82.0
 1285,30.622130000000002,-96.34311000000001,2.0,1619143350000,['Lack of crosswalk'],S37,19.4,67.0
 1286,30.61961,-96.34419000000001,2.0,1619189953500,[],S37,20.0,68.0
@@ -1296,7 +1296,7 @@
 1294,30.6201,-96.34366000000001,3.0,1619541396000,['High speed of traffic'],S37,24.4,76.0
 1295,30.61717,-96.31662000000001,2.0,1619617444800,['missed turn and traffic'],S37,23.3,74.0
 1296,30.621740000000003,-96.34198,3.0,1619618919000,['High speed of traffic'],S37,23.9,75.0
-1297,30.630740000000003,-96.36002,2.0,1619636400000,"['Litter (dumping, broken glass weeds, graffiti)']",S37,29.4,85.0
+1297,30.630740000000003,-96.36002,2.0,1619636400000,"['Litter']",S37,29.4,85.0
 1298,30.62777,-96.35923000000001,2.0,1619827959600,['High speed of traffic'],S37,22.2,72.0
 1299,30.628780000000003,-96.35917,1.0,1619832049200,"['j walking pedestrians', 'High speed of traffic', 'High speed of traffic']",S37,21.7,71.0
 1300,30.62188,-96.34332,3.0,1619972877600,['Crosswalk and pedestrian light missing'],S37,24.4,76.0
@@ -1320,29 +1320,29 @@
 1318,30.622120000000002,-96.35398,1.0,1620954780000,['fast'],S37,23.3,74.0
 1319,30.619640000000004,-96.34726,3.0,1620956901000,['Rowdy people'],S37,23.3,74.0
 1320,30.61942,-96.34661000000001,4.0,1620960217200,['Rowdy people'],S37,22.8,73.0
-1321,30.629400000000004,-96.33981000000001,2.0,1618447288800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Steep sidewalk slope', 'No sidewalk', 'Lack of crosswalk', 'No benches']",S28,22.8,73.0
+1321,30.629400000000004,-96.33981000000001,2.0,1618447288800,"['Litter', 'Poor walking surface', 'Steep sidewalk slope', 'No sidewalk', 'Lack of crosswalk', 'No benches']",S28,22.8,73.0
 1322,30.612060000000003,-96.33122,4.0,1618494982200,['construction on the road'],S28,16.1,61.0
 1323,30.624700000000004,-96.3438,2.0,1618800811500,['I got lost and needed to double check my route'],S28,15.6,60.0
 1324,30.605120000000003,-96.33874,3.0,1618883868000,['construction zone'],S28,20.0,68.0
 1325,30.617890000000003,-96.32249,1.0,1618898791200,['construction on road'],S28,14.4,58.0
 1326,30.62637,-96.33988000000001,3.0,1619321310000,"['Crosswalk and pedestrian light missing', 'Rowdy people', 'Tree missing', 'Lack of street lights', 'Lack of crosswalk']",S28,20.0,68.0
-1327,30.62863,-96.34198,4.0,1619483219400,"['slow moving traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'bugs', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S28,26.7,80.0
+1327,30.62863,-96.34198,4.0,1619483219400,"['slow moving traffic', 'Litter', 'bugs', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S28,26.7,80.0
 1328,30.618610000000004,-96.32350000000001,1.0,1619488143600,['construction'],S28,25.6,78.0
 1329,30.62657,-96.34069000000001,3.0,1619564724600,"['Poor walking surface', 'No sidewalk', 'Lack of street lights']",S28,25.0,77.0
 1330,30.610670000000002,-96.34670000000001,1.0,1619577013200,['Poor walking surface'],S28,24.4,76.0
 1331,29.65932,-95.71675,4.0,1619638905600,['Construction'],S28,30.6,87.0
 1332,30.6048,-96.33899000000001,2.0,1619642034000,['construction and traffic were particularly bad'],S28,29.4,85.0
-1333,30.628130000000002,-96.33652000000001,2.0,1620099158100,"['busses passing very close', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S28,26.1,79.0
+1333,30.628130000000002,-96.33652000000001,2.0,1620099158100,"['busses passing very close', 'Litter', 'No sidewalk', 'Lack of street lights']",S28,26.1,79.0
 1334,30.625700000000002,-96.34013,2.0,1620185310000,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S28,20.0,68.0
-1335,30.62554,-96.33984000000001,3.0,1620266677800,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'No sidewalk', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'No benches']",S28,22.8,73.0
+1335,30.62554,-96.33984000000001,3.0,1620266677800,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'No sidewalk', 'Rowdy people', 'Litter', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'No benches']",S28,22.8,73.0
 1336,30.625410000000002,-96.34214000000001,2.0,1620315498000,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'No benches']",S28,22.2,72.0
 1337,30.62665,-96.33754,4.0,1620447822000,"['cracked pavement', 'Abandoned vehicle', 'police', 'Blocked sidewalk', 'No sidewalk', 'No benches']",S28,21.7,71.0
 1338,30.625380000000003,-96.34215,3.0,1620492665400,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'No benches']",S28,26.1,79.0
-1339,30.626790000000003,-96.33732,3.0,1620702048000,"['Litter (dumping, broken glass weeds, graffiti)', 'bad smell and cops', 'Lack of street lights']",S28,21.1,70.0
+1339,30.626790000000003,-96.33732,3.0,1620702048000,"['Litter', 'bad smell and cops', 'Lack of street lights']",S28,21.1,70.0
 1340,30.626310000000004,-96.33824000000001,3.0,1620956164800,"['Lots of bugs', 'No sidewalk', 'Lack of street lights']",S28,23.3,74.0
 1341,30.626640000000002,-96.3375,2.0,1621136491200,"['Rowdy people', 'Blocked sidewalk', 'No sidewalk']",S28,23.3,74.0
 1342,30.622880000000002,-96.34067,3.0,1621214616900,"['Poor walking surface', 'High speed of traffic', 'Rowdy people']",S28,23.9,75.0
-1343,30.623970000000003,-96.34014,3.0,1621216500600,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk', 'No benches']",S28,23.9,75.0
+1343,30.623970000000003,-96.34014,3.0,1621216500600,"['Rowdy people', 'Litter', 'Blocked sidewalk', 'No benches']",S28,23.9,75.0
 1344,30.630090000000003,-96.36038,1.0,1619034749400,['High speed of traffic'],S36,17.2,63.0
 1345,30.630630000000004,-96.36024,1.0,1619139928800,['Abandoned vehicle'],S36,19.4,67.0
 1346,30.630260000000003,-96.36048000000001,,1619224326000,[],S36,19.4,67.0
@@ -1362,7 +1362,7 @@
 1360,30.613760000000003,-96.34107,2.0,1620342545400,"['16', 'No sidewalk']",S36,28.9,84.0
 1361,30.630750000000003,-96.35929,3.0,1620366762600,"['No sidewalk', 'High speed of traffic']",S36,22.8,73.0
 1362,30.631110000000003,-96.35874000000001,1.0,1620449659500,['No sidewalk'],S36,21.7,71.0
-1363,30.65969,-96.35962,3.0,1620523502400,"['No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)']",S36,26.7,80.0
+1363,30.65969,-96.35962,3.0,1620523502400,"['No sidewalk', 'Litter']",S36,26.7,80.0
 1364,30.62948,-96.35894,1.0,1621473451800,['Poor walking surface'],S52,22.2,72.0
 1365,30.629450000000002,-96.35986000000001,1.0,1621559828400,"['Weather condition', 'No benches', 'Lack of crosswalk']",S52,26.1,79.0
 1366,30.628830000000004,-96.35914000000001,1.0,1621643653200,['Poor walking surface'],S52,25.6,78.0
@@ -1392,19 +1392,19 @@
 1390,30.619670000000003,-96.34938000000001,4.0,1619735910600,['Weather condition'],S38,27.2,81.0
 1391,30.625170000000004,-96.35305000000001,2.0,1619837648400,"['I needed to merge lanes but my side mirrors were getting icy and I couldnt see very well', 'Weather condition', 'Lack of street lights']",S38,21.7,71.0
 1392,30.627810000000004,-96.35709000000001,3.0,1619915581800,['Weather condition'],S38,20.6,69.0
-1393,30.621630000000003,-96.34903000000001,3.0,1619918079000,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition', 'Poor walking surface']",S38,20.6,69.0
-1394,30.61043,-96.3426,4.0,1619920090200,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition', 'Poor walking surface', 'Poor walking surface', 'Steep sidewalk slope', 'No sidewalk', 'No benches']",S38,20.6,69.0
+1393,30.621630000000003,-96.34903000000001,3.0,1619918079000,"['Litter', 'Weather condition', 'Poor walking surface']",S38,20.6,69.0
+1394,30.61043,-96.3426,4.0,1619920090200,"['Litter', 'Weather condition', 'Poor walking surface', 'Poor walking surface', 'Steep sidewalk slope', 'No sidewalk', 'No benches']",S38,20.6,69.0
 1395,30.618460000000002,-96.34548000000001,,1619997133200,"['High speed of traffic', 'No benches']",S38,29.4,85.0
 1396,30.62655,-96.35558,3.0,1620088656000,['High speed of traffic'],S38,30.0,86.0
 1397,30.621850000000002,-96.34929000000001,3.0,1620176755200,"['Crosswalk and pedestrian light missing', 'High speed of traffic']",S38,22.8,73.0
 1398,30.616190000000003,-96.34344,3.0,1620264154800,"['Rowdy people', 'Tree missing', 'Poor walking surface', 'highway traffic', 'Unattended dogs', 'Unattended dogs', 'Rowdy people', 'Blocked sidewalk', 'No sidewalk', 'No benches']",S38,23.9,75.0
 1399,30.616350000000004,-96.34297000000001,2.0,1620264278400,"['Rowdy people', 'Weather condition', 'Poor walking surface']",S38,23.9,75.0
 1400,30.62103,-96.34833,3.0,1620349052400,"['unknown area at night', 'Unattended dogs', 'Unattended dogs', 'No sidewalk', 'No benches']",S38,28.3,83.0
-1401,30.61766,-96.3465,2.0,1620437127600,"['Litter (dumping, broken glass weeds, graffiti)']",S38,26.1,79.0
+1401,30.61766,-96.3465,2.0,1620437127600,"['Litter']",S38,26.1,79.0
 1402,30.628390000000003,-96.35841,3.0,1620534254700,['Unattended dogs'],S38,24.4,76.0
-1403,30.619360000000004,-96.34893000000001,1.0,1620688878000,"['Litter (dumping, broken glass weeds, graffiti)']",S38,25.0,77.0
+1403,30.619360000000004,-96.34893000000001,1.0,1620688878000,"['Litter']",S38,25.0,77.0
 1404,30.620250000000002,-96.34748,2.0,1620775830000,"['Weather condition', 'Poor walking surface']",S38,18.9,66.0
-1405,30.61821,-96.34784,1.0,1620857275500,"['Litter (dumping, broken glass weeds, graffiti)']",S38,18.9,66.0
+1405,30.61821,-96.34784,1.0,1620857275500,"['Litter']",S38,18.9,66.0
 1406,30.626590000000004,-96.35609000000001,,1620858782100,['Poor walking surface'],S38,18.9,66.0
 1407,30.618420000000004,-96.34561000000001,3.0,1620944520000,['High speed of traffic'],S38,25.6,78.0
 1408,30.624070000000003,-96.35174,4.0,1620945482400,"['No benches', 'Crosswalk and pedestrian light missing', 'Poor walking surface', 'No sidewalk']",S38,25.6,78.0
@@ -1420,15 +1420,15 @@
 1418,30.631280000000004,-96.35924000000001,1.0,1622079625500,['Unattended dogs'],S53,29.4,85.0
 1419,30.629230000000003,-96.35819000000001,3.0,1622173179600,['Poor walking surface'],S53,27.2,81.0
 1420,30.629610000000003,-96.35993,4.0,1622244316200,['Weather condition'],S53,27.2,81.0
-1421,30.630740000000003,-96.36002,2.0,1622339130000,"['Litter (dumping, broken glass weeds, graffiti)']",S53,28.9,84.0
+1421,30.630740000000003,-96.36002,2.0,1622339130000,"['Litter']",S53,28.9,84.0
 1422,30.628780000000003,-96.35917,1.0,1622425767600,"['j walking pedestrians', 'High speed of traffic', 'High speed of traffic']",S53,27.2,81.0
 1423,30.628880000000002,-96.35881,3.0,1622507669400,['This app not working properly'],S53,28.9,84.0
 1424,30.629440000000002,-96.35990000000001,1.0,1622597238000,['Rowdy people'],S53,26.1,79.0
-1425,30.63051,-96.35795,2.0,1622678871900,"['Litter (dumping, broken glass weeds, graffiti)']",S53,29.4,85.0
-1426,30.629130000000004,-96.35864000000001,2.0,1622768915400,"['Litter (dumping, broken glass weeds, graffiti)']",S53,21.1,70.0
+1425,30.63051,-96.35795,2.0,1622678871900,"['Litter']",S53,29.4,85.0
+1426,30.629130000000004,-96.35864000000001,2.0,1622768915400,"['Litter']",S53,21.1,70.0
 1427,30.62946,-96.33671000000001,2.0,1620387123000,['High speed of traffic'],S39,17.8,64.0
 1428,30.606830000000002,-96.35178,2.0,1620391244400,['Wrist band not connected properly'],S39,17.8,64.0
-1429,30.617610000000003,-96.34837,3.0,1620399280500,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S39,22.8,73.0
+1429,30.617610000000003,-96.34837,3.0,1620399280500,"['Litter', 'Blocked sidewalk']",S39,22.8,73.0
 1430,30.617330000000003,-96.34699,3.0,1620399447000,['No sidewalk'],S39,22.8,73.0
 1431,30.61766,-96.34569,3.0,1620399669000,['No sidewalk'],S39,25.0,77.0
 1432,30.617590000000003,-96.34127000000001,2.0,1620404370000,['Lack of crosswalk'],S39,26.1,79.0
@@ -1437,13 +1437,13 @@
 1435,30.622980000000002,-96.34021000000001,3.0,1620566635200,"['poor road conditions', ""Walk sign doesn't respond""]",S39,25.6,78.0
 1436,30.629780000000004,-96.33287000000001,3.0,1620567387600,['High speed of traffic'],S39,25.6,78.0
 1437,30.61719,-96.34678000000001,3.0,1620598272000,['trying to get in the left lane with a bunch of traffic coming'],S39,29.4,85.0
-1438,30.623220000000003,-96.34949,4.0,1620598873200,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S39,29.4,85.0
+1438,30.623220000000003,-96.34949,4.0,1620598873200,"['Crosswalk and pedestrian light missing', 'Litter', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S39,29.4,85.0
 1439,30.62422,-96.34749000000001,5.0,1620598952400,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'High speed of traffic', 'One way road with two way traffic and a culvert on side.']",S39,29.4,85.0
 1440,30.618540000000003,-96.33573000000001,1.0,1620647070000,"['Crosswalk and pedestrian light missing', 'Steep sidewalk slope']",S39,24.4,76.0
-1441,30.6106,-96.3422,1.0,1620650823900,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S39,25.0,77.0
+1441,30.6106,-96.3422,1.0,1620650823900,"['Litter', 'Blocked sidewalk']",S39,25.0,77.0
 1442,29.721290000000003,-95.80067000000001,4.0,1620650987700,['Unattended dogs'],S39,25.0,77.0
 1443,29.72295,-95.80096,2.0,1620651063300,['Unattended dogs'],S39,25.0,77.0
-1444,30.608420000000002,-96.34579000000001,1.0,1620656610600,"['Poor walking surface', 'No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S39,26.1,79.0
+1444,30.608420000000002,-96.34579000000001,1.0,1620656610600,"['Poor walking surface', 'No sidewalk', 'Litter', 'Blocked sidewalk']",S39,26.1,79.0
 1445,30.61811,-96.34513000000001,2.0,1620658646400,['Poor walking surface'],S39,26.1,79.0
 1446,30.618070000000003,-96.34504000000001,1.0,1620659538300,['Poor walking surface'],S39,26.7,80.0
 1447,30.614100000000004,-96.33977,1.0,1620677620800,['Poor walking surface'],S39,29.4,85.0
@@ -1460,7 +1460,7 @@
 1458,30.60949,-96.34837,1.0,1620916288200,"['Rowdy people', 'encountered group of three people climbing into water fountain', 'No sidewalk']",S39,18.9,66.0
 1459,30.611500000000003,-96.34209000000001,3.0,1620916573800,['man walking behind me'],S39,18.9,66.0
 1460,30.613930000000003,-96.34502,5.0,1620916788000,['police car slowed down next to me (I realized a second later it was because of a stop sign)'],S39,18.9,66.0
-1461,30.614290000000004,-96.34499000000001,3.0,1620916818600,"['Litter (dumping, broken glass weeds, graffiti)', 'thought a branch on a ground was a small animal']",S39,18.9,66.0
+1461,30.614290000000004,-96.34499000000001,3.0,1620916818600,"['Litter', 'thought a branch on a ground was a small animal']",S39,18.9,66.0
 1462,30.612750000000002,-96.3401,3.0,1621427062500,['Weather condition'],S39,18.9,66.0
 1463,30.617310000000003,-96.34664000000001,3.0,1621427404800,['the person in the car in front of us had a trump sticker on the back of the car'],S39,18.9,66.0
 1464,30.616930000000004,-96.34468000000001,3.0,1621455082800,"['Construction', 'Blocked sidewalk']",S39,22.8,73.0
@@ -1469,7 +1469,7 @@
 1467,30.616280000000003,-96.34296,3.0,1621511900400,['Rowdy people'],S39,20.6,69.0
 1468,30.612700000000004,-96.34247,2.0,1621510968000,"['High speed of traffic', 'Rowdy people', 'people on scooters turned right as I was about to cross the street']",S39,20.6,69.0
 1469,30.611220000000003,-96.34212000000001,1.0,1621514865000,"['poor road conditions', 'construction', 'Blocked sidewalk']",S39,20.6,69.0
-1470,30.610550000000003,-96.34627,3.0,1621520968500,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S39,21.7,71.0
+1470,30.610550000000003,-96.34627,3.0,1621520968500,"['Litter', 'Poor walking surface']",S39,21.7,71.0
 1471,30.615360000000003,-96.34043000000001,2.0,1621541278800,"['High speed of traffic', 'car about to run me over :(', 'construction', 'construction', 'Poor walking surface']",S39,27.8,82.0
 1472,30.612500000000004,-96.34329000000001,2.0,1621541216400,['high traffic area'],S39,27.8,82.0
 1473,30.61418,-96.33983,2.0,1621541394000,['Lack of crosswalk'],S39,27.8,82.0
@@ -1497,8 +1497,8 @@
 1495,30.615130000000004,-96.33963000000001,1.0,1622118228600,"['construction', 'Blocked sidewalk']",S39,23.9,75.0
 1496,30.637780000000003,-96.32532,2.0,1622425167000,"['Rowdy people', 'Steep sidewalk slope']",S39,27.2,81.0
 1497,30.63294,-96.32909000000001,1.0,1622426683800,"['Poor walking surface', 'No sidewalk']",S39,26.1,79.0
-1498,30.634890000000002,-96.33152000000001,3.0,1622426944500,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S39,26.1,79.0
-1499,30.635410000000004,-96.33125000000001,1.0,1622466118500,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S39,23.3,74.0
+1498,30.634890000000002,-96.33152000000001,3.0,1622426944500,"['Litter', 'Blocked sidewalk']",S39,26.1,79.0
+1499,30.635410000000004,-96.33125000000001,1.0,1622466118500,"['Litter', 'Blocked sidewalk']",S39,23.3,74.0
 1500,30.631770000000003,-96.33356,1.0,1622466577200,['No sidewalk'],S39,23.3,74.0
 1501,30.625460000000004,-96.32824000000001,2.0,1622468703900,['No sidewalk'],S39,23.3,74.0
 1502,30.62657,-96.33647,2.0,1620839559600,"['Weather condition', 'High speed of traffic']",S40,17.8,64.0
@@ -1508,7 +1508,7 @@
 1506,30.620700000000003,-96.35255000000001,5.0,1620863989200,"['High speed of traffic', 'Rowdy people', 'Poor walking surface', 'Lack of street lights']",S40,18.3,65.0
 1507,30.621520000000004,-96.35060000000001,3.0,1620864246600,['Rowdy people'],S40,18.3,65.0
 1508,30.626150000000003,-96.35631000000001,2.0,1620912824400,"['Rowdy people', 'Busy Intersection']",S40,16.7,62.0
-1509,30.627560000000003,-96.35471000000001,5.0,1620912903600,"['Lack of street lights', 'High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S40,16.7,62.0
+1509,30.627560000000003,-96.35471000000001,5.0,1620912903600,"['Lack of street lights', 'High speed of traffic', 'Rowdy people', 'Litter']",S40,16.7,62.0
 1510,30.625460000000004,-96.35355000000001,3.0,1620912990000,"['High speed of traffic', 'Rowdy people', 'Blocked sidewalk', 'Lack of street lights']",S40,16.7,62.0
 1511,30.623630000000002,-96.35118000000001,3.0,1620913076400,"['Poor walking surface', 'High speed of traffic', 'Rowdy people']",S40,16.7,62.0
 1512,30.623680000000004,-96.34769000000001,2.0,1620915310200,"['Poor walking surface', 'Steep sidewalk slope', 'No sidewalk']",S40,18.9,66.0
@@ -1561,12 +1561,12 @@
 1559,30.603270000000002,-96.34096000000001,3.0,1621879856400,['traffic jam'],S41,25.0,77.0
 1560,30.628100000000003,-96.34540000000001,2.0,1622125909500,['speeding driver'],S41,25.0,77.0
 1561,30.62422,-96.34229,2.0,1622213191800,"['Poor walking surface', 'No sidewalk']",S41,23.3,74.0
-1562,30.638140000000003,-96.32972000000001,2.0,1620908626500,"['Litter (dumping, broken glass weeds, graffiti)']",S42,16.1,61.0
-1563,30.636810000000004,-96.32981000000001,4.0,1620909672000,"['Litter (dumping, broken glass weeds, graffiti)', 'Steep sidewalk slope', 'Litter (dumping, broken glass weeds, graffiti)', 'Steep sidewalk slope', 'homeless lady']",S42,16.1,61.0
+1562,30.638140000000003,-96.32972000000001,2.0,1620908626500,"['Litter']",S42,16.1,61.0
+1563,30.636810000000004,-96.32981000000001,4.0,1620909672000,"['Litter', 'Steep sidewalk slope', 'Litter', 'Steep sidewalk slope', 'homeless lady']",S42,16.1,61.0
 1564,30.634490000000003,-96.33056,2.0,1620911332500,['Unattended dogs'],S42,16.7,62.0
 1565,30.636620000000004,-96.32996000000001,4.0,1620995614800,['Rowdy people'],S42,19.4,67.0
 1566,30.616570000000003,-96.34391000000001,2.0,1621081710000,"['There was high speed traffic on a congested highway.', 'Weather condition', 'No sidewalk']",S42,17.8,64.0
-1567,30.632260000000002,-96.33081000000001,3.0,1621083412500,"['Litter (dumping, broken glass weeds, graffiti)']",S42,17.8,64.0
+1567,30.632260000000002,-96.33081000000001,3.0,1621083412500,"['Litter']",S42,17.8,64.0
 1568,30.637770000000003,-96.32858,4.0,1621171195200,['Honking car'],S42,21.7,71.0
 1569,30.63511,-96.33073,3.0,1621178659500,['Loud music'],S42,23.9,75.0
 1570,30.63706,-96.33099000000001,4.0,1621343430000,"['Rowdy people', 'Blocked sidewalk', 'Lack of street lights', 'Blocked sidewalk']",S42,20.6,69.0
@@ -1577,15 +1577,15 @@
 1575,30.632220000000004,-96.33046,2.0,1622164793400,"['High speed of traffic', 'Blocked sidewalk', 'Steep sidewalk slope', 'Lack of street lights', 'Weather condition']",S42,28.9,84.0
 1576,30.63839,-96.32894,3.0,1622206493400,['Unattended dogs'],S42,25.0,77.0
 1577,30.6367,-96.33064,3.0,1622293397400,"['Construction', 'No sidewalk', 'garage sale; lots of traffic']",S42,21.7,71.0
-1578,30.636580000000002,-96.33073,3.0,1622373706200,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition', 'Litter (dumping, broken glass weeds, graffiti)']",S42,23.3,74.0
+1578,30.636580000000002,-96.33073,3.0,1622373706200,"['Litter', 'Weather condition', 'Litter']",S42,23.3,74.0
 1579,30.62648,-96.35557000000001,2.0,1620909378000,"['homeless lady', 'No sidewalk', 'Lack of crosswalk']",S43,16.1,61.0
 1580,30.634410000000003,-96.33066000000001,2.0,1620911345100,['Lack of crosswalk'],S43,16.7,62.0
 1581,30.634780000000003,-96.33164000000001,2.0,1620912732000,['stop light would not change right away'],S43,16.7,62.0
 1582,30.62111,-96.34268,2.0,1620997842600,"['Rowdy people', 'No sidewalk', 'Lack of crosswalk']",S43,19.4,67.0
-1583,30.620500000000003,-96.34277,2.0,1620998355000,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of crosswalk']",S43,19.4,67.0
+1583,30.620500000000003,-96.34277,2.0,1620998355000,"['Litter', 'No sidewalk', 'Lack of crosswalk']",S43,19.4,67.0
 1584,30.637620000000002,-96.33047,3.0,1621080854400,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Poor walking surface', 'Did not sleep well.']",S43,17.8,64.0
 1585,30.62384,-96.34175,1.0,1621082305200,['No sidewalk'],S43,17.8,64.0
-1586,30.634090000000004,-96.33014000000001,3.0,1621083699000,"['High speed of traffic', 'crossing the street with a sidewalk', 'Litter (dumping, broken glass weeds, graffiti)']",S43,19.4,67.0
+1586,30.634090000000004,-96.33014000000001,3.0,1621083699000,"['High speed of traffic', 'crossing the street with a sidewalk', 'Litter']",S43,19.4,67.0
 1587,30.637770000000003,-96.32855,2.0,1621171197000,['Honking car'],S43,21.7,71.0
 1588,30.636020000000002,-96.32851000000001,3.0,1621178413500,"['homeless man', 'Loud music']",S43,23.9,75.0
 1589,30.621080000000003,-96.34292,,1621177986900,[],S43,23.9,75.0
@@ -1593,16 +1593,16 @@
 1591,30.634480000000003,-96.33146,1.0,1621296600300,"['Poor walking surface', 'Steep sidewalk slope', 'Weather condition']",S43,22.2,72.0
 1592,30.637800000000002,-96.32884000000001,4.0,1621342803300,"['No benches', 'Blocked sidewalk']",S43,20.6,69.0
 1593,30.634400000000003,-96.32981000000001,2.0,1621344987000,['High speed of traffic'],S43,20.6,69.0
-1594,30.63558,-96.33047,2.0,1621424598000,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S43,18.9,66.0
+1594,30.63558,-96.33047,2.0,1621424598000,"['Rowdy people', 'Litter', 'Litter']",S43,18.9,66.0
 1595,30.626490000000004,-96.34317000000001,1.0,1621425177600,"['Weather condition', 'it started raining']",S43,18.9,66.0
-1596,30.623910000000002,-96.34182000000001,1.0,1621515587700,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Blocked sidewalk']",S43,20.6,69.0
+1596,30.623910000000002,-96.34182000000001,1.0,1621515587700,"['Litter', 'No sidewalk', 'Blocked sidewalk']",S43,20.6,69.0
 1597,30.637940000000004,-96.32983,2.0,1621596541200,['Lack of street lights'],S43,22.2,72.0
 1598,30.632640000000002,-96.33047,3.0,1621687952700,"['Going to plant store before it gets busy', 'Going to plant store before it gets busy']",S43,23.9,75.0
 1599,30.636810000000004,-96.33076000000001,2.0,1621772265000,['Abandoned vehicle'],S43,22.2,72.0
 1600,30.632450000000002,-96.33029,2.0,1622164833000,"['No sidewalk', 'Lack of crosswalk', 'Weather condition']",S43,28.9,84.0
 1601,30.63886,-96.32920000000001,3.0,1622206434000,"['High speed of traffic', ""I had to cross the crosswalk really fast which was stressful; because there's a 30 second limit"", 'Unattended dogs']",S43,25.0,77.0
 1602,30.637090000000004,-96.331,3.0,1622293452000,['Garage sale; lots of traffic'],S43,21.7,71.0
-1603,30.637100000000004,-96.33154,2.0,1622373736500,"['High speed of traffic', ""that's a big intersection where I have to use the crosswalk"", 'Litter (dumping, broken glass weeds, graffiti)']",S43,23.3,74.0
+1603,30.637100000000004,-96.33154,2.0,1622373736500,"['High speed of traffic', ""that's a big intersection where I have to use the crosswalk"", 'Litter']",S43,23.3,74.0
 1604,30.61924,-96.3465,3.0,1621010377800,"['Poor walking surface', 'High speed of traffic']",S45,21.7,71.0
 1605,30.62017,-96.34365000000001,2.0,1621010634300,['Weather condition'],S45,21.7,71.0
 1606,30.620440000000002,-96.34511,2.0,1621010934000,['Weather condition'],S45,21.7,71.0
@@ -1616,7 +1616,7 @@
 1614,30.574800000000003,-96.31576000000001,3.0,1621436380800,['not sure which way to gk'],S45,20.0,68.0
 1615,30.628590000000003,-96.33381000000001,2.0,1621441917000,"['Steep sidewalk slope', 'lots of traffic']",S45,21.1,70.0
 1616,30.622180000000004,-96.34142000000001,1.0,1621441917000,['Poor walking surface'],S45,21.1,70.0
-1617,30.629700000000003,-96.34132000000001,2.0,1621444936500,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S45,22.2,72.0
+1617,30.629700000000003,-96.34132000000001,2.0,1621444936500,"['Litter', 'Lack of street lights']",S45,22.2,72.0
 1618,30.66908,-96.37442000000001,4.0,1621447788000,['Transient people'],S45,22.8,73.0
 1619,30.5954,-96.30717000000001,4.0,1621452015000,['lots of pot holes'],S45,22.8,73.0
 1620,30.579870000000003,-96.30816,3.0,1621465980000,['Lack of crosswalk'],S45,22.8,73.0
@@ -1625,13 +1625,13 @@
 1623,30.578390000000002,-96.30566,2.0,1621807122600,['Rowdy people'],S45,23.3,74.0
 1624,30.578080000000003,-96.30220000000001,2.0,1621899549600,"['Unattended dogs', 'Blocked sidewalk']",S45,23.9,75.0
 1625,30.580350000000003,-96.30817,1.0,1621985068800,['16'],S45,26.7,80.0
-1626,30.579660000000004,-96.30879,1.0,1621985883300,"['Litter (dumping, broken glass weeds, graffiti)']",S45,26.7,80.0
-1627,30.61784,-96.3452,2.0,1621007919000,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S44,20.6,69.0
+1626,30.579660000000004,-96.30879,1.0,1621985883300,"['Litter']",S45,26.7,80.0
+1627,30.61784,-96.3452,2.0,1621007919000,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Litter', 'Poor walking surface']",S44,20.6,69.0
 1628,30.620040000000003,-96.34724000000001,2.0,1621011627600,['Unattended dogs'],S44,23.9,75.0
 1629,30.618940000000002,-96.34462,2.0,1621100709000,['High speed of traffic'],S44,26.7,80.0
 1630,30.617890000000003,-96.34505000000001,,1621100091600,['Poor walking surface'],S44,26.7,80.0
 1631,30.62036,-96.34646000000001,2.0,1621100885400,['Weather condition'],S44,26.7,80.0
-1632,30.622940000000003,-96.34822000000001,3.0,1621219139700,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S44,22.8,73.0
+1632,30.622940000000003,-96.34822000000001,3.0,1621219139700,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Litter']",S44,22.8,73.0
 1633,30.621850000000002,-96.34665000000001,,1621218972000,['Lack of street lights'],S44,22.8,73.0
 1634,30.61925,-96.34465,2.0,1621289970600,['High speed of traffic'],S44,22.8,73.0
 1635,30.619280000000003,-96.34641,2.0,1621292196600,['Poor walking surface'],S44,22.8,73.0
@@ -1648,20 +1648,20 @@
 1646,30.621760000000002,-96.35344,3.0,1621724815500,['Poor walking surface'],S44,26.1,79.0
 1647,30.618340000000003,-96.35056,3.0,1621724407500,"['Poor walking surface', 'No sidewalk']",S44,26.1,79.0
 1648,30.618370000000002,-96.3455,2.0,1621723795500,['Poor walking surface'],S44,26.7,80.0
-1649,30.6229,-96.34841,2.0,1621821656400,"['Litter (dumping, broken glass weeds, graffiti)']",S44,21.7,71.0
+1649,30.6229,-96.34841,2.0,1621821656400,"['Litter']",S44,21.7,71.0
 1650,30.62167,-96.34289000000001,2.0,1621820938800,['Lack of street lights'],S44,21.7,71.0
 1651,30.629820000000002,-96.34982000000001,4.0,1621911397800,"['Weather condition', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S44,23.3,74.0
 1652,30.628420000000002,-96.34811,3.0,1621911584100,['Lack of street lights'],S44,23.3,74.0
 1653,30.629590000000004,-96.35274000000001,3.0,1621911045900,['Lack of street lights'],S44,23.3,74.0
-1654,30.622500000000002,-96.34761,2.0,1621912225800,"['Litter (dumping, broken glass weeds, graffiti)']",S44,22.8,73.0
+1654,30.622500000000002,-96.34761,2.0,1621912225800,"['Litter']",S44,22.8,73.0
 1655,30.621480000000002,-96.34633000000001,3.0,1621991776200,['Weather condition'],S44,25.6,78.0
-1656,30.62299,-96.34823,2.0,1621993720800,"['Litter (dumping, broken glass weeds, graffiti)']",S44,25.6,78.0
+1656,30.62299,-96.34823,2.0,1621993720800,"['Litter']",S44,25.6,78.0
 1657,30.622000000000003,-96.34299000000001,2.0,1621993116000,['No sidewalk'],S44,25.6,78.0
 1658,30.617590000000003,-96.34312000000001,2.0,1622076480000,['Tree missing'],S44,31.1,88.0
-1659,30.620520000000003,-96.34632,3.0,1622076960000,"['Litter (dumping, broken glass weeds, graffiti)']",S44,31.1,88.0
+1659,30.620520000000003,-96.34632,3.0,1622076960000,"['Litter']",S44,31.1,88.0
 1660,30.620050000000003,-96.33779000000001,3.0,1622161091100,['Weather condition'],S44,31.1,88.0
 1661,30.62122,-96.34194000000001,2.0,1622161547400,"['High speed of traffic', 'very long wait time at cross walk']",S44,31.1,88.0
-1662,30.622930000000004,-96.34862000000001,3.0,1622162389800,"['Litter (dumping, broken glass weeds, graffiti)']",S44,31.1,88.0
+1662,30.622930000000004,-96.34862000000001,3.0,1622162389800,"['Litter']",S44,31.1,88.0
 1663,30.624060000000004,-96.35105000000001,4.0,1621035279600,"['Poor walking surface', 'Lack of crosswalk', 'High speed of traffic']",S46,27.2,81.0
 1664,30.624930000000003,-96.3529,2.0,1621034898300,['Lack of crosswalk'],S46,27.2,81.0
 1665,30.622550000000004,-96.34996000000001,2.0,1621085305200,"['cross street came up twice', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'cars driving recklessly through parking lot', 'Unattended dogs', 'Rowdy people']",S46,19.4,67.0
@@ -1681,46 +1681,46 @@
 1679,30.611660000000004,-96.28583,3.0,1621715982000,['Unattended dogs'],S46,26.7,80.0
 1680,30.612560000000002,-96.28578,3.0,1621858744800,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Lack of crosswalk', 'High speed of traffic', 'Poor walking surface', 'Blocked sidewalk']",S46,22.8,73.0
 1681,30.62384,-96.35141,3.0,1621350077700,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'No sidewalk']",S49,22.2,72.0
-1682,30.627630000000003,-96.35488000000001,3.0,1621437292500,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'No benches']",S49,20.6,69.0
-1683,30.62017,-96.34997000000001,3.0,1621520585400,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S49,21.7,71.0
+1682,30.627630000000003,-96.35488000000001,3.0,1621437292500,"['Litter', 'Poor walking surface', 'No sidewalk', 'No benches']",S49,20.6,69.0
+1683,30.62017,-96.34997000000001,3.0,1621520585400,"['Litter', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S49,21.7,71.0
 1684,30.615800000000004,-96.33678,3.0,1621646632800,"['Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk']",S49,24.4,76.0
 1685,30.630560000000003,-96.36170000000001,3.0,1621691166000,"['Rowdy people', ""crosswalk signal didn't work"", 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S49,24.4,76.0
-1686,30.631980000000002,-96.35434000000001,5.0,1621784892000,"['Poor walking surface', 'No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)', 'Weather condition', 'No sidewalk', 'No benches']",S49,22.2,72.0
+1686,30.631980000000002,-96.35434000000001,5.0,1621784892000,"['Poor walking surface', 'No sidewalk', 'Litter', 'Weather condition', 'No sidewalk', 'No benches']",S49,22.2,72.0
 1687,30.61642,-96.34825000000001,4.0,1621784532000,"['High speed of traffic', 'Lack of crosswalk']",S49,22.2,72.0
 1688,30.623620000000003,-96.35125000000001,3.0,1621900546800,"['Rowdy people', 'Weather condition', 'No sidewalk', 'Lack of crosswalk']",S49,23.9,75.0
-1689,30.62242,-96.34973000000001,3.0,1621900858800,"['Poor walking surface', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Lack of crosswalk']",S49,23.3,74.0
-1690,30.624890000000004,-96.35257000000001,3.0,1621953972600,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Lack of crosswalk']",S49,24.4,76.0
-1691,30.619930000000004,-96.35173,5.0,1622034247800,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S49,23.9,75.0
+1689,30.62242,-96.34973000000001,3.0,1621900858800,"['Poor walking surface', 'Litter', 'Poor walking surface', 'Lack of crosswalk']",S49,23.3,74.0
+1690,30.624890000000004,-96.35257000000001,3.0,1621953972600,"['High speed of traffic', 'Litter', 'Poor walking surface', 'Lack of crosswalk']",S49,24.4,76.0
+1691,30.619930000000004,-96.35173,5.0,1622034247800,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Litter', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S49,23.9,75.0
 1692,30.610060000000004,-96.34319,5.0,1622035096500,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Lack of crosswalk']",S49,23.9,75.0
 1693,30.609560000000002,-96.34413,5.0,1622035342500,"['High speed of traffic', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Lack of crosswalk']",S49,23.9,75.0
 1694,30.61793,-96.34513000000001,2.0,1622047898400,"['Poor walking surface', 'Lack of crosswalk']",S49,27.2,81.0
 1695,30.60656,-96.33721000000001,2.0,1622247544200,['construction'],S49,25.6,78.0
-1696,30.622850000000003,-96.34069000000001,2.0,1622256688500,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition']",S49,22.2,72.0
+1696,30.622850000000003,-96.34069000000001,2.0,1622256688500,"['Litter', 'Weather condition']",S49,22.2,72.0
 1697,30.619650000000004,-96.34652000000001,3.0,1622262392400,"['High speed of traffic', 'Weather condition', 'Poor walking surface', 'Lack of crosswalk']",S49,21.1,70.0
-1698,30.626240000000003,-96.35434000000001,3.0,1622299146000,"['Poor walking surface', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Lack of crosswalk']",S49,22.8,73.0
+1698,30.626240000000003,-96.35434000000001,3.0,1622299146000,"['Poor walking surface', 'Litter', 'Poor walking surface', 'Lack of crosswalk']",S49,22.8,73.0
 1699,30.62629,-96.35783,4.0,1622300727000,['Rowdy people'],S49,25.0,77.0
 1700,30.620800000000003,-96.34646000000001,2.0,1622300864700,['No sidewalk'],S49,25.0,77.0
-1701,30.62628,-96.35428,3.0,1622515383000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Lack of crosswalk']",S49,26.1,79.0
-1702,30.628870000000003,-96.3546,4.0,1622564850000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S49,24.4,76.0
-1703,30.631960000000003,-96.35438,4.0,1622564625000,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S49,24.4,76.0
+1701,30.62628,-96.35428,3.0,1622515383000,"['Litter', 'Poor walking surface', 'Lack of crosswalk']",S49,26.1,79.0
+1702,30.628870000000003,-96.3546,4.0,1622564850000,"['Litter', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S49,24.4,76.0
+1703,30.631960000000003,-96.35438,4.0,1622564625000,"['Crosswalk and pedestrian light missing', 'Litter', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S49,24.4,76.0
 1704,30.57991,-96.2445,4.0,1622566224000,"['lots of construction around me', 'Loose gravel loud sound while driving']",S49,24.4,76.0
-1705,30.626810000000003,-96.3568,2.0,1622734027800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S49,26.7,80.0
-1706,30.619870000000002,-96.34721,4.0,1622747457600,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Lack of crosswalk']",S49,28.3,83.0
+1705,30.626810000000003,-96.3568,2.0,1622734027800,"['Litter', 'Poor walking surface']",S49,26.7,80.0
+1706,30.619870000000002,-96.34721,4.0,1622747457600,"['Litter', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Lack of crosswalk']",S49,28.3,83.0
 1707,30.621920000000003,-96.343,3.0,1622748899100,['Pedestrian not visible'],S49,28.3,83.0
-1708,30.625960000000003,-96.35398,3.0,1622814912000,"['Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Lack of crosswalk']",S49,21.7,71.0
+1708,30.625960000000003,-96.35398,3.0,1622814912000,"['Lack of street lights', 'Litter', 'Poor walking surface', 'Lack of crosswalk']",S49,21.7,71.0
 1709,30.619580000000003,-96.34692000000001,1.0,1622816370000,['it was very dark out and I was afraid of getting lost'],S49,22.2,72.0
 1710,30.662670000000002,-96.36036000000001,3.0,1621080470400,['bright sunlight shining in eyes'],S47,17.8,64.0
 1711,30.661070000000002,-96.32839000000001,2.0,1621086820800,"['No sidewalk', 'Lack of crosswalk']",S47,19.4,67.0
 1712,30.607860000000002,-96.308,3.0,1621175421600,"['Weather condition', 'Poor walking surface', 'No sidewalk', 'many confusing roads']",S47,23.3,74.0
 1713,30.62085,-96.3455,3.0,1621252527000,['Lack of street lights'],S47,22.2,72.0
 1714,30.6228,-96.34585000000001,3.0,1621252796100,"['Poor walking surface', 'Lack of street lights', 'Lack of crosswalk']",S47,22.2,72.0
-1715,30.62422,-96.34297000000001,4.0,1621253018400,"['High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of street lights']",S47,22.8,73.0
+1715,30.62422,-96.34297000000001,4.0,1621253018400,"['High speed of traffic', 'Rowdy people', 'Litter', 'No sidewalk', 'Lack of street lights']",S47,22.8,73.0
 1716,30.558650000000004,-96.32090000000001,2.0,1621263258000,['Poor visibility of incoming cars'],S47,24.4,76.0
 1717,30.624180000000003,-96.3481,3.0,1621267290000,['No sidewalk'],S47,27.2,81.0
 1718,30.639630000000004,-96.35807000000001,2.0,1621276945500,"['High speed of traffic', 'Poor walking surface', 'No sidewalk']",S47,28.9,84.0
 1719,30.600520000000003,-96.33475000000001,2.0,1621347427200,['Poor walking surface'],S47,21.1,70.0
 1720,30.517440000000004,-96.29879000000001,2.0,1621353660600,['road construction'],S47,25.0,77.0
-1721,30.658910000000002,-96.35974,2.0,1621449771900,"['Litter (dumping, broken glass weeds, graffiti)']",S47,22.8,73.0
+1721,30.658910000000002,-96.35974,2.0,1621449771900,"['Litter']",S47,22.8,73.0
 1722,30.661790000000003,-96.35926,2.0,1621508454000,[],S47,20.6,69.0
 1723,30.630860000000002,-96.36001,1.0,1621594814100,['No sidewalk'],S47,22.2,72.0
 1724,30.630670000000002,-96.36024,1.0,1621690069500,['No sidewalk'],S47,24.4,76.0
@@ -1730,19 +1730,19 @@
 1728,30.613760000000003,-96.34107,2.0,1621701558600,"['16', 'No sidewalk']",S47,26.7,80.0
 1729,30.630750000000003,-96.35929,3.0,1621781672400,"['No sidewalk', 'High speed of traffic']",S47,21.7,71.0
 1730,30.631110000000003,-96.35874000000001,1.0,1621853931900,['No sidewalk'],S47,22.2,72.0
-1731,30.65969,-96.35962,3.0,1621885076400,"['No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)']",S47,27.2,81.0
-1732,30.661340000000003,-96.36012000000001,1.0,1621939740300,"['Litter (dumping, broken glass weeds, graffiti)']",S47,22.8,73.0
+1731,30.65969,-96.35962,3.0,1621885076400,"['No sidewalk', 'Litter']",S47,27.2,81.0
+1732,30.661340000000003,-96.36012000000001,1.0,1621939740300,"['Litter']",S47,22.8,73.0
 1733,30.659100000000002,-96.36045000000001,2.0,1622143878600,['Poor walking surface'],S47,31.1,88.0
 1734,30.666870000000003,-96.36693000000001,2.0,1622209506000,['High speed of traffic'],S47,25.0,77.0
 1735,30.665640000000003,-96.36571,2.0,1622215799700,['Blocked sidewalk'],S47,23.3,74.0
-1736,30.645590000000002,-96.35893,2.0,1621350748500,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk']",S48,22.2,72.0
+1736,30.645590000000002,-96.35893,2.0,1621350748500,"['High speed of traffic', 'Litter', 'No sidewalk']",S48,22.2,72.0
 1737,30.62017,-96.35192,2.0,1621350479400,"['No sidewalk', 'Lack of street lights']",S48,22.2,72.0
 1738,30.620910000000002,-96.35040000000001,3.0,1621350527700,['Lack of crosswalk'],S48,22.2,72.0
 1739,30.624260000000003,-96.35173,2.0,1621350651900,"['Blocked sidewalk', 'Rowdy people']",S48,22.2,72.0
 1740,30.62732,-96.35497000000001,3.0,1621350796800,"['Lack of crosswalk', 'Crosswalk and pedestrian light missing']",S48,22.2,72.0
 1741,30.627530000000004,-96.35494000000001,1.0,1621362494100,"['High speed of traffic', 'car almost hit me', 'Unattended dogs', 'Uncertain about legitimate parking']",S48,27.2,81.0
 1742,30.623890000000003,-96.34851,4.0,1621362676500,"['Rowdy people', 'people without masks nearby', 'Rowdy people', 'Rude entitled driver in pickup truck']",S48,27.2,81.0
-1743,30.629960000000004,-96.3545,3.0,1621362796200,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S48,27.2,81.0
+1743,30.629960000000004,-96.3545,3.0,1621362796200,"['Litter', 'Blocked sidewalk']",S48,27.2,81.0
 1744,30.63164,-96.35275000000001,2.0,1621362705000,['No sidewalk'],S48,27.2,81.0
 1745,30.62685,-96.35533000000001,,1621362898800,"['High speed of traffic', 'Rowdy people']",S48,27.2,81.0
 1746,30.620480000000004,-96.34993000000001,2.0,1621364563800,"['construction', 'Narrow street', 'Poor walking surface', 'No sidewalk']",S48,28.9,84.0
@@ -1755,7 +1755,7 @@
 1753,30.625490000000003,-96.35340000000001,2.0,1621436173200,['Rowdy people'],S48,20.0,68.0
 1754,30.625490000000003,-96.35626,3.0,1621437058200,"['High speed of traffic', 'Lack of crosswalk']",S48,20.6,69.0
 1755,30.643720000000002,-96.36135,2.0,1621510000500,"['High speed of traffic', 'No sidewalk', 'Lack of crosswalk']",S48,20.6,69.0
-1756,30.623990000000003,-96.35169,3.0,1621513923300,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S48,20.6,69.0
+1756,30.623990000000003,-96.35169,3.0,1621513923300,"['High speed of traffic', 'Litter', 'Poor walking surface', 'No sidewalk']",S48,20.6,69.0
 1757,30.62374,-96.34239000000001,2.0,1621515912000,['Limited visibility left turn onto College Ave northbound'],S48,20.6,69.0
 1758,30.644640000000003,-96.35219000000001,3.0,1621520775000,['Poorly-timed traffic lights at three-way intersection'],S48,21.7,71.0
 1759,30.650750000000002,-96.34283,3.0,1621520685000,['Heavy traffic; unable to make left turn'],S48,21.7,71.0
@@ -1808,26 +1808,26 @@
 1806,30.62019,-96.34758000000001,3.0,1621465440000,"['Unattended dogs', 'Rowdy people', 'Poor walking surface', 'Lack of street lights']",S50,22.8,73.0
 1807,30.609880000000004,-96.34306000000001,4.0,1621526475900,"['High speed of traffic', 'Blocked sidewalk', 'No sidewalk', 'No benches']",S50,23.9,75.0
 1808,30.618380000000002,-96.34557000000001,4.0,1621718011500,"['Blocked sidewalk', 'No sidewalk', 'No benches']",S50,27.8,82.0
-1809,30.614210000000003,-96.34163000000001,3.0,1621727552100,"['High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S50,26.1,79.0
+1809,30.614210000000003,-96.34163000000001,3.0,1621727552100,"['High speed of traffic', 'Rowdy people', 'Litter']",S50,26.1,79.0
 1810,30.623810000000002,-96.35139000000001,3.0,1621806894600,"['Abandoned vehicle', 'Weather condition', 'Poor walking surface', 'No sidewalk', 'No benches']",S50,23.3,74.0
 1811,30.607200000000002,-96.34172000000001,3.0,1621880208600,"['High speed of traffic', 'Blocked sidewalk', 'No sidewalk']",S50,25.0,77.0
 1812,30.624060000000004,-96.35174,4.0,1621883719200,"['Unattended dogs', 'Abandoned vehicle', 'Blocked sidewalk', 'No sidewalk', 'Lack of crosswalk']",S50,27.2,81.0
 1813,30.61023,-96.34270000000001,3.0,1621962555000,"['Weather condition', 'Poor walking surface', 'Blocked sidewalk', 'Steep sidewalk slope', 'No sidewalk']",S50,28.3,83.0
 1814,30.624920000000003,-96.35261000000001,5.0,1621963218000,['Weather condition'],S50,28.3,83.0
 1815,30.60788,-96.34143,3.0,1621966208400,"['Blocked sidewalk', 'No sidewalk', 'No benches']",S50,26.7,80.0
-1816,30.61043,-96.3426,4.0,1622135002800,"['Litter (dumping, broken glass weeds, graffiti)', 'Weather condition', 'Poor walking surface', 'Poor walking surface', 'Steep sidewalk slope', 'No sidewalk', 'No benches']",S50,28.3,83.0
+1816,30.61043,-96.3426,4.0,1622135002800,"['Litter', 'Weather condition', 'Poor walking surface', 'Poor walking surface', 'Steep sidewalk slope', 'No sidewalk', 'No benches']",S50,28.3,83.0
 1817,30.621850000000002,-96.34929000000001,3.0,1622141662800,"['Crosswalk and pedestrian light missing', 'High speed of traffic']",S50,29.4,85.0
 1818,30.616190000000003,-96.34344,3.0,1622145217200,"['Rowdy people', 'Tree missing', 'Poor walking surface', 'highway traffic', 'Unattended dogs', 'Unattended dogs', 'Rowdy people', 'Blocked sidewalk', 'No sidewalk', 'No benches']",S50,31.1,88.0
 1819,30.616350000000004,-96.34297000000001,2.0,1622145267600,"['Rowdy people', 'Weather condition', 'Poor walking surface']",S50,31.1,88.0
 1820,30.62103,-96.34833,3.0,1622146365900,"['unknown area at night', 'Unattended dogs', 'Unattended dogs', 'No sidewalk', 'No benches']",S50,31.1,88.0
 1821,30.621090000000002,-96.34848000000001,4.0,1622225865000,"['Unattended dogs', 'Poor walking surface', 'No sidewalk', 'No benches']",S50,28.3,83.0
 1822,29.723440000000004,-95.38974,5.0,1622226330000,['so much traffic'],S50,25.9,79.0
-1823,30.62402,-96.30520000000001,4.0,1622227458000,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S50,28.3,83.0
+1823,30.62402,-96.30520000000001,4.0,1622227458000,"['Crosswalk and pedestrian light missing', 'Unattended dogs', 'Rowdy people', 'Litter']",S50,28.3,83.0
 1824,30.631050000000002,-96.35059000000001,3.0,1622234160000,"['Poor walking surface', 'Blocked sidewalk']",S50,30.6,87.0
 1825,30.626340000000003,-96.35571,4.0,1622236521600,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S50,30.0,86.0
 1826,30.624070000000003,-96.35174,4.0,1622345312400,"['No benches', 'Crosswalk and pedestrian light missing', 'Poor walking surface', 'No sidewalk']",S50,27.8,82.0
 1827,30.62139,-96.34875000000001,3.0,1622395367400,"['Crosswalk and pedestrian light missing', 'Steep sidewalk slope', 'No sidewalk']",S50,25.6,78.0
-1828,30.615440000000003,-96.34437000000001,2.0,1622396208300,"['Unattended dogs', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S50,25.6,78.0
+1828,30.615440000000003,-96.34437000000001,2.0,1622396208300,"['Unattended dogs', 'Rowdy people', 'Litter', 'Poor walking surface', 'No sidewalk']",S50,25.6,78.0
 1829,30.60733,-96.34205000000001,3.0,1622397653400,"['Crosswalk and pedestrian light missing', 'Lack of street lights']",S50,26.7,80.0
 1830,30.624760000000002,-96.35254,4.0,1622406697500,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'No sidewalk', 'Lack of street lights']",S50,28.9,84.0
 1831,30.626030000000004,-96.35403000000001,3.0,1622484435300,"['Poor walking surface', 'Blocked sidewalk']",S50,28.9,84.0
@@ -1847,7 +1847,7 @@
 1845,30.62338,-96.3298,2.0,1622742538500,"['Lack of street lights', 'No sidewalk']",S51,27.2,81.0
 1846,30.652770000000004,-96.29923000000001,2.0,1622744109900,['Crosswalk and pedestrian light missing'],S51,28.3,83.0
 1847,30.618280000000002,-96.34528,1.0,1622747160000,['Unattended dogs'],S51,28.3,83.0
-1848,30.628590000000003,-96.34691000000001,3.0,1623193322400,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S60,31.1,88.0
+1848,30.628590000000003,-96.34691000000001,3.0,1623193322400,"['Crosswalk and pedestrian light missing', 'Litter', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S60,31.1,88.0
 1849,30.62422,-96.34749000000001,5.0,1623192919200,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'High speed of traffic', 'One way road with two way traffic and a culvert on side.']",S60,31.1,88.0
 1850,30.618540000000003,-96.33573000000001,1.0,1623194332500,"['Crosswalk and pedestrian light missing', 'Steep sidewalk slope']",S60,31.1,88.0
 1851,30.606610000000003,-96.34848000000001,3.0,1623212553000,['construction'],S60,27.2,81.0
@@ -1868,10 +1868,10 @@
 1866,30.61691,-96.34405000000001,1.0,1622842365600,"['High speed of traffic', 'Weather condition']",S59,26.1,79.0
 1867,30.600500000000004,-96.30155,1.0,1622908444800,"['lots of potholes', 'heavy traffic']",S59,25.6,78.0
 1868,30.62599,-96.33746000000001,1.0,1622910030900,"['Crosswalk and pedestrian light missing', 'No sidewalk', 'Lack of crosswalk', 'cross traffic; poor visibility', 'Poor walking surface']",S59,27.2,81.0
-1869,30.625410000000002,-96.34883,3.0,1622909964600,"['No sidewalk', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)']",S59,27.2,81.0
+1869,30.625410000000002,-96.34883,3.0,1622909964600,"['No sidewalk', 'Lack of crosswalk', 'Crosswalk and pedestrian light missing', 'Litter']",S59,27.2,81.0
 1870,30.627150000000004,-96.35101,3.0,1622910011400,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S59,27.2,81.0
 1871,30.616390000000003,-96.34490000000001,1.0,1622915406600,['Blocked sidewalk'],S59,28.3,83.0
-1872,30.62158,-96.3499,2.0,1622916438000,"['Litter (dumping, broken glass weeds, graffiti)']",S59,28.9,84.0
+1872,30.62158,-96.3499,2.0,1622916438000,"['Litter']",S59,28.9,84.0
 1873,30.640230000000003,-96.35874000000001,1.0,1623074655600,['many roads'],S59,27.8,82.0
 1874,30.62271,-96.34099,1.0,1623081717000,"['Blocked sidewalk', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S59,30.6,87.0
 1875,30.617220000000003,-96.34442000000001,1.0,1623082627500,['Weather condition'],S59,30.6,87.0
@@ -1879,17 +1879,17 @@
 1877,30.627050000000004,-96.35340000000001,5.0,1623169476000,"['Blocked sidewalk', 'No sidewalk', 'High speed of traffic']",S59,30.0,86.0
 1878,30.629580000000004,-96.35459,3.0,1623169652400,['other pedestrians on narrow sidewalk'],S59,30.0,86.0
 1879,30.633470000000003,-96.35326,4.0,1623169866600,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'poor view of approaching high speed traffic']",S59,30.0,86.0
-1880,30.618180000000002,-96.3452,1.0,1623173671800,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights', 'Poor walking surface']",S59,31.7,89.0
-1881,30.629070000000002,-96.35329,4.0,1623171592800,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S59,30.0,86.0
-1882,30.619390000000003,-96.34798,3.0,1623172953600,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S59,31.7,89.0
+1880,30.618180000000002,-96.3452,1.0,1623173671800,"['Crosswalk and pedestrian light missing', 'Litter', 'Lack of street lights', 'Poor walking surface']",S59,31.7,89.0
+1881,30.629070000000002,-96.35329,4.0,1623171592800,"['No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'High speed of traffic', 'Litter']",S59,30.0,86.0
+1882,30.619390000000003,-96.34798,3.0,1623172953600,"['Rowdy people', 'Litter', 'Poor walking surface']",S59,31.7,89.0
 1883,30.62122,-96.34266000000001,1.0,1623268852800,['Blocked sidewalk'],S59,33.3,92.0
 1884,30.615470000000002,-96.34155000000001,1.0,1623355308600,"['judging whether I would get through traffic light', 'Steep sidewalk slope']",S59,33.3,92.0
 1885,30.61428,-96.34091000000001,1.0,1623357732900,"['backing into my driveway', 'Blocked sidewalk']",S59,33.3,92.0
 1886,30.597160000000002,-96.2968,2.0,1623359693400,['would light change?'],S59,34.4,94.0
 1887,30.619450000000004,-96.34823,3.0,1623441682200,"['Crosswalk and pedestrian light missing', 'High speed of traffic', 'Unattended dogs']",S59,33.3,92.0
-1888,30.618520000000004,-96.34672,1.0,1623441890700,"['No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S59,33.3,92.0
-1889,30.618040000000004,-96.34774,1.0,1623698946000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S59,33.9,93.0
-1890,30.61802,-96.34906000000001,1.0,1623779248800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S59,33.9,93.0
+1888,30.618520000000004,-96.34672,1.0,1623441890700,"['No sidewalk', 'Litter', 'Poor walking surface']",S59,33.3,92.0
+1889,30.618040000000004,-96.34774,1.0,1623698946000,"['Litter', 'Poor walking surface']",S59,33.9,93.0
+1890,30.61802,-96.34906000000001,1.0,1623779248800,"['Litter', 'Poor walking surface']",S59,33.9,93.0
 1891,30.620150000000002,-96.34335,1.0,1623781059900,['High speed of traffic'],S59,35.0,95.0
 1892,30.618340000000003,-96.34152,1.0,1623781528800,['Weather condition'],S59,35.0,95.0
 1893,30.618440000000003,-96.34032,1.0,1623782274600,"['Poor walking surface', 'Lack of crosswalk', 'Weather condition']",S59,35.0,95.0
@@ -1900,7 +1900,7 @@
 1898,30.616550000000004,-96.34325000000001,1.0,1624038417900,['Weather condition'],S59,31.7,89.0
 1899,30.617620000000002,-96.34869,1.0,1624302163200,['Weather condition'],S59,30.6,87.0
 1900,30.62111,-96.34268,2.0,1622768114400,"['Rowdy people', 'No sidewalk', 'Lack of crosswalk']",S58,21.7,71.0
-1901,30.620500000000003,-96.34277,2.0,1622770884000,"['Litter (dumping, broken glass weeds, graffiti)', 'No sidewalk', 'Lack of crosswalk']",S58,21.1,70.0
+1901,30.620500000000003,-96.34277,2.0,1622770884000,"['Litter', 'No sidewalk', 'Lack of crosswalk']",S58,21.1,70.0
 1902,30.62205,-96.34953,2.0,1622774317500,['High speed of traffic'],S58,21.1,70.0
 1903,30.615070000000003,-96.34268,2.0,1622812914600,['late for the bus'],S58,21.7,71.0
 1904,30.6201,-96.34290000000001,4.0,1622828898600,"['Poor walking surface', 'Blocked sidewalk']",S58,25.0,77.0
@@ -1957,13 +1957,13 @@
 1955,30.62573,-96.33888,2.0,1623117150000,"['16', 'Poor walking surface']",S61,25.6,78.0
 1956,30.6199,-96.34638000000001,2.0,1623289602000,"['Poor walking surface', 'Blocked sidewalk']",S61,31.1,88.0
 1957,30.626420000000003,-96.35433,3.0,1623293947200,"['Poor walking surface', 'Blocked sidewalk']",S61,29.4,85.0
-1958,30.624930000000003,-96.35257000000001,1.0,1623372999000,"['The lanes are unclear through the intersection and people always cut you off.', 'construction', 'Litter (dumping, broken glass weeds, graffiti)', 'Steep sidewalk slope']",S61,32.8,91.0
+1958,30.624930000000003,-96.35257000000001,1.0,1623372999000,"['The lanes are unclear through the intersection and people always cut you off.', 'construction', 'Litter', 'Steep sidewalk slope']",S61,32.8,91.0
 1959,30.61709,-96.3443,2.0,1623373226700,"['Very dark at night. no or little streetlights.', 'Poor walking surface']",S61,31.7,89.0
-1960,30.62665,-96.35468,2.0,1623467473200,"['Tree missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S61,28.3,83.0
+1960,30.62665,-96.35468,2.0,1623467473200,"['Tree missing', 'Litter', 'Blocked sidewalk']",S61,28.3,83.0
 1961,30.622220000000002,-96.34972,2.0,1624411297200,"['Crosswalk and pedestrian light missing', 'Poor walking surface', 'Blocked sidewalk']",S61,28.9,84.0
-1962,30.626170000000002,-96.35405,2.0,1624414074300,"['Litter (dumping, broken glass weeds, graffiti)', 'Lack of street lights']",S61,27.8,82.0
+1962,30.626170000000002,-96.35405,2.0,1624414074300,"['Litter', 'Lack of street lights']",S61,27.8,82.0
 1963,30.626780000000004,-96.35509,2.0,1624494713700,"['Blocked sidewalk', 'Steep sidewalk slope', 'No sidewalk']",S61,33.3,92.0
-1964,30.62168,-96.34342000000001,2.0,1624589325000,"['Narrow sidewalk that walkers and bikers must share alongside busy University dr.', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'No benches']",S61,30.6,87.0
+1964,30.62168,-96.34342000000001,2.0,1624589325000,"['Narrow sidewalk that walkers and bikers must share alongside busy University dr.', 'High speed of traffic', 'Litter', 'Abandoned vehicle', 'No benches']",S61,30.6,87.0
 1965,30.626540000000002,-96.35612,2.0,1624591530000,"['Tree missing', 'Weather condition', 'Poor walking surface']",S61,30.0,86.0
 1966,30.61221,-96.34660000000001,2.0,1623198799500,"['Rowdy people', 'No sidewalk', 'Steep sidewalk slope']",S62,30.6,87.0
 1967,30.626730000000002,-96.35548000000001,4.0,1623199007400,"['High speed of traffic', 'Poor walking surface']",S62,30.6,87.0
@@ -1973,7 +1973,7 @@
 1971,30.621830000000003,-96.34549000000001,3.0,1623210172800,['No sidewalk'],S62,27.8,82.0
 1972,30.6214,-96.34890000000001,1.0,1623277888800,"['Cyclists', 'Blocked sidewalk']",S62,34.4,94.0
 1973,30.61914,-96.35095000000001,2.0,1623354908400,"['High speed of traffic', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'Potholes']",S62,32.2,90.0
-1974,30.623440000000002,-96.35514,4.0,1623354990900,"['Poor walking surface', 'High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S62,32.2,90.0
+1974,30.623440000000002,-96.35514,4.0,1623354990900,"['Poor walking surface', 'High speed of traffic', 'Rowdy people', 'Litter']",S62,32.2,90.0
 1975,30.626630000000002,-96.35792000000001,4.0,1623355043700,"['High speed of traffic', 'Rowdy people', 'No sidewalk', 'Lack of crosswalk']",S62,32.2,90.0
 1976,30.612080000000002,-96.34631,2.0,1623372127800,"['long wait times', 'High speed of traffic', 'Rowdy people', 'Poor walking surface', 'Steep sidewalk slope']",S62,32.8,91.0
 1977,30.6305,-96.35427000000001,5.0,1623371377500,"['Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'Unattended dogs']",S62,32.8,91.0
@@ -1983,11 +1983,11 @@
 1981,30.624710000000004,-96.3563,5.0,1623376903200,"['High speed of traffic', 'Rowdy people']",S62,30.0,86.0
 1982,30.624620000000004,-96.35237000000001,5.0,1623377091300,"['High speed of traffic', 'Unattended dogs', 'Rowdy people', 'Poor walking surface']",S62,30.0,86.0
 1983,30.625480000000003,-96.35316,1.0,1623547904400,"['High speed of traffic', 'Rowdy people', 'Poor walking surface', 'Blocked sidewalk']",S62,31.7,89.0
-1984,30.629680000000004,-96.35442,5.0,1623546966300,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S62,31.7,89.0
+1984,30.629680000000004,-96.35442,5.0,1623546966300,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'Litter']",S62,31.7,89.0
 1985,30.632,-96.35255000000001,5.0,1623547391100,"['High speed of traffic', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S62,31.7,89.0
 1986,30.626600000000003,-96.35804,4.0,1623548223000,"['Lack of crosswalk', 'High speed of traffic']",S62,31.7,89.0
 1987,30.620290000000004,-96.34758000000001,2.0,1623638677200,"['Rowdy people', 'Busy Intersection', 'Blocked sidewalk']",S62,32.2,90.0
-1988,30.627560000000003,-96.35471000000001,5.0,1623638015700,"['Lack of street lights', 'High speed of traffic', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S62,32.2,90.0
+1988,30.627560000000003,-96.35471000000001,5.0,1623638015700,"['Lack of street lights', 'High speed of traffic', 'Rowdy people', 'Litter']",S62,32.2,90.0
 1989,30.625460000000004,-96.35355000000001,3.0,1623638242500,"['High speed of traffic', 'Rowdy people', 'Blocked sidewalk', 'Lack of street lights']",S62,32.2,90.0
 1990,30.623630000000002,-96.35118000000001,3.0,1623638469300,"['Poor walking surface', 'High speed of traffic', 'Rowdy people']",S62,32.2,90.0
 1991,30.61277,-96.34569,1.0,1623639892800,['Weather condition'],S62,31.1,88.0
@@ -1998,7 +1998,7 @@
 1996,30.622830000000004,-96.35029,2.0,1624075707600,"['Merging onto feeder road', 'High speed of traffic', 'Lack of street lights', 'Lack of crosswalk']",S62,27.2,81.0
 1997,30.622400000000003,-96.34974000000001,1.0,1624161063600,"['Pedestrians', 'Lack of crosswalk']",S62,29.4,85.0
 1998,30.62646,-96.35442,2.0,1624246221600,"['Poor walking surface', 'Rowdy people', 'Rowdy people', 'Blocked sidewalk', 'Lack of crosswalk', 'Lack of crosswalk']",S62,28.9,84.0
-1999,30.621290000000002,-96.34843000000001,4.0,1624246575000,"['Ice', 'Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Weather condition', 'Lack of street lights']",S62,28.9,84.0
+1999,30.621290000000002,-96.34843000000001,4.0,1624246575000,"['Ice', 'Litter', 'Abandoned vehicle', 'Weather condition', 'Lack of street lights']",S62,28.9,84.0
 2000,30.618530000000003,-96.34718000000001,2.0,1624245831000,['Rowdy people'],S62,28.9,84.0
 2001,30.62225,-96.34960000000001,2.0,1624505112600,['Lack of crosswalk'],S62,30.0,86.0
 2002,30.62628,-96.35425000000001,2.0,1624596047100,['Lack of crosswalk'],S62,28.9,84.0
@@ -2017,7 +2017,7 @@
 2015,30.619540000000004,-96.34672,2.0,1623980799600,"['No sidewalk', 'Lack of street lights']",S65,31.1,88.0
 2016,30.61597,-96.34791000000001,3.0,1623983632500,"['Blocked sidewalk', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk']",S65,29.4,85.0
 2017,30.627520000000004,-96.3589,4.0,1624070129700,"['No sidewalk', 'Lack of street lights']",S65,29.4,85.0
-2018,30.619750000000003,-96.34681,2.0,1624157326800,"['Unattended dogs', 'Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Steep sidewalk slope', 'Lack of street lights']",S65,30.6,87.0
+2018,30.619750000000003,-96.34681,2.0,1624157326800,"['Unattended dogs', 'Rowdy people', 'Litter', 'Poor walking surface', 'No sidewalk', 'Steep sidewalk slope', 'Lack of street lights']",S65,30.6,87.0
 2019,30.620760000000004,-96.34824,3.0,1624157509200,"['High speed of traffic', 'No sidewalk']",S65,30.6,87.0
 2020,30.626420000000003,-96.34500000000001,3.0,1624234879200,"['Lack of street lights', 'High speed of traffic', 'Lack of street lights']",S65,32.2,90.0
 2021,30.623500000000003,-96.34943000000001,2.0,1624240583700,"['we were lost :)', 'No sidewalk', 'Lack of crosswalk']",S65,31.1,88.0
@@ -2046,7 +2046,7 @@
 2044,30.6197,-96.34687000000001,1.0,1624157379000,['Lack of street lights'],S66,30.6,87.0
 2045,30.626710000000003,-96.34523,3.0,1624234918500,"['High speed of traffic', 'High speed of traffic', 'Poor walking surface']",S66,32.2,90.0
 2046,30.6276,-96.34532,3.0,1624327045200,"['Tree missing', 'No sidewalk', 'Lack of street lights']",S66,29.4,85.0
-2047,30.628700000000002,-96.34561000000001,2.0,1624403520600,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S66,30.6,87.0
+2047,30.628700000000002,-96.34561000000001,2.0,1624403520600,"['Litter', 'Poor walking surface']",S66,30.6,87.0
 2048,30.626220000000004,-96.35004,3.0,1624501011600,"['Poor walking surface', 'No sidewalk']",S66,30.6,87.0
 2049,30.62712,-96.34563000000001,3.0,1624499283600,['High speed of traffic'],S66,32.2,90.0
 2050,30.622860000000003,-96.34721,1.0,1624586568600,['Lack of street lights'],S66,30.6,87.0
@@ -2065,8 +2065,8 @@
 2063,30.626160000000002,-96.33923000000001,3.0,1624565052000,"['construction', 'Lack of crosswalk']",S64,34.4,94.0
 2064,30.6245,-96.34162,4.0,1624669564800,['Rowdy people'],S64,32.2,90.0
 2065,30.625690000000002,-96.33854000000001,2.0,1624740190500,['new statue'],S64,33.9,93.0
-2066,30.626330000000003,-96.33688000000001,3.0,1624804918800,"['Litter (dumping, broken glass weeds, graffiti)', 'creepy guy staring']",S64,27.8,82.0
-2067,30.622580000000003,-96.34490000000001,4.0,1623360381600,"['Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
+2066,30.626330000000003,-96.33688000000001,3.0,1624804918800,"['Litter', 'creepy guy staring']",S64,27.8,82.0
+2067,30.622580000000003,-96.34490000000001,4.0,1623360381600,"['Unattended dogs', 'Litter']",S67,34.4,94.0
 2068,30.621570000000002,-96.34366000000001,4.0,1623359539200,"['Poor walking surface', 'Blocked sidewalk']",S67,34.4,94.0
 2069,30.621940000000002,-96.34269,4.0,1623359361000,['Poor walking surface'],S67,34.4,94.0
 2070,30.618830000000003,-96.34880000000001,3.0,1623455552400,"['No sidewalk', 'Lack of crosswalk']",S67,33.3,92.0
@@ -2079,7 +2079,7 @@
 2077,30.619270000000004,-96.34662,3.0,1623704820000,"['Rowdy people', 'people around without masks']",S67,26.7,80.0
 2078,30.627530000000004,-96.35494000000001,1.0,1623705470400,"['High speed of traffic', 'car almost hit me', 'Unattended dogs', 'Uncertain about legitimate parking']",S67,26.7,80.0
 2079,30.623890000000003,-96.34851,4.0,1623705816000,"['Rowdy people', 'people without masks nearby', 'Rowdy people', 'Rude entitled driver in pickup truck']",S67,26.7,80.0
-2080,30.629960000000004,-96.3545,3.0,1623706042800,"['Litter (dumping, broken glass weeds, graffiti)', 'Blocked sidewalk']",S67,26.7,80.0
+2080,30.629960000000004,-96.3545,3.0,1623706042800,"['Litter', 'Blocked sidewalk']",S67,26.7,80.0
 2081,30.63164,-96.35275000000001,2.0,1623705870000,['No sidewalk'],S67,26.7,80.0
 2082,30.62685,-96.35533000000001,,1623706237200,"['High speed of traffic', 'Rowdy people']",S67,26.7,80.0
 2083,30.62704,-96.33553,3.0,1623709401000,['heavy rain at lights'],S67,27.2,81.0
@@ -2091,58 +2091,58 @@
 2089,30.623970000000003,-96.34366000000001,3.0,1623801240300,"['construction', 'red light traffic', 'Poor walking surface', 'Blocked sidewalk', 'Lack of crosswalk', 'No benches']",S67,35.6,96.0
 2090,30.62413,-96.34592,3.0,1623801488100,"['slow car ahead', 'Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Crosswalk and pedestrian light missing']",S67,35.6,96.0
 2091,30.616390000000003,-96.34837,3.0,1623801027900,"['police present', 'Unattended dogs', 'Poor walking surface', 'No sidewalk']",S67,35.6,96.0
-2092,30.623040000000003,-96.34684000000001,3.0,1623801718200,"['Poor walking surface', 'Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
+2092,30.623040000000003,-96.34684000000001,3.0,1623801718200,"['Poor walking surface', 'Litter']",S67,34.4,94.0
 2093,30.618190000000002,-96.34611000000001,2.0,1623889266000,['Rowdy people'],S67,33.9,93.0
-2094,30.624570000000002,-96.34706000000001,3.0,1623890492400,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk']",S67,33.9,93.0
+2094,30.624570000000002,-96.34706000000001,3.0,1623890492400,"['Crosswalk and pedestrian light missing', 'Litter', 'Poor walking surface', 'No sidewalk']",S67,33.9,93.0
 2095,30.624430000000004,-96.34633000000001,4.0,1623890408400,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Lack of street lights', 'No benches']",S67,33.9,93.0
-2096,30.623440000000002,-96.34688000000001,4.0,1623890643600,"['Litter (dumping, broken glass weeds, graffiti)']",S67,33.9,93.0
-2097,30.623140000000003,-96.34549000000001,3.0,1623890828400,"['Litter (dumping, broken glass weeds, graffiti)']",S67,33.9,93.0
+2096,30.623440000000002,-96.34688000000001,4.0,1623890643600,"['Litter']",S67,33.9,93.0
+2097,30.623140000000003,-96.34549000000001,3.0,1623890828400,"['Litter']",S67,33.9,93.0
 2098,30.607120000000002,-96.34760000000001,4.0,1623974001600,['construction 🚧'],S67,30.6,87.0
 2099,30.622370000000004,-96.34975000000001,4.0,1623976576500,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S67,31.1,88.0
-2100,30.619580000000003,-96.34679000000001,3.0,1623976355400,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S67,31.1,88.0
+2100,30.619580000000003,-96.34679000000001,3.0,1623976355400,"['Litter', 'Poor walking surface']",S67,31.1,88.0
 2101,30.623620000000003,-96.35212000000001,3.0,1623975792600,['Poor walking surface'],S67,31.1,88.0
 2102,30.62254,-96.34505000000001,4.0,1624061004000,"['Unattended dogs', 'Poor walking surface', 'Blocked sidewalk', 'No sidewalk']",S67,32.2,90.0
-2103,30.622580000000003,-96.34602000000001,5.0,1624061176800,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Litter (dumping, broken glass weeds, graffiti)', 'dead animal']",S67,32.2,90.0
-2104,30.62347,-96.34755000000001,4.0,1624061311200,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'Litter (dumping, broken glass weeds, graffiti)']",S67,32.2,90.0
-2105,30.626250000000002,-96.34724000000001,5.0,1624061599200,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Unattended dogs', 'Litter (dumping, broken glass weeds, graffiti)']",S67,32.2,90.0
+2103,30.622580000000003,-96.34602000000001,5.0,1624061176800,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Litter', 'dead animal']",S67,32.2,90.0
+2104,30.62347,-96.34755000000001,4.0,1624061311200,"['Poor walking surface', 'No sidewalk', 'Lack of street lights', 'Lack of crosswalk', 'Litter']",S67,32.2,90.0
+2105,30.626250000000002,-96.34724000000001,5.0,1624061599200,"['Poor walking surface', 'Blocked sidewalk', 'No sidewalk', 'Unattended dogs', 'Litter']",S67,32.2,90.0
 2106,30.622110000000003,-96.34555,4.0,1624062060000,[],S67,32.2,90.0
-2107,30.62234,-96.34585000000001,4.0,1624062040800,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'Litter (dumping, broken glass weeds, graffiti)']",S67,32.2,90.0
-2108,30.621340000000004,-96.34859,3.0,1624152411900,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'Blocked sidewalk']",S67,32.8,91.0
-2109,30.62338,-96.3507,3.0,1624152586200,"['Litter (dumping, broken glass weeds, graffiti)']",S67,32.8,91.0
-2110,30.624650000000003,-96.35087000000001,4.0,1624153134000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S67,32.8,91.0
+2107,30.62234,-96.34585000000001,4.0,1624062040800,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'Litter']",S67,32.2,90.0
+2108,30.621340000000004,-96.34859,3.0,1624152411900,"['Litter', 'Poor walking surface', 'Blocked sidewalk']",S67,32.8,91.0
+2109,30.62338,-96.3507,3.0,1624152586200,"['Litter']",S67,32.8,91.0
+2110,30.624650000000003,-96.35087000000001,4.0,1624153134000,"['Litter', 'Poor walking surface']",S67,32.8,91.0
 2111,30.625970000000002,-96.35245,3.0,1624153009500,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S67,32.8,91.0
 2112,30.642960000000002,-96.35693,2.0,1624238287800,['Poor walking surface'],S67,31.1,88.0
 2113,30.64168,-96.35581,2.0,1624238346600,"['Poor walking surface', 'No sidewalk', 'Lack of street lights']",S67,31.1,88.0
 2114,30.623960000000004,-96.35236,3.0,1624238909100,['Poor walking surface'],S67,31.1,88.0
 2115,30.621460000000003,-96.34886,3.0,1624238995200,['Blocked sidewalk'],S67,31.1,88.0
-2116,30.62057,-96.34775,4.0,1624239019800,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S67,31.1,88.0
-2117,30.619490000000003,-96.34657000000001,3.0,1624239044400,"['No benches', 'Litter (dumping, broken glass weeds, graffiti)']",S67,31.1,88.0
-2118,30.621060000000003,-96.34838,4.0,1624239142800,"['Poor walking surface', 'Litter (dumping, broken glass weeds, graffiti)']",S67,31.1,88.0
+2116,30.62057,-96.34775,4.0,1624239019800,"['Litter', 'Poor walking surface']",S67,31.1,88.0
+2117,30.619490000000003,-96.34657000000001,3.0,1624239044400,"['No benches', 'Litter']",S67,31.1,88.0
+2118,30.621060000000003,-96.34838,4.0,1624239142800,"['Poor walking surface', 'Litter']",S67,31.1,88.0
 2119,30.622170000000004,-96.34249000000001,4.0,1624314900000,['Poor walking surface'],S67,30.6,87.0
-2120,30.623510000000003,-96.34202,4.0,1624315035000,"['Litter (dumping, broken glass weeds, graffiti)']",S67,30.6,87.0
-2121,30.624070000000003,-96.34449000000001,4.0,1624315350000,"['Litter (dumping, broken glass weeds, graffiti)']",S67,30.6,87.0
-2122,30.621270000000003,-96.34590000000001,4.0,1624315905000,"['Litter (dumping, broken glass weeds, graffiti)', 'dead birds']",S67,30.6,87.0
-2123,30.622360000000004,-96.34474,4.0,1624316055000,"['Litter (dumping, broken glass weeds, graffiti)']",S67,30.6,87.0
-2124,30.621270000000003,-96.34590000000001,,1624315905000,"['Litter (dumping, broken glass weeds, graffiti)']",S67,30.6,87.0
+2120,30.623510000000003,-96.34202,4.0,1624315035000,"['Litter']",S67,30.6,87.0
+2121,30.624070000000003,-96.34449000000001,4.0,1624315350000,"['Litter']",S67,30.6,87.0
+2122,30.621270000000003,-96.34590000000001,4.0,1624315905000,"['Litter', 'dead birds']",S67,30.6,87.0
+2123,30.622360000000004,-96.34474,4.0,1624316055000,"['Litter']",S67,30.6,87.0
+2124,30.621270000000003,-96.34590000000001,,1624315905000,"['Litter']",S67,30.6,87.0
 2125,30.625600000000002,-96.34405000000001,3.0,1624317308400,['Left turn: obstructed view (bushes) of northbound traffic'],S67,31.1,88.0
 2126,30.619170000000004,-96.34642000000001,1.0,1624318240800,"['Water pooled at intersection', 'Poor walking surface']",S67,31.1,88.0
 2127,30.617710000000002,-96.34822000000001,2.0,1624318275000,['No sidewalk'],S67,31.1,88.0
 2128,30.61811,-96.34907000000001,1.0,1624318303500,['Blocked sidewalk'],S67,31.1,88.0
 2129,30.620590000000004,-96.35091000000001,2.0,1624318354800,['Poor walking surface'],S67,31.1,88.0
-2130,30.621610000000004,-96.34358,3.0,1624396842000,"['Litter (dumping, broken glass weeds, graffiti)']",S67,29.4,85.0
-2131,30.619770000000003,-96.34583,3.0,1624397076000,"['Litter (dumping, broken glass weeds, graffiti)']",S67,29.4,85.0
-2132,30.61774,-96.34803000000001,4.0,1624397328000,"['Litter (dumping, broken glass weeds, graffiti)']",S67,29.4,85.0
+2130,30.621610000000004,-96.34358,3.0,1624396842000,"['Litter']",S67,29.4,85.0
+2131,30.619770000000003,-96.34583,3.0,1624397076000,"['Litter']",S67,29.4,85.0
+2132,30.61774,-96.34803000000001,4.0,1624397328000,"['Litter']",S67,29.4,85.0
 2133,30.654950000000003,-96.35900000000001,1.0,1624480935000,['Rain'],S67,34.4,94.0
-2134,30.619740000000004,-96.34581000000001,4.0,1624481622300,"['Rain', 'Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
-2135,30.617990000000002,-96.34786000000001,4.0,1624481810400,"['Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
-2136,30.616600000000002,-96.34769000000001,4.0,1624482066900,"['Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
-2137,30.617680000000004,-96.34747,4.0,1624482169500,"['Litter (dumping, broken glass weeds, graffiti)', 'dead bird']",S67,34.4,94.0
-2138,30.6215,-96.34365000000001,4.0,1624482545700,"['Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
-2139,30.6215,-96.34365000000001,4.0,1624482528600,"['Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
-2140,30.619170000000004,-96.34477000000001,4.0,1624656270000,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S67,34.4,94.0
-2141,30.620610000000003,-96.34336,4.0,1624656121500,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle']",S67,34.4,94.0
-2142,30.620260000000002,-96.34519,4.0,1624656964500,"['Rowdy people', 'Litter (dumping, broken glass weeds, graffiti)']",S67,34.4,94.0
-2143,30.618370000000002,-96.34734,4.0,1624656825300,"['Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle']",S67,34.4,94.0
+2134,30.619740000000004,-96.34581000000001,4.0,1624481622300,"['Rain', 'Litter']",S67,34.4,94.0
+2135,30.617990000000002,-96.34786000000001,4.0,1624481810400,"['Litter']",S67,34.4,94.0
+2136,30.616600000000002,-96.34769000000001,4.0,1624482066900,"['Litter']",S67,34.4,94.0
+2137,30.617680000000004,-96.34747,4.0,1624482169500,"['Litter', 'dead bird']",S67,34.4,94.0
+2138,30.6215,-96.34365000000001,4.0,1624482545700,"['Litter']",S67,34.4,94.0
+2139,30.6215,-96.34365000000001,4.0,1624482528600,"['Litter']",S67,34.4,94.0
+2140,30.619170000000004,-96.34477000000001,4.0,1624656270000,"['Litter', 'Poor walking surface']",S67,34.4,94.0
+2141,30.620610000000003,-96.34336,4.0,1624656121500,"['Litter', 'Abandoned vehicle']",S67,34.4,94.0
+2142,30.620260000000002,-96.34519,4.0,1624656964500,"['Rowdy people', 'Litter']",S67,34.4,94.0
+2143,30.618370000000002,-96.34734,4.0,1624656825300,"['Litter', 'Abandoned vehicle']",S67,34.4,94.0
 2144,30.62009,-96.33833000000001,2.0,1622677811400,['Poor walking surface'],S55,30.0,86.0
 2145,30.624150000000004,-96.35089,3.0,1622679204000,"['Unattended dogs', 'Rowdy people']",S55,29.4,85.0
 2146,30.6213,-96.34468000000001,3.0,1622679876000,['Abandoned vehicle'],S55,29.4,85.0
@@ -2162,7 +2162,7 @@
 2160,30.62338,-96.34726,3.0,1623038043600,"['Poor walking surface', 'No sidewalk', 'Lack of street lights']",S55,27.2,81.0
 2161,30.626310000000004,-96.34529,1.0,1623038079600,"['No sidewalk', 'High speed of traffic']",S55,27.2,81.0
 2162,30.622860000000003,-96.34227000000001,2.0,1623038169600,"['Poor walking surface', 'No sidewalk']",S55,27.2,81.0
-2163,30.623800000000003,-96.34240000000001,2.0,1623038184000,"['No sidewalk', 'High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S55,27.2,81.0
+2163,30.623800000000003,-96.34240000000001,2.0,1623038184000,"['No sidewalk', 'High speed of traffic', 'Litter']",S55,27.2,81.0
 2164,30.624610000000004,-96.34329000000001,2.0,1623038191200,"['Lack of crosswalk', 'High speed of traffic', 'Crosswalk and pedestrian light missing']",S55,27.2,81.0
 2165,30.622390000000003,-96.34595,2.0,1623206604600,"['Abandoned vehicle', 'Lack of crosswalk']",S55,28.3,83.0
 2166,30.618160000000003,-96.34596,2.0,1623206969100,['Rowdy people'],S55,28.3,83.0
@@ -2201,16 +2201,16 @@
 2199,30.626880000000003,-96.35757000000001,3.0,1622902893000,"[nan, 'Weather condition', 'Poor walking surface', 'Lack of crosswalk']",S56,23.9,75.0
 2200,30.62243,-96.34118000000001,3.0,1622903446500,['Weather condition'],S56,23.9,75.0
 2201,30.62683,-96.35638,2.0,1622924248800,['Unattended dogs'],S56,28.3,83.0
-2202,30.61991,-96.34710000000001,3.0,1622923274400,"['Litter (dumping, broken glass weeds, graffiti)']",S56,28.3,83.0
+2202,30.61991,-96.34710000000001,3.0,1622923274400,"['Litter']",S56,28.3,83.0
 2203,30.618820000000003,-96.34605,1.0,1622923560000,['Rowdy people'],S56,28.3,83.0
 2204,30.626670000000004,-96.35494000000001,1.0,1622992200000,['Crosswalk and pedestrian light missing'],S56,26.1,79.0
 2205,30.625460000000004,-96.35327000000001,1.0,1622992203600,['Steep sidewalk slope'],S56,26.1,79.0
 2206,30.617710000000002,-96.34725,1.0,1622992222200,['No sidewalk'],S56,26.1,79.0
 2207,30.620390000000004,-96.34388000000001,2.0,1622992230000,['Lack of street lights'],S56,26.1,79.0
-2208,30.626700000000003,-96.35480000000001,3.0,1623003816000,"['Litter (dumping, broken glass weeds, graffiti)']",S56,29.4,85.0
+2208,30.626700000000003,-96.35480000000001,3.0,1623003816000,"['Litter']",S56,29.4,85.0
 2209,30.626030000000004,-96.35635,,1623005244900,"['Crosswalk and pedestrian light missing', 'Lack of crosswalk']",S56,29.4,85.0
 2210,30.61933,-96.34643000000001,2.0,1623004610400,['Poor walking surface'],S56,29.4,85.0
-2211,30.62355,-96.35596000000001,4.0,1623026901000,"['Crosswalk and pedestrian light missing', 'Litter (dumping, broken glass weeds, graffiti)', 'Abandoned vehicle', 'Railway crossing']",S56,31.7,89.0
+2211,30.62355,-96.35596000000001,4.0,1623026901000,"['Crosswalk and pedestrian light missing', 'Litter', 'Abandoned vehicle', 'Railway crossing']",S56,31.7,89.0
 2212,30.624520000000004,-96.35219000000001,2.0,1623074442600,"['Lack of street lights', 'Water flushing on pavement']",S56,27.8,82.0
 2213,30.624380000000002,-96.35201,2.0,1623074340000,['Steep sidewalk slope'],S56,26.7,80.0
 2214,30.624330000000004,-96.35663000000001,3.0,1623075212400,['Construction in progress'],S56,27.8,82.0
@@ -2222,29 +2222,29 @@
 2220,30.619190000000003,-96.34492,1.0,1623204960000,"['Lack of street lights', 'Lack of street lights']",S56,28.3,83.0
 2221,30.622690000000002,-96.34098,1.0,1623242145600,['High speed of traffic'],S56,25.6,78.0
 2222,30.62441,-96.35639,3.0,1623278796000,['train passing'],S56,34.4,94.0
-2223,30.625280000000004,-96.35272,3.0,1623331882500,"['Litter (dumping, broken glass weeds, graffiti)']",S56,26.1,79.0
+2223,30.625280000000004,-96.35272,3.0,1623331882500,"['Litter']",S56,26.1,79.0
 2224,30.580070000000003,-96.30773,3.0,1623333546000,['High speed of traffic'],S56,26.1,79.0
 2225,30.578840000000003,-96.30694000000001,2.0,1623352662000,['Poor walking surface'],S56,32.2,90.0
 2226,30.62216,-96.34578,3.0,1623353397600,"['Crosswalk and pedestrian light missing', 'Steep sidewalk slope', 'No sidewalk', 'Lack of street lights']",S56,32.2,90.0
 2227,30.62938,-96.33693000000001,3.0,1623358647600,"['Rowdy people', 'Thought a group of people were going to harass me']",S56,33.3,92.0
 2228,30.629360000000002,-96.33959,2.0,1623372861300,['walked through spider web'],S56,32.8,91.0
 2229,30.59512,-96.34078000000001,2.0,1623463106700,['bad driver'],S56,31.1,88.0
-2230,30.625840000000004,-96.35376000000001,3.0,1623608478000,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S56,33.9,93.0
+2230,30.625840000000004,-96.35376000000001,3.0,1623608478000,"['High speed of traffic', 'Litter']",S56,33.9,93.0
 2231,30.62376,-96.3572,2.0,1623609087600,['Blocked sidewalk'],S56,33.9,93.0
 2232,30.6246,-96.35623000000001,4.0,1623678060000,['Blocked sidewalk'],S56,28.9,84.0
-2233,30.626600000000003,-96.35471000000001,4.0,1623766143000,"['Litter (dumping, broken glass weeds, graffiti)']",S56,29.4,85.0
+2233,30.626600000000003,-96.35471000000001,4.0,1623766143000,"['Litter']",S56,29.4,85.0
 2234,30.624010000000002,-96.35679,3.0,1623766591500,['railway crossing'],S56,29.4,85.0
 2235,30.623870000000004,-96.33944000000001,2.0,1623936030000,['Rowdy people'],S56,26.7,80.0
-2236,30.62835,-96.34218000000001,3.0,1623936648900,"['High speed of traffic', 'Litter (dumping, broken glass weeds, graffiti)']",S56,26.7,80.0
+2236,30.62835,-96.34218000000001,3.0,1623936648900,"['High speed of traffic', 'Litter']",S56,26.7,80.0
 2237,30.62937,-96.33941,2.0,1623970366800,['Blocked sidewalk'],S56,33.9,93.0
 2238,30.625640000000004,-96.35367000000001,2.0,1623971008800,['Water flushing on pavement'],S56,30.6,87.0
 2239,30.61597,-96.34853000000001,3.0,1624029480000,"['High speed of traffic', 'High speed of traffic']",S56,30.0,86.0
-2240,30.626630000000002,-96.35487,3.0,1624044373800,"['Litter (dumping, broken glass weeds, graffiti)']",S56,32.2,90.0
+2240,30.626630000000002,-96.35487,3.0,1624044373800,"['Litter']",S56,32.2,90.0
 2241,30.624560000000002,-96.35624000000001,3.0,1624117492500,['Railway crossing'],S56,30.0,86.0
 2242,30.624230000000004,-96.35685000000001,3.0,1624212568200,['Blocked sidewalk'],S56,32.8,91.0
 2243,30.619310000000002,-96.34647000000001,,1624239665700,['water flushing on the pavement'],S56,31.1,88.0
 2244,30.615790000000004,-96.34873,3.0,1624277877600,['High speed of traffic'],S56,26.7,80.0
-2245,30.626690000000004,-96.35521000000001,3.0,1624369704600,"['Litter (dumping, broken glass weeds, graffiti)']",S56,24.4,76.0
+2245,30.626690000000004,-96.35521000000001,3.0,1624369704600,"['Litter']",S56,24.4,76.0
 2246,30.624250000000004,-96.35677000000001,3.0,1624455856800,['Blocked sidewalk'],S56,25.6,78.0
 2247,30.625470000000004,-96.34408,2.0,1622677653000,"['No sidewalk', 'Lack of crosswalk']",S54,30.0,86.0
 2248,30.622550000000004,-96.34996000000001,2.0,1622679657600,"['cross street came up twice', 'Poor walking surface', 'No sidewalk', 'Lack of crosswalk', 'High speed of traffic', 'cars driving recklessly through parking lot', 'Unattended dogs', 'Rowdy people']",S54,29.4,85.0
@@ -2277,7 +2277,7 @@
 2275,30.624140000000004,-96.34591,3.0,1623548017500,"['Abandoned vehicle', 'No sidewalk', 'Lack of crosswalk']",S54,31.7,89.0
 2276,30.623820000000002,-96.34723000000001,3.0,1623548163300,"['Poor walking surface', 'No sidewalk', 'Lack of crosswalk']",S54,31.7,89.0
 2277,30.614520000000002,-96.34094,3.0,1623550102500,['Bikers'],S54,30.6,87.0
-2278,30.61389,-96.33965,3.0,1623550275000,"['Litter (dumping, broken glass weeds, graffiti)']",S54,30.6,87.0
+2278,30.61389,-96.33965,3.0,1623550275000,"['Litter']",S54,30.6,87.0
 2279,30.61642,-96.34387000000001,3.0,1623552643200,['Rowdy people'],S54,30.6,87.0
 2280,30.616590000000002,-96.34367,3.0,1623630142800,"['Rowdy people', 'Poor walking surface']",S54,35.0,95.0
 2281,30.623330000000003,-96.34925000000001,2.0,1623631011900,"['High speed of traffic', 'Poor walking surface', 'No benches']",S54,35.0,95.0
@@ -2301,30 +2301,30 @@
 2299,30.623630000000002,-96.35122000000001,2.0,1622774512200,"['It was a busy intersection with a noisy road.', 'Crosswalk and pedestrian light missing']",S57,21.1,70.0
 2300,30.62327,-96.35079,2.0,1622811800400,"['Poor walking surface', 'No sidewalk']",S57,21.7,71.0
 2301,30.616570000000003,-96.34391000000001,2.0,1622812752000,"['There was high speed traffic on a congested highway.', 'Weather condition', 'No sidewalk']",S57,21.7,71.0
-2302,30.626450000000002,-96.35439000000001,1.0,1622941035600,"['Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S57,25.6,78.0
+2302,30.626450000000002,-96.35439000000001,1.0,1622941035600,"['Litter', 'Litter']",S57,25.6,78.0
 2303,30.62994,-96.36031000000001,2.0,1622942844900,"['Poor walking surface', 'Lack of street lights']",S57,25.0,77.0
 2304,30.632590000000004,-96.36351,3.0,1623004858500,['Crosswalk and pedestrian light missing'],S57,29.4,85.0
 2305,30.630560000000003,-96.37975,2.0,1623007622700,['Crosswalk and pedestrian light missing'],S57,30.6,87.0
-2306,30.631040000000002,-96.37741000000001,1.0,1623017472300,"['Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface', 'No sidewalk', 'Traffic', 'Traffic', 'High speed of traffic']",S57,31.7,89.0
+2306,30.631040000000002,-96.37741000000001,1.0,1623017472300,"['Litter', 'Poor walking surface', 'No sidewalk', 'Traffic', 'Traffic', 'High speed of traffic']",S57,31.7,89.0
 2307,30.62337,-96.34405000000001,3.0,1623017558100,"['No sidewalk', 'Lack of street lights']",S57,31.7,89.0
-2308,30.633200000000002,-96.36408,3.0,1623019365900,"['Poor walking surface', 'Lack of street lights', 'Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)', 'Crosswalk and pedestrian light missing']",S57,31.7,89.0
+2308,30.633200000000002,-96.36408,3.0,1623019365900,"['Poor walking surface', 'Lack of street lights', 'Litter', 'Litter', 'Crosswalk and pedestrian light missing']",S57,31.7,89.0
 2309,30.629700000000003,-96.35965,2.0,1623084957000,"['Poor walking surface', 'No sidewalk']",S57,30.6,87.0
-2310,30.62638,-96.35793000000001,2.0,1623173900100,"['loud street with noisy train', 'Slow Traffic', 'Slow Traffic', 'Litter (dumping, broken glass weeds, graffiti)', 'Poor walking surface']",S57,31.7,89.0
+2310,30.62638,-96.35793000000001,2.0,1623173900100,"['loud street with noisy train', 'Slow Traffic', 'Slow Traffic', 'Litter', 'Poor walking surface']",S57,31.7,89.0
 2311,30.639460000000003,-96.35436000000001,1.0,1623263457600,"['Potholes', 'Potholes']",S57,33.3,92.0
 2312,30.626710000000003,-96.35808,2.0,1623283545300,"['High speed of traffic', 'Poor walking surface']",S57,32.8,91.0
 2313,30.631280000000004,-96.3623,3.0,1623349588500,"['Abandoned vehicle', 'Blocked sidewalk']",S57,31.7,89.0
 2314,30.62984,-96.36026000000001,2.0,1623423148800,['No sidewalk'],S57,27.2,81.0
 2315,30.623500000000003,-96.35525000000001,2.0,1623424259100,"['Lack of street lights', 'No sidewalk']",S57,29.4,85.0
-2316,30.62872,-96.33574,4.0,1623547747500,"['There was high speed of traffic and a noisy train.', 'Litter (dumping, broken glass weeds, graffiti)', 'High speed of traffic', 'Rowdy people', 'No sidewalk']",S57,31.7,89.0
+2316,30.62872,-96.33574,4.0,1623547747500,"['There was high speed of traffic and a noisy train.', 'Litter', 'High speed of traffic', 'Rowdy people', 'No sidewalk']",S57,31.7,89.0
 2317,30.625580000000003,-96.33695,2.0,1623550093200,"['Abandoned vehicle', 'Lack of street lights']",S57,30.6,87.0
 2318,30.62656,-96.35799,2.0,1623552571500,"['Lack of street lights', 'Poor walking surface']",S57,30.6,87.0
 2319,30.60159,-96.33070000000001,2.0,1623552045900,"['Unattended dogs', 'No sidewalk', 'Lack of street lights']",S57,30.6,87.0
 2320,30.626260000000002,-96.35587000000001,2.0,1623608972400,['Poor walking surface'],S57,33.9,93.0
 2321,30.632220000000004,-96.33046,2.0,1623609802200,"['High speed of traffic', 'Blocked sidewalk', 'Steep sidewalk slope', 'Lack of street lights', 'Weather condition']",S57,33.9,93.0
 2322,30.630240000000004,-96.35903,2.0,1623628256100,"['Unattended dogs', 'Poor walking surface']",S57,35.6,96.0
-2323,30.62599,-96.35426000000001,2.0,1623629000100,"['Litter (dumping, broken glass weeds, graffiti)', 'Litter (dumping, broken glass weeds, graffiti)']",S57,35.0,95.0
+2323,30.62599,-96.35426000000001,2.0,1623629000100,"['Litter', 'Litter']",S57,35.0,95.0
 2324,30.63162,-96.36261,3.0,1623707253600,"['Construction', 'High speed of traffic', 'Rowdy people']",S57,26.7,80.0
 2325,30.639540000000004,-96.35822,2.0,1623760226400,"['Construction', 'No sidewalk', 'garage sale; lots of traffic', 'High speed of traffic', 'Rowdy people']",S57,26.7,80.0
-2326,30.64309,-96.35284000000001,3.0,1623762933600,"['Litter (dumping, broken glass weeds, graffiti)', 'No benches', 'Litter (dumping, broken glass weeds, graffiti)', 'No benches', 'High speed of traffic']",S57,27.8,82.0
+2326,30.64309,-96.35284000000001,3.0,1623762933600,"['Litter', 'No benches', 'Litter', 'No benches', 'High speed of traffic']",S57,27.8,82.0
 2327,30.63042,-96.35834000000001,2.0,1623883454100,"['No sidewalk', 'Poor walking surface', 'No sidewalk']",S57,34.4,94.0
-2328,30.626420000000003,-96.35615000000001,3.0,1623945827100,"['Litter (dumping, broken glass weeds, graffiti)']",S57,33.3,92.0
+2328,30.626420000000003,-96.35615000000001,3.0,1623945827100,"['Litter']",S57,33.3,92.0
