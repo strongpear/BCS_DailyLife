@@ -10,7 +10,8 @@ df = pd.read_csv(open('dataFinished.csv', 'rb'))
 df['Stress Rating'] = [str(i) for i in df['Stress Rating']]
 stimuliCounts = pd.read_csv(open('stimuliCounts.csv', 'rb'))
 stimDict = {row['Stimuli']: row['Count'] for index, row in stimuliCounts.iterrows()}
-# Test Figure
+avgStress = pd.read_csv(open('avgStressbyTemp.csv', 'r'))
+# Test Figure,
 # fig = px.scatter_mapbox(df,
 #                         lat="X Coordinate",
 #                         lon="Y Coordinate",
@@ -21,7 +22,7 @@ stimDict = {row['Stimuli']: row['Count'] for index, row in stimuliCounts.iterrow
 #                         width=800)
 # fig.update_layout(mapbox_style="open-street-map")
 # fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-
+avgStressScatter = px.scatter(avgStress, x="Temperature (F)", y="Average Stress Rating", title="Average Stress Rating at Each Temperature (F)")
 
 # Initialize app
 app = Dash(__name__)
@@ -30,9 +31,13 @@ server = app.server
 
 # Html of App
 app.layout = html.Div([
-    html.H1('Stress in the Bryan-College Station Area', style={'text-align': 'center'}),
-
-    html.H3('The following four options are filters that will alter all of the visualizations.'),
+    html.H1('Environmental Stress in the Bryan-College Station Area', style={'text-align': 'center'}),
+    html.P('''This dataset was collected by HUBBS Lab at Texas A&M University. 
+           Participants were asked to walk in the Bryan-College Station area in their daily lives for two weeks.
+           GPS data was collected during the walking trips and participants filled out digital surveys, reporting any stressors using a Likert scale.
+           We aim to identify and improve stressful locations in the environment to improve walkability in the community.
+           ''', style={'width': 1000}),
+    html.H3('The following four options are filters that will alter the first three visualizations.'),
     html.Span([html.P('Subject:', style={"margin-right":"10px"}),
                 dcc.Dropdown(id='select_participant',
                     options=[{"label": "All", "value": "All"}]+ 
@@ -41,7 +46,7 @@ app.layout = html.Div([
                         value="All",
                         style={'width': "200px", "margin-right": "10px"}
                 ),
-                html.P('Stimuli Element', style={"margin-right": "10px"}),
+                html.P('Stimuli Element:', style={"margin-right": "10px"}),
                 dcc.Dropdown(id='select_stressor',
                     options= [{"label": "All", "value": "All"}] +
                         [{"label": str(key), "value": str(key)} for key in stimuliCounts['Stimuli'][:10]],       # Change format from S1 to 1 (as an integer)
@@ -50,13 +55,13 @@ app.layout = html.Div([
                         style={'width': "200px", "margin-right": "10px"}
                 )
             ], style=dict(display='flex')),
-    html.Span([html.P('Minimum Temperature (F)', style={"margin-right":"10px"}),
+    html.Span([html.P('Minimum Temperature (F):', style={"margin-right":"10px"}),
                 dcc.Input(id='tempMin',
                         type='number',
                         value='',
                         style={'width': "75px", "margin-right":"10px", "height": "30px"}
                         ),
-                html.P('Maximum Temperature (F)', style={"margin-right": "10px"}),
+                html.P('Maximum Temperature (F):', style={"margin-right": "10px"}),
                 dcc.Input(id='tempMax',
                         type='number',
                         value='',
@@ -65,17 +70,27 @@ app.layout = html.Div([
             ], style=dict(display='flex')),
     html.H4(html.Div(id='total')),
     html.Br(),
+    html.H3('This dot map is the main visualization.'),
+    html.P('It shows locations of stress reports, stress rating as selected by the participant, the stressor, and temperature.'),
     dcc.Graph(id='map', figure={}),
-    dcc.Graph(id='scatterplot', figure={}),
+    html.Br(), html.Br(), html.Br(),
+    html.H3('Participants may have different perceptions of stress, and may have skewed stress rating reports.'),
+    html.P('You may use the filters above to change the subjects to Subject 25 and Subject 2 to see examples of two different skewed datasets.'),
+    dcc.Graph(id='ratings', figure={}),
+    html.H3('Different temperatures may be a compounding factor and affect the stress reports.'),
+    html.P('Ideally we would want a more even distribution of temperatures ranges.'),
     dcc.Graph(id='hist', figure={}),
-    dcc.Graph(id='ratings', figure={})
-])
+    html.H3('It is expected that more extreme temperatures may lead to more erractic stress reports.'),
+    html.P('Note: This plot is static and does not change with the filters above. This is because each participant walks for two consecutive weeks and do not show a wide range of temperature values.', style={'width': 1000}),
+    # dcc.Graph(id='scatterplot', figure={}),
+    dcc.Graph(id='temp', figure=avgStressScatter)
+    ])
 
 
 # Callback
 @app.callback(
     [Output(component_id='map', component_property='figure'),
-     Output(component_id='scatterplot', component_property='figure'),
+     # Output(component_id='scatterplot', component_property='figure'),
      Output(component_id='hist', component_property='figure'),
      Output(component_id='ratings', component_property='figure'),
      Output(component_id='total', component_property='children')],
@@ -99,7 +114,7 @@ def load_graph(subjectNumber, tempMin, tempMax, stressor):
     figure = px.scatter_mapbox(dff,
                         lat="X Coordinate",
                         lon="Y Coordinate",
-                        hover_data=["Stress Rating", "Temperature (F)", "Element", "Subject Number"],
+                        hover_data={"Stress Rating": True, "Temperature (F)": True, "Element": True, "Subject Number": True, "X Coordinate": False, "Y Coordinate": False},
                         color='Stress Rating',
                         color_discrete_map={'1.0':'green', '2.0':'orange', '3.0':'yellow', '4.0':'purple', '5.0':'red', 'nan':'black'},
                         zoom=8,
@@ -116,8 +131,8 @@ def load_graph(subjectNumber, tempMin, tempMax, stressor):
     bar = px.histogram(dff, x="Stress Rating", text_auto='.2s', title="Stress Rating Frequency")
 
     count = "Count of Stress Reports Displayed: " + str(len(dff))
-    return figure, scatter, hist, bar, count
+    return figure, hist, bar, count
 
 # Run server
 if __name__ == '__main__':
-    app.run(debug=True, use_reloader=True)
+    app.run(debug=False, use_reloader=True)
